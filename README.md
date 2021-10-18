@@ -4,7 +4,7 @@
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
 
 
-## :file_folder: INHALT
+## :file_folder: CONTENT
 - [Archive](#-archive)
 - [Investigation](#-investigation)
 - [Domain & IP Tools](#-domain--ip-tools)
@@ -16,12 +16,12 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 ---
 <br/>
 
-## [↑](#file_folder-inhalt) ARCHIVE
+## [↑](#file_folder-content) ARCHIVE
 - [Internet Archive](https://archive.org/web/ "Internet Archive")
 - [Webpage Archive](https://archive.fo/ "Webpage Archive")
 <br/><br/>
 
-## [↑](#file_folder-inhalt) INVESTIGATION
+## [↑](#file_folder-content) INVESTIGATION
 - [Simple Email Reputation](https://emailrep.io/ "Simple Email Reputation")
 - [OCCRP Aleph](https://data.occrp.org/ "OCCRP Aleph")
 - [Hunter.io](https://hunter.io/ "Hunter.io")
@@ -29,7 +29,7 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 - [Epieos](https://tools.epieos.com/ "Epieos")
 <br/><br/>
 
-## [↑](#file_folder-inhalt) DOMAIN & IP-TOOLS
+## [↑](#file_folder-content) DOMAIN & IP-TOOLS
 - [Certificate Search](https://crt.sh/ "Certificate Search")
 - [Domain Big Data](https://domainbigdata.com/ "Domain Big Data")
 - [Domaintools](https://research.domaintools.com/ "Domaintools")
@@ -46,7 +46,7 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 - [Spyse](https://spyse.com/ "Spyse")
 <br/><br/>
 
-## [↑](#file_folder-inhalt) MAPS & ROUTES
+## [↑](#file_folder-content) MAPS & ROUTES
 - [Open Street Map](https://www.openstreetmap.de/karte.html "Open Street Map")
 - [Open Railway Map](https://www.openrailwaymap.org/ "Open Railway Map")
 - [Mapillary](https://www.mapillary.com/app/ "Mapillary")
@@ -54,7 +54,7 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 - [Suncalc](https://www.suncalc.org/#/51.3805,7.4872,16/2021.10.18/12:32/1/3 "Suncalc")
 <br/><br/>
 
-## [↑](#file_folder-inhalt) LEAKED SOURCES
+## [↑](#file_folder-content) LEAKED SOURCES
 - [Have i been pwned](https://haveibeenpwned.com/ "Have i been pwned")
 - [Breach Checker](https://breachchecker.com/ "Breach Checker")
 - [Intelligence X](https://intelx.io/ "Intelligence X")
@@ -68,7 +68,7 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 - [Scylla](https://scylla.so/ "Scylla")
 <br/><br/>
 
-## [↑](#file_folder-inhalt) CRYPTOCURRENCIES
+## [↑](#file_folder-content) CRYPTOCURRENCIES
 - [Blockchain Explorer](https://www.blockchain.com/explorer/ "Blockchain Explorer")
 - [Blockchair](https://blockchair.com/ "Blockchair")
 <br/><br/>
@@ -76,15 +76,15 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 ---
 <br/>
 
-## [↑](#file_folder-inhalt) RESOURCES
+## [↑](#file_folder-content) RESOURCES
 - [OSINT Dojo](https://www.osintdojo.com/resources/ "OSINT Dojo")
 <br/><br/>
 
-## [↑](#file_folder-inhalt) CONTRIBUTING
+## [↑](#file_folder-content) CONTRIBUTING
 ...
 <br/><br/>
 
-## [↑](#file_folder-inhalt) SOURCES
+## [↑](#file_folder-content) SOURCES
 ...
 <br/><br/>
 
