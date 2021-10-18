@@ -18,6 +18,8 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 - [Cryptocurrencies](#-cryptocurrencies)
 <br/><br/>
 
+:small_red_triangle: = very useful source
+
 ---
 <br/>
 
@@ -39,15 +41,15 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 ## [↑](#file_folder-content) IMAGE SEARCH
 - [Image Identification Project](https://www.imageidentify.com/ "Image Identification Project")
 - [Google Image Search](https://images.google.com/ "Google Image Search")
-- [PimEyes](https://pimeyes.com/en "PimEyes")
+- [PimEyes](https://pimeyes.com/en "PimEyes") :small_red_triangle:
 - [Tineye](https://tineye.com/ "Tineye")
 <br/><br/>
 
 ## [↑](#file_folder-content) DOMAIN & IP-TOOLS
 
-- [Domain Big Data](https://domainbigdata.com/ "Domain Big Data")
+- [Domain Big Data](https://domainbigdata.com/ "Domain Big Data") :small_red_triangle:
 - [Domaintools](https://research.domaintools.com/ "Domaintools")
-- [Centralops](https://centralops.net/co/domaindossier.aspx "Centralops")
+- [Centralops](https://centralops.net/co/domaindossier.aspx "Centralops") :small_red_triangle:
 - [Info Sniper](https://www.infosniper.net/ "Info Sniper")
 - [Who is XML](https://www.whoisxmlapi.com/ "Who is XML")
 - [MX Toolbox](https://mxtoolbox.com/NetworkTools.aspx "MX Toolsbox")
@@ -86,16 +88,16 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 - [Location History Visualizer](https://locationhistoryvisualizer.com/heatmap/ "Location History Visualizer")
 - [Open Street Map](https://www.openstreetmap.de/karte.html "Open Street Map")
 - [Open Railway Map](https://www.openrailwaymap.org/ "Open Railway Map")
-- [Mapillary](https://www.mapillary.com/app/ "Mapillary")
+- [Mapillary](https://www.mapillary.com/app/ "Mapillary") :small_red_triangle:
 - [Satellites](https://satellites.pro/ "Satellites")
 - [Suncalc](https://www.suncalc.org/#/51.3805,7.4872,16/2021.10.18/12:32/1/3 "Suncalc")
 <br/><br/>
 
 ## [↑](#file_folder-content) LEAKED SOURCES
 - [Have i been pwned](https://haveibeenpwned.com/ "Have i been pwned")
-- [Breach Checker](https://breachchecker.com/ "Breach Checker")
-- [Intelligence X](https://intelx.io/ "Intelligence X")
-- [DeHashed](https://dehashed.com/ "DeHashed")
+- [Breach Checker](https://breachchecker.com/ "Breach Checker") :small_red_triangle:
+- [Intelligence X](https://intelx.io/ "Intelligence X") :small_red_triangle:
+- [DeHashed](https://dehashed.com/ "DeHashed") :small_red_triangle:
 - [Ghost Project](https://ghostproject.fr/ "Ghost Project")
 - [We leak info](https://weleakinfo.to/ "We leak info")
 - [Leak Lookup](https://leak-lookup.com/ "Leak Lookup")
@@ -114,7 +116,7 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 <br/>
 
 ## [↑](#file_folder-content) RESOURCES
-- [OSINT Dojo](https://www.osintdojo.com/resources/ "OSINT Dojo")
+- [OSINT Dojo](https://www.osintdojo.com/resources/ "OSINT Dojo") :small_red_triangle:
 <br/><br/>
 
 ## [↑](#file_folder-content) CONTRIBUTING
