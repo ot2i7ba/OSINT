@@ -5,10 +5,18 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 
 
 ## :file_folder: INHALT
+- [Archive](#-archive)
 - [Domain Tools](#-domain-tools)
 - [Investigation](#-investigation)
 - [Leaked Sources](#-leaked-sources)
 <br/><br/>
+
+
+## [↑](#file_folder-inhalt) ARCHIVE
+- [Internet Archive](https://archive.org/web/ "Internet Archive")
+- [Webpage Archive](https://archive.fo/ "Webpage Archive")
+<br/><br/>
+
 
 ## [↑](#file_folder-inhalt) DOMAIN TOOLS
 - [Simple Email Reputation](https://emailrep.io/ "Simple Email Reputation")
