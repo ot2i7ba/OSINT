@@ -6,9 +6,9 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 
 ## :file_folder: INHALT
 - [Archive](#-archive)
+- [Investigation](#-investigation)
 - [Domain & IP Tools](#-domain--ip-tools)
 - [Maps & Routes](#-maps--routes)
-- [Investigation](#-investigation)
 - [Leaked Sources](#-leaked-sources)
 - [Cryptocurrencies](#-cryptocurrencies)
 <br/><br/>
@@ -19,6 +19,14 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 ## [↑](#file_folder-inhalt) ARCHIVE
 - [Internet Archive](https://archive.org/web/ "Internet Archive")
 - [Webpage Archive](https://archive.fo/ "Webpage Archive")
+<br/><br/>
+
+## [↑](#file_folder-inhalt) INVESTIGATION
+- [Simple Email Reputation](https://emailrep.io/ "Simple Email Reputation")
+- [OCCRP Aleph](https://data.occrp.org/ "OCCRP Aleph")
+- [Hunter.io](https://hunter.io/ "Hunter.io")
+- [DeFacer](https://defacer.id/ "DeFacer")
+- [Epieos](https://tools.epieos.com/ "Epieos")
 <br/><br/>
 
 ## [↑](#file_folder-inhalt) DOMAIN & IP-TOOLS
@@ -44,14 +52,6 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 - [Mapillary](https://www.mapillary.com/app/ "Mapillary")
 - [Satellites](https://satellites.pro/ "Satellites")
 - [Suncalc](https://www.suncalc.org/#/51.3805,7.4872,16/2021.10.18/12:32/1/3 "Suncalc")
-<br/><br/>
-
-## [↑](#file_folder-inhalt) INVESTIGATION
-- [Simple Email Reputation](https://emailrep.io/ "Simple Email Reputation")
-- [OCCRP Aleph](https://data.occrp.org/ "OCCRP Aleph")
-- [Hunter.io](https://hunter.io/ "Hunter.io")
-- [DeFacer](https://defacer.id/ "DeFacer")
-- [Epieos](https://tools.epieos.com/ "Epieos")
 <br/><br/>
 
 ## [↑](#file_folder-inhalt) LEAKED SOURCES
