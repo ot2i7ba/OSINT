@@ -12,7 +12,7 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
   - [IP Geolocation](#-ip-geolocation)
   - [DNS Server Tools](#-dns-server-tools)
   - [Certificate Tools](#-certificate-tools)
-  - [URL / Link Infos](#-certificate-tools)
+  - [URL / Link Infos](#-url--link-infos)
 - [Maps & Routes](#-maps--routes)
 - [Leaked Sources](#-leaked-sources)
 - [Cryptocurrencies](#-cryptocurrencies)
@@ -67,6 +67,7 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 <br/><br/>
 
 ## [↑](#file_folder-content) DNS SERVER TOOLS
+- [Security Trails](https://securitytrails.com/dns-trails "Security Trails")
 - [DNS History](http://dnshistory.org/ "DNS History")
 - [Into DNS](https://intodns.com/ "Into DNS")
 - [View DNS](https://viewdns.info/ "View DNS")
