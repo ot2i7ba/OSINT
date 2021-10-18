@@ -10,21 +10,21 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 - [Leaked Sources](#-leaked-sources)
 <br/><br/>
 
-## [∆](#file_folder-inhalt) DOMAIN TOOLS
+## [↑](#file_folder-inhalt) DOMAIN TOOLS
 - [Simple Email Reputation](https://emailrep.io/ "Simple Email Reputation")
 - [OCCRP Aleph](https://data.occrp.org/ "OCCRP Aleph")
 - [Hunter.io](https://hunter.io/ "Hunter.io")
 - [DeFacer](https://defacer.id "DeFacer")
 <br/><br/>
 
-## [∆](#file_folder-inhalt) INVESTIGATION
+## [↑](#file_folder-inhalt) INVESTIGATION
 - [Simple Email Reputation](https://emailrep.io/ "Simple Email Reputation")
 - [OCCRP Aleph](https://data.occrp.org/ "OCCRP Aleph")
 - [Hunter.io](https://hunter.io/ "Hunter.io")
 - [DeFacer](https://defacer.id "DeFacer")
 <br/><br/>
 
-## [∆](#file_folder-inhalt) LEAKED SOURCES
+## [↑](#file_folder-inhalt) LEAKED SOURCES
 - [Have i been pwned](https://haveibeenpwned.com/ "Have i been pwned")
 - [Breach Checker](https://breachchecker.com/ "Breach Checker")
 - [Intelligence X](https://intelx.io/ "Intelligence X")
