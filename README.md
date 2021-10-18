@@ -1,4 +1,6 @@
 # Just another OSINT Collection
+:de: / :gb:
+
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
 
 
@@ -8,7 +10,7 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 - [Leaked Sources](#arrow_up-leaked-sources)
 <br/><br/>
 
-## [:arrow_up:](#file_folder-inhalt) DOMAIN TOOLS
+## [∆](#file_folder-inhalt) DOMAIN TOOLS
 - [Simple Email Reputation](https://emailrep.io/ "Simple Email Reputation")
 - [OCCRP Aleph](https://data.occrp.org/ "OCCRP Aleph")
 - [Hunter.io](https://hunter.io/ "Hunter.io")
