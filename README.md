@@ -9,7 +9,8 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 - [Investigation](#-investigation)
 - [Image Search](#-image-search)
 - [Domain & IP Tools](#-domain--ip-tools)
-- - test
+  - [DNS Server Tools](#-dns-server-tools)
+  - [Certificate Tools](#-certificate-tools)
 - [Maps & Routes](#-maps--routes)
 - [Leaked Sources](#-leaked-sources)
 - [Cryptocurrencies](#-cryptocurrencies)
@@ -56,9 +57,10 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 - [Spyse](https://spyse.com/ "Spyse")
 <br/><br/>
 
-## [↑](#file_folder-content) DNS Tools
+## [↑](#file_folder-content) DNS Server Tools
 - [DNS History](http://dnshistory.org/ "DNS History")
 - [View DNS](https://viewdns.info/ "View DNS")
+- [DNSViz](https://dnsviz.net/ "DNSVis")
 <br/><br/>
 
 ## [↑](#file_folder-content) Certificate Tools
