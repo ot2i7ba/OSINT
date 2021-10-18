@@ -12,6 +12,7 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
   - [IP Geolocation](#-ip-geolocation)
   - [DNS Server Tools](#-dns-server-tools)
   - [Certificate Tools](#-certificate-tools)
+  - [URL / Link Infos](#-certificate-tools)
 - [Maps & Routes](#-maps--routes)
 - [Leaked Sources](#-leaked-sources)
 - [Cryptocurrencies](#-cryptocurrencies)
@@ -47,6 +48,7 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 - [Domain Big Data](https://domainbigdata.com/ "Domain Big Data")
 - [Domaintools](https://research.domaintools.com/ "Domaintools")
 - [Centralops](https://centralops.net/co/domaindossier.aspx "Centralops")
+- [Info Sniper](https://www.infosniper.net/ "Info Sniper")
 - [Who is XML](https://www.whoisxmlapi.com/ "Who is XML")
 - [MX Toolbox](https://mxtoolbox.com/NetworkTools.aspx "MX Toolsbox")
 - [Spy on web](https://spyonweb.com/ "Spy on web")
@@ -66,8 +68,13 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 
 ## [↑](#file_folder-content) DNS SERVER TOOLS
 - [DNS History](http://dnshistory.org/ "DNS History")
+- [Into DNS](https://intodns.com/ "Into DNS")
 - [View DNS](https://viewdns.info/ "View DNS")
 - [DNSViz](https://dnsviz.net/ "DNSVis")
+<br/><br/>
+
+## [↑](#file_folder-content) URL / LINK INFOS
+- [Open Link Profiler](https://www.openlinkprofiler.org/ "Open Link Profiler")
 <br/><br/>
 
 ## [↑](#file_folder-content) CERTIFICATE TOOLS
