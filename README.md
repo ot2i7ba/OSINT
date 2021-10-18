@@ -11,27 +11,21 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 - [Leaked Sources](#-leaked-sources)
 <br/><br/>
 
-
-
-|Name|Link|Info|
-|:---|:---:|:---|
-|Internet Archive| [link](https://archive.org/web/ "Internet Archive")| info|
-|Webpage Archive| [link](https://archive.fo/ "Webpage Archive")| info|
-
-
-
-
 ## [↑](#file_folder-inhalt) ARCHIVE
 - [Internet Archive](https://archive.org/web/ "Internet Archive")
 - [Webpage Archive](https://archive.fo/ "Webpage Archive")
 <br/><br/>
 
+## [↑](#file_folder-inhalt) DOMAIN- / IP-TOOLS
+- [Domain Big Data](https://domainbigdata.com/ "Domain Big Data")
+- [Domaintools](https://research.domaintools.com/ "Domaintools")
+- [Centralops](https://centralops.net/co/domaindossier.aspx "Centralops")
+- [Spyse](https://spyse.com/ "Spyse")
+- [Who is](https://who.is/ "Who is")
+- [Whoxy](https://www.whoxy.com/ "Whoxy")
+- [Centralops](https://centralops.net/co/domaindossier.aspx "Centralops")
+- [Utrace](http://www.utrace.de/ "Utrace")
 
-## [↑](#file_folder-inhalt) DOMAIN TOOLS
-- [Simple Email Reputation](https://emailrep.io/ "Simple Email Reputation")
-- [OCCRP Aleph](https://data.occrp.org/ "OCCRP Aleph")
-- [Hunter.io](https://hunter.io/ "Hunter.io")
-- [DeFacer](https://defacer.id "DeFacer")
 <br/><br/>
 
 ## [↑](#file_folder-inhalt) INVESTIGATION
@@ -55,10 +49,8 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 - [Scylla](https://scylla.so/ "Scylla")
 <br/><br/>
 
-
 ## BEITRAGEN
 <br/><br/>
-
 
 ## QUELLEN
 <br/><br/>
