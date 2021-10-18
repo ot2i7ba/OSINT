@@ -6,7 +6,7 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 
 ## :file_folder: INHALT
 - [Archive](#-archive)
-- [Domain Tools](#-domain-tools)
+- [Domain Tools](#-domain---tools)
 - [Investigation](#-investigation)
 - [Leaked Sources](#-leaked-sources)
 <br/><br/>
