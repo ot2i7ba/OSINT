@@ -58,19 +58,19 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 - [Spyse](https://spyse.com/ "Spyse")
 <br/><br/>
 
-## [↑](#file_folder-content) IP Geolocation
+## [↑](#file_folder-content) IP GEOLOCATION
 - [IP Location](https://www.iplocation.net/ "IP Location")
 - [IP 2 Location](https://www.ip2location.com/demo/ "IP 2 Location")
 - [IP 2 Geolocation](https://ip2geolocation.com/ "IP 2 Geolocation")
 <br/><br/>
 
-## [↑](#file_folder-content) DNS Server Tools
+## [↑](#file_folder-content) DNS SERVER TOOLS
 - [DNS History](http://dnshistory.org/ "DNS History")
 - [View DNS](https://viewdns.info/ "View DNS")
 - [DNSViz](https://dnsviz.net/ "DNSVis")
 <br/><br/>
 
-## [↑](#file_folder-content) Certificate Tools
+## [↑](#file_folder-content) CERTIFICATE TOOLS
 - [Certificate Search](https://crt.sh/ "Certificate Search")
 <br/><br/>
 
