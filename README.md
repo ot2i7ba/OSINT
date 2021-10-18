@@ -16,16 +16,17 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 - [Webpage Archive](https://archive.fo/ "Webpage Archive")
 <br/><br/>
 
-## [↑](#file_folder-inhalt) DOMAIN- / IP-TOOLS
+## [↑](#file_folder-inhalt) DOMAIN & IP-TOOLS
 - [Domain Big Data](https://domainbigdata.com/ "Domain Big Data")
 - [Domaintools](https://research.domaintools.com/ "Domaintools")
 - [Centralops](https://centralops.net/co/domaindossier.aspx "Centralops")
-- [Spyse](https://spyse.com/ "Spyse")
+- [MX Toolbox](https://mxtoolbox.com/NetworkTools.aspx "MX Toolsbox")
+- [View DNS](https://viewdns.info/ "View DNS")
+- [URL Scan](https://urlscan.io/ "URL Scan")
+- [Utrace](http://www.utrace.de/ "Utrace")
 - [Who is](https://who.is/ "Who is")
 - [Whoxy](https://www.whoxy.com/ "Whoxy")
-- [Centralops](https://centralops.net/co/domaindossier.aspx "Centralops")
-- [Utrace](http://www.utrace.de/ "Utrace")
-
+- [Spyse](https://spyse.com/ "Spyse")
 <br/><br/>
 
 ## [↑](#file_folder-inhalt) INVESTIGATION
