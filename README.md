@@ -9,8 +9,8 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 - [Domain & IP Tools](#-domain--ip-tools)
 - [Maps & Routes](#-maps--routes)
 - [Investigation](#-investigation)
-- [Cryptocurrencies](#-cryptocurrencies)
 - [Leaked Sources](#-leaked-sources)
+- [Cryptocurrencies](#-cryptocurrencies)
 <br/><br/>
 
 ---
@@ -54,11 +54,6 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 - [Epieos](https://tools.epieos.com/ "Epieos")
 <br/><br/>
 
-## [↑](#file_folder-inhalt) CRYPTOCURRENCIES
-- [Blockchain Explorer](https://www.blockchain.com/explorer/ "Blockchain Explorer")
-- [Blockchair](https://blockchair.com/ "Blockchair")
-<br/><br/>
-
 ## [↑](#file_folder-inhalt) LEAKED SOURCES
 - [Have i been pwned](https://haveibeenpwned.com/ "Have i been pwned")
 - [Breach Checker](https://breachchecker.com/ "Breach Checker")
@@ -71,6 +66,11 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 - [Leak Peek](https://leakpeek.to/ "Leak Peek")
 - [SnusBase](https://snusbase.com/ "SnusBase")
 - [Scylla](https://scylla.so/ "Scylla")
+<br/><br/>
+
+## [↑](#file_folder-inhalt) CRYPTOCURRENCIES
+- [Blockchain Explorer](https://www.blockchain.com/explorer/ "Blockchain Explorer")
+- [Blockchair](https://blockchair.com/ "Blockchair")
 <br/><br/>
 
 ## BEITRAGEN
