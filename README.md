@@ -73,10 +73,19 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 - [Blockchair](https://blockchair.com/ "Blockchair")
 <br/><br/>
 
-## BEITRAGEN
+---
+<br/>
+
+## [↑](#file_folder-inhalt) RESOURCES
+- [OSINT Dojo](https://www.osintdojo.com/resources/ "OSINT Dojo")
 <br/><br/>
 
-## QUELLEN
+## [↑](#file_folder-inhalt) CONTRIBUTING
+...
+<br/><br/>
+
+## [↑](#file_folder-inhalt) SOURCES
+...
 <br/><br/>
 
 
