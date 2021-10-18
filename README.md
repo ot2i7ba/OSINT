@@ -20,6 +20,8 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 ## [↑](#file_folder-content) ARCHIVE
 - [Internet Archive](https://archive.org/web/ "Internet Archive")
 - [Webpage Archive](https://archive.fo/ "Webpage Archive")
+- [Cached Pages](http://www.cachedpages.com/ "Cached Pages")
+- [Cached View](http://cachedview.com/ "Cached View")
 <br/><br/>
 
 ## [↑](#file_folder-content) INVESTIGATION
@@ -38,20 +40,28 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 <br/><br/>
 
 ## [↑](#file_folder-content) DOMAIN & IP-TOOLS
-- [Certificate Search](https://crt.sh/ "Certificate Search")
+
 - [Domain Big Data](https://domainbigdata.com/ "Domain Big Data")
 - [Domaintools](https://research.domaintools.com/ "Domaintools")
 - [Centralops](https://centralops.net/co/domaindossier.aspx "Centralops")
 - [Who is XML](https://www.whoisxmlapi.com/ "Who is XML")
 - [MX Toolbox](https://mxtoolbox.com/NetworkTools.aspx "MX Toolsbox")
 - [Spy on web](https://spyonweb.com/ "Spy on web")
-- [View DNS](https://viewdns.info/ "View DNS")
 - [URL Scan](https://urlscan.io/ "URL Scan")
 - [IP Info](https://ipinfo.io/ "IP Info")
 - [Utrace](http://www.utrace.de/ "Utrace")
 - [Who is](https://who.is/ "Who is")
 - [Whoxy](https://www.whoxy.com/ "Whoxy")
 - [Spyse](https://spyse.com/ "Spyse")
+<br/><br/>
+
+## [↑](#file_folder-content) DNS Tools
+- [DNS History](http://dnshistory.org/ "DNS History")
+- [View DNS](https://viewdns.info/ "View DNS")
+<br/><br/>
+
+## [↑](#file_folder-content) Certificate Tools
+- [Certificate Search](https://crt.sh/ "Certificate Search")
 <br/><br/>
 
 ## [↑](#file_folder-content) MAPS & ROUTES
