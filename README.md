@@ -41,8 +41,8 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 ## [↑](#file_folder-inhalt) MAPS & ROUTES
 - [Open Street Map](https://www.openstreetmap.de/karte.html "Open Street Map")
 - [Open Railway Map](https://www.openrailwaymap.org/ "Open Railway Map")
-- [Satellites](https://satellites.pro/ "Satellites")
 - [Mapillary](https://www.mapillary.com/app/ "Mapillary")
+- [Satellites](https://satellites.pro/ "Satellites")
 - [Suncalc](https://www.suncalc.org/#/51.3805,7.4872,16/2021.10.18/12:32/1/3 "Suncalc")
 <br/><br/>
 
