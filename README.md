@@ -69,6 +69,7 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 - [Spy on web](https://spyonweb.com/ "Spy on web")
 - [URL Scan](https://urlscan.io/ "URL Scan")
 - [IP Info](https://ipinfo.io/ "IP Info")
+- [Spamcop](https://www.spamcop.net/bl.shtml "Spy on web")
 - [Utrace](http://www.utrace.de/ "Utrace")
 - [Who is](https://who.is/ "Who is")
 - [Whoxy](https://www.whoxy.com/ "Whoxy")
