@@ -3,6 +3,7 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 <br/><br/>
 
 ## :file_folder: CONTENT
+
 - [Archive](#-archive)
 - [Investigation](#-investigation)
 - [Image Search](#-image-search)
@@ -12,14 +13,26 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
   - [Certificate Tools](#-certificate-tools)
   - [URL / Link Infos](#-url--link-infos)
 - [Maps & Routes](#-maps--routes)
-- [Leaked Sources](#-leaked-sources)
 - [Cryptocurrencies](#-cryptocurrencies)
+- [Leaked Sources](#-leaked-sources)
+  - [Leaked Sources Tools](#-leaked-sources-tools)
+- **[Tools](#-tools)**
+  - [Passiv Recon Tools](#-passive-recon-tools)
 <br/><br/>
 
 :small_red_triangle: = very useful source
 
 ---
 <br/>
+
+## [↑](#file_folder-content) PASSIVE RECON TOOLS
+- [The Harvester](https://github.com/laramies/theHarvester "The Harvester")
+- [Spiderfoot](https://www.spiderfoot.net/ "Spiderfoot")
+- [Recon-NG](https://github.com/lanmaster53/recon-ng "SRecon-NG")
+- [Maltego](https://www.maltego.com/ "Maltego")
+- [Scrapy](https://scrapy.org/ "Scrapy")
+- [Shodan](https://www.shodan.io/ "Shodan")
+<br/><br/>
 
 ## [↑](#file_folder-content) ARCHIVE
 - [Internet Archive](https://archive.org/web/ "Internet Archive")
@@ -45,8 +58,10 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 
 ## [↑](#file_folder-content) DOMAIN & IP-TOOLS
 
+- [Hurricane Electric BGP](https://bgp.he.net/ "Hurricane Electric BGP") :small_red_triangle:
 - [Domain Big Data](https://domainbigdata.com/ "Domain Big Data") :small_red_triangle:
 - [Domaintools](https://research.domaintools.com/ "Domaintools")
+- [ICANN Lookup](https://lookup.icann.org/ "ICANN Lookup") :small_red_triangle:
 - [Centralops](https://centralops.net/co/domaindossier.aspx "Centralops") :small_red_triangle:
 - [Info Sniper](https://www.infosniper.net/ "Info Sniper")
 - [Who is XML](https://www.whoisxmlapi.com/ "Who is XML")
@@ -105,6 +120,13 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 - [Scylla](https://scylla.so/ "Scylla")
 <br/><br/>
 
+## [↑](#file_folder-content) LEAKED SOURCES TOOLS
+- [WhatBreach](https://github.com/Ekultek/WhatBreach "WhatBreach")
+- [Scavenger](https://github.com/rndinfosecguy/Scavenger "Scavenger")
+- [H8mail](https://github.com/khast3x/h8mail "H8mail")
+- [pwnDB](https://github.com/davidtavarez/pwndb "pwnDB")
+<br/><br/>
+
 ## [↑](#file_folder-content) CRYPTOCURRENCIES
 - [Blockchain Explorer](https://www.blockchain.com/explorer/ "Blockchain Explorer")
 - [Blockchair](https://blockchair.com/ "Blockchair")
@@ -114,6 +136,8 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 <br/>
 
 ## [↑](#file_folder-content) RESOURCES
+- [Google Hacking](https://www.exploit-db.com/google-hacking-database "Google Hacking") :small_red_triangle:
+- [IntelTechniques](https://inteltechniques.com/ "IntelTechniques") :small_red_triangle:
 - [OSINT Dojo](https://www.osintdojo.com/resources/ "OSINT Dojo") :small_red_triangle:
 <br/><br/>
 
