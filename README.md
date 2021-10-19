@@ -16,7 +16,7 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 - [Cryptocurrencies](#-cryptocurrencies)
 - [Leaked Sources](#-leaked-sources)
   - [Leaked Sources Tools](#-leaked-sources-tools)
-- **[Tools](#-tools)**
+- [Tools](#-tools)
   - [Passiv Recon Tools](#-passive-recon-tools)
 <br/><br/>
 
@@ -110,7 +110,7 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 ## [↑](#file_folder-content) LEAKED SOURCES
 - [Have i been pwned](https://haveibeenpwned.com/ "Have i been pwned")
 - [Breach Checker](https://breachchecker.com/ "Breach Checker") :small_red_triangle:
-- [Intelligence X](https://intelx.io/ "Intelligence X") :small_red_triangle:
+- [IntelligenceX](https://intelx.io/ "IntelligenceX") :small_red_triangle:
 - [DeHashed](https://dehashed.com/ "DeHashed") :small_red_triangle:
 - [Ghost Project](https://ghostproject.fr/ "Ghost Project")
 - [We leak info](https://weleakinfo.to/ "We leak info")
