@@ -15,7 +15,7 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 - [Maps & Routes](#-maps--routes)
 - [Cryptocurrencies](#-cryptocurrencies)
 - [Social Network](#-social-network)
-  - [Facebook ID](#-social-network-ids)
+  - [Social Network IDs](#-social-network-ids)
 - [Leaked Sources](#-leaked-sources)
   - [Leaked Sources Tools](#-leaked-sources-tools)
 - [Tools](#-tools)
