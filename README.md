@@ -5,9 +5,10 @@
 </div>
 
 
-# Just another OSINT Collection
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
-<br/><br/>
+# Nur eine andere #OSINT Sammlung
+> Das hier ist meine Sammlung! Es gibt viele andere, aber diese gehört mir! Meine Sammlung ist mir die beste Hilfe! Sie ist mein Werkzeug! Ich muss sie pflegen, wie ich mein Werkzeug pflegen muss! Ohne euch ist meine Sammlung nutzlos! Ohne mein Werkzeug bin auch ich nutzlos! [...] (inspired by Full Metal Jacket)
+
+Angelehnt an einem Zitat aus dem Film Full Metal Jacket, möchte ich zum Ausdruck bringen, das es sich bei dieser Sammlung mit Bezug zum Thema OSINT (Open Source Intelligence) um meine persönliche Zusammenstellung handelt, welche mir ein wichtiges Werkzeug bei meiner täglichen Arbeit ist. Für Tipps zu interessanten Links, welche hier nicht fehlen dürfen, bin ich sehr dankbar.
 
 ## :file_folder: CONTENT
 - [Archive](archive.md)
