@@ -1,28 +1,26 @@
-# Little OSINT Collection
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
-<br/><br/>
+<div id="top"></div>
 
-## :file_folder: CONTENT
-- [Archive](#-archive)
-- [Investigation](#-investigation)
-- [Image Search](#-image-search)
-- [Domain & IP Tools](#-domain--ip-tools)
-  - [IP Geolocation](#-ip-geolocation)
-  - [DNS Server Tools](#-dns-server-tools)
-  - [Certificate Tools](#-certificate-tools)
-  - [URL / Link Infos](#-url--link-infos)
-- [Maps & Routes](#-maps--routes)
-- [Cryptocurrencies](#-cryptocurrencies)
-- [Social Network](#-social-network)
-  - [Social Network IDs](#-social-network-ids)
-- [Leaked Sources](#-leaked-sources)
-  - [Leaked Sources Tools](#-leaked-sources-tools)
-- [Tools](#-tools)
-  - [Passiv Recon Tools](#-passive-recon-tools)
-<br/><br/>
+# ℹ️ ARCHIVE
+Eine Sammlung von Links zu Werkzeugen, welche das Durchsuchen von digital archivierten Webseiten ermöglicht. Dadurch können beispielsweise ehemals existierende Versionen von Inhalten einer spezifischen Domain eingesehen werden.<br/><br/>
 
-## [↑](#file_folder-content) ARCHIVE
-- [Internet Archive](https://archive.org/web/ "Internet Archive")
+## 📑 BOOKMARKS
+
+
+- [Quick Cache and Archive Search](https://cipher387.github.io/quickcacheandarchivesearch/)
+- [WayBack Machine](https://archive.org/web/ "WayBack Maschine")
 - [Webpage Archive](https://archive.fo/ "Webpage Archive")
+- [Archive Today](https://archive.md/ "Archive Today")
 - [Cached Pages](http://www.cachedpages.com/ "Cached Pages")
 - [Cached View](http://cachedview.com/ "Cached View")
+
+
+
+
+<br/><br/>
+<div align="left">
+  <a href="https://github.com/ot2i7ba/OSINT/blob/main/README.md"><img alt="README German" src="https://img.shields.io/badge/README-German-lightgrey.svg?style=for-the-badge"></a>
+  <a href="https://twitter.com/intent/follow?screen_name=ot2i7ba"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/ot2i7ba?style=for-the-badge"></a>
+</div>
+
+---
+> :de: **Haftungsausschluss**: Diese Linksammlung enthält Links zu externen Websites Dritter, auf deren Inhalte ich keinen Einfluss habe. Deshalb kann ich für diese fremden Inhalte auch keine Gewähr übernehmen. Für die Inhalte der verlinkten Seiten ist stets der jeweilige Anbieter oder Betreiber der Seiten verantwortlich. Die verlinkten Seiten wurden zum Zeitpunkt der Verlinkung auf mögliche Rechtsverstöße überprüft. Rechtswidrige Inhalte waren zum Zeitpunkt der Verlinkung nicht erkennbar. Eine permanente inhaltliche Kontrolle der verlinkten Seiten ist jedoch ohne konkrete Anhaltspunkte einer Rechtsverletzung nicht zumutbar. Bei Bekanntwerden von Rechtsverletzungen werde ich derartige Links umgehend entfernen.
