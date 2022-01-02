@@ -2,7 +2,7 @@
   <a href="https://github.com/ot2i7ba/OSINT/"><img alt="ZURÜCK" src="https://img.shields.io/badge/ZURÜCK-lightgrey.svg?style=for-the-badge"></a>
 </div>
 
-# ℹ️ E-MAILS
+# ℹ️ E-MAIL INTELLIGENCE
 Eine Sammlung von Links zu Werkzeugen, welche Recherchen zu Mail-Adressen ermöglichen. Werkzeuge, welche E-Mail-Adressen identifizieren, validieren und Verbindungen zu weiteren Online-Diensten aufzeigen.
 <br/><br/>
 
