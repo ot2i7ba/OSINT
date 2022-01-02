@@ -5,11 +5,13 @@
 # ℹ️ ARCHIVE
 Eine Sammlung von Links zu Werkzeugen, welche das Durchsuchen von digital archivierten Webseiten ermöglicht. Dadurch können beispielsweise ehemals existierende Versionen von Inhalten einer spezifischen Domain eingesehen werden.<br/><br/>
 
-## 📑 BOOKMARKS
+## 📑 WEB ARCHIVE
 - [Quick Cache and Archive Search](https://cipher387.github.io/quickcacheandarchivesearch/)
 - [WayBack Machine](https://archive.org/web/ "WayBack Maschine")
 - [Webpage Archive](https://archive.fo/ "Webpage Archive")
 - [Archive Today](https://archive.md/ "Archive Today")
+
+## 📑 CACHE VIEWER
 - [Cached Pages](http://www.cachedpages.com/ "Cached Pages")
 - [Cached View](http://cachedview.com/ "Cached View")
 
