@@ -18,7 +18,7 @@ Angelehnt an einem Zitat aus dem Film Full Metal Jacket, möchte ich zum Ausdruc
 | [E-Mail Intelligence](emails.md) | Recherchetools zu E-Mail-Adressen. Recon, Validierung & Services. |
 | [Domain & IP-Tools](domains.md) | Informationsgewinnung zu Domains & IP-Adressen. |
 | [Foto- & Bildersuche](imagesearch.md) | Fotos und Bilder online suchen und identifizieren. |
-| [Karten & Routen](maps.md) | Digitales Kartenmaterial und Werkzeuge zur Routenplanung. |
+| [Karten & Routen](maps.md) | Digitales Kartenmaterial und Routenplanung. |
 | [Geolokalisierung](geolocation.md) | List all new or modified files |
 | [Cryptocurrencies](cryptocurrencies.md) | List all new or modified files |
 | [Social Networks](social_networks.md) | List all new or modified files |
