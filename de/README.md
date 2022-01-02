@@ -17,7 +17,7 @@ Angelehnt an einem Zitat aus dem Film Full Metal Jacket, möchte ich zum Ausdruc
 | [Web Archive](archive.md) | Durchsuchen von Sammlungen digital archivierter Webseiten. |
 | [E-Mail Intelligence](emails.md) | Recherchetools zu E-Mail-Adressen. Recon, Validierung & Services. |
 | [Domain & IP-Tools](domains.md) | Informationsgewinnung zu Domains & IP-Adressen. |
-| [Foto- & Bildersuche](imagesearch.md) | List all new or modified files |
+| [Foto- & Bildersuche](imagesearch.md) | Fotos und Bilder online suchen und identifizieren. |
 | [Karten & Routen](maps.md) | Digitales Kartenmaterial und Werkzeuge zur Routenplanung. |
 | [Geolokalisierung](geolocation.md) | List all new or modified files |
 | [Cryptocurrencies](cryptocurrencies.md) | List all new or modified files |
