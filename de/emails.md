@@ -29,6 +29,7 @@ Eine Sammlung von Links zu Werkzeugen, welche Recherchen zu Mail-Adressen ermög
 - [Github, Holehe](https://github.com/megadose/holehe "Github, Holehe")
 - [Github, Mailcat](https://github.com/sharsil/mailcat "Github, Mailcat")
 - [Github, GHunt](https://github.com/mxrch/ghunt "Github, GHunt")
+- [Lampyre](https://lampyre.io/ "Lampyre.io")
 
 ## 📑 WEITERE API TOOLS
 - [Epieos Tools](https://tools.epieos.com/ "Epieos Tools")
