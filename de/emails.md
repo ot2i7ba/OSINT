@@ -14,7 +14,7 @@ Eine Sammlung von Links zu Werkzeugen, welche Recherchen zu Mail-Adressen ermög
 - [AnyMAilFinder](https://anymailfinder.com/ "AnyMailFinder")
 - [Rocket Reach](https://rocketreach.co/ "Rocket Reach")
 
-## 📑 E-MAIL VERIFICATION
+## 📑 E-MAIL VERIFIZIEREN
 - [Simple Email Reputation](https://emailrep.io/ "Simple Email Reputation")
 - [Verify E-Mail](https://verify-email.org/ "Verify E-Mail")
 - [E-Mail Hippo](https://tools.emailhippo.com/ "E-Mail Hippo")
