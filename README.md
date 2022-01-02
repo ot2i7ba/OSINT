@@ -27,12 +27,26 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 ---
 <br/>
 
+<style>
+table th:first-of-type {
+    width: 10%;
+}
+table th:nth-of-type(2) {
+    width: 10%;
+}
+table th:nth-of-type(3) {
+    width: 50%;
+}
+table th:nth-of-type(4) {
+    width: 30%;
+}
+</style>
 
 ## [↑](#file_folder-content) PASSIVE RECON TOOLS
 
 
 | <div style="width:500px">Name</div> | Link | Description |
-| --- | --- | --- |
+| :-- | :-- | :-- |
 | The Harvester | [Link](https://github.com/laramies/theHarvester "The Harvester") | List all new or modified files |
 | Spiderfoot | [Link](https://www.spiderfoot.net/ "Spiderfoot") | List all new or modified files |
 | Recon-NH | [Link](https://github.com/lanmaster53/recon-ng "SRecon-NG") | List all new or modified files |
