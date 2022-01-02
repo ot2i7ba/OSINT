@@ -31,7 +31,7 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 ## [↑](#file_folder-content) PASSIVE RECON TOOLS
 
 
-| <div style="width:290px">Name</div> | Link | Description |
+| <div style="width:500px">Name</div> | Link | Description |
 | --- | --- | --- |
 | The Harvester | [Link](https://github.com/laramies/theHarvester "The Harvester") | List all new or modified files |
 | Spiderfoot | [Link](https://www.spiderfoot.net/ "Spiderfoot") | List all new or modified files |
