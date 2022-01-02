@@ -10,19 +10,23 @@
 
 Angelehnt an einem Zitat aus dem Film Full Metal Jacket, möchte ich zum Ausdruck bringen, das es sich bei dieser Sammlung mit Bezug zum Thema OSINT (Open Source Intelligence) um meine persönliche Zusammenstellung handelt, welche mir ein wichtiges Werkzeug bei meiner täglichen Arbeit ist. Für Tipps zu interessanten Links, welche hier nicht fehlen dürfen, bin ich sehr dankbar.
 
-## :file_folder: CONTENT
-- [Archive](archive.md)
-- [Investigation](investigation.md)
-- [Image Search](image_search.md)
-- [Domain & IP-Tools](domain_ip-tools.md)
-- [Maps & Routes](maps_routes.md)
-- [Cryptocurrencies](cryptocurrencies.md)
-- [Social Networks](social_networks.md)
-- [Leaked Sources](leaked_sources.md)
-- [Telegram](telegram.md)
-- [Tools](tools.md)
-<br/><br/>
 
+## :file_folder: CONTENT
+
+| Name | Beschreibung |
+| :-- | :-- |
+| [Archive](archive.md) | List all new or modified files |
+| [Investigation](investigation.md) | List all new or modified files |
+| [Image Search](image_search.md) | List all new or modified files |
+| [Domain & IP-Tools](domain_ip-tools.md) | List all new or modified files |
+| [Maps & Routes](maps_routes.md) | List all new or modified files |
+| [Cryptocurrencies](cryptocurrencies.md) | List all new or modified files |
+| [Social Networks](social_networks.md) | List all new or modified files |
+| [Leaked Sources](leaked_sources.md) | List all new or modified files |
+| [Telegram](telegram.md) | List all new or modified files |
+| [Tools](tools.md) | List all new or modified files |
+
+<br/>
 ## :file_folder: CREDITS
 [nixintel](https://github.com/nixintel), [cipher387](https://github.com/cipher387), [soxoj](https://github.com/soxoj)
 
