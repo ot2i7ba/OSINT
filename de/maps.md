@@ -21,8 +21,17 @@ Eine Sammlung von Links zu Werkzeugen, welche digitales Kartenmaterial und Route
 - [Mapillary](https://www.mapillary.com/app/ "Mapillary")
 - [360 Cities](https://www.360cities.net/map "360 Cities")
 
+## 📑 SOZIALE NETZWERKE
+- [I Know where yout cat lives](https://iknowwhereyourcatlives.com/ "I know where your cat lives")
+- [Trendsmap](https://www.trendsmap.com/map "Twitter Trending Hashtags")
+- [YT Geofind](https://mattw.io/youtube-geofind/ "Youtube Geofind")
+- [Snap Map](https://map.snapchat.com/ "Snapchat Map")
+- [Flickr Map](https://www.flickr.com/map "Flickr Map")
+- [Skylens](https://app.skylens.io/ "Skylens")
+
 ## 📑 SONSTIGES
 - [Submarine Cable Map](https://www.submarinecablemap.com/ "Submarine Cable Map")
+- [Retro Photo Map](https://pastvu.com/ "Retro Photo Map")
 - [OSM Buildings](https://osmbuildings.org/ "OSM Buildings")
 - [Open Wifi Map](https://openwifimap.net/ "Open Wifi Map")
 - [Open Cell ID](https://opencellid.org/ "Open Cell ID")
