@@ -5,4 +5,9 @@
 </div>
 
 <br/><br/>
-# WORK IN PROGRESS
+# Just another #OSINT collection
+> This is my collection. There are many others like it, but this one is mine. My collection is the best help to me! It is my tool. I must take care of it as I have to take care of my tools. Without you, my collection is useless. Without my tools, I am useless!<br/> (inspired by Full Metal Jacket)
+
+Based on this quote from the film Full Metal Jacket, I would like to express that this collection related to OSINT (Open Source Intelligence) is my personal compilation, which is an important tool in my daily work. I am very grateful for tips on interesting tools, which should not be missing here.
+
+# SRY, WORK IN PROGRESS
