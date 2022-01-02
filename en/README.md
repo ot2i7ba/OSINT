@@ -10,4 +10,4 @@
 
 Based on this quote from the film Full Metal Jacket, I would like to express that this collection related to OSINT (Open Source Intelligence) is my personal compilation, which is an important tool in my daily work. I am very grateful for tips on interesting tools, which should not be missing here.
 
-# SRY, WORK IN PROGRESS
+# SORRY ENGLISH VERSION IS IN PROGRESS
