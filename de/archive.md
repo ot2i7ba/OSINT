@@ -6,14 +6,18 @@
 Eine Sammlung von Links zu Werkzeugen, welche das Durchsuchen von digital archivierten Webseiten ermöglicht. Dadurch können beispielsweise ehemals existierende Versionen von Inhalten einer spezifischen Domain eingesehen werden.<br/><br/>
 
 ## 📑 WEB ARCHIVE
-- [Quick Cache and Archive Search](https://cipher387.github.io/quickcacheandarchivesearch/)
-- [WayBack Machine](https://archive.org/web/ "WayBack Maschine")
-- [Webpage Archive](https://archive.fo/ "Webpage Archive")
-- [Archive Today](https://archive.md/ "Archive Today")
+- **[Quick Cache and Archive Search](https://cipher387.github.io/quickcacheandarchivesearch/)** [^1] <br/>
+Ein Tool zur parallelen Suche in bis zu 25+ Archiven und im Cache mittels 10+ Suchmaschinen.
+- **[WayBack Machine](https://archive.org/web/ "WayBack Maschine")**<br/>
+Das bekannte Internet Archiv ermöglicht die Suche in 640 Billionen Webseiten.
+- **[Webpage Archive](https://archive.fo/ "Webpage Archive")**<br/>
+Ermöglicht wie die WayBack Machine das Durchsuchen und digitale Speichern im Archiv.
 
 ## 📑 CACHE VIEWER
-- [Cached Pages](http://www.cachedpages.com/ "Cached Pages")
-- [Cached View](http://cachedview.com/ "Cached View")
+- **[Cached View](http://cachedview.com/ "Cached View")**<br/>
+Sucht nach Inhalten einer Domain im möglicherweise vorhandenen Google-Cache.
+- **[Cached Pages](http://www.cachedpages.com/ "Cached Pages")**<br/>
+Sucht nach Inhalten einer Domain in möglicherweise vorhandenen Caches.
 
 <br/><br/>
 <div align="left">
@@ -23,3 +27,5 @@ Eine Sammlung von Links zu Werkzeugen, welche das Durchsuchen von digital archiv
 
 ---
 > :de: **Haftungsausschluss**: Diese Linksammlung enthält Links zu externen Websites Dritter, auf deren Inhalte ich keinen Einfluss habe. Deshalb kann ich für diese fremden Inhalte auch keine Gewähr übernehmen. Für die Inhalte der verlinkten Seiten ist stets der jeweilige Anbieter oder Betreiber der Seiten verantwortlich. Die verlinkten Seiten wurden zum Zeitpunkt der Verlinkung auf mögliche Rechtsverstöße überprüft. Rechtswidrige Inhalte waren zum Zeitpunkt der Verlinkung nicht erkennbar. Eine permanente inhaltliche Kontrolle der verlinkten Seiten ist jedoch ohne konkrete Anhaltspunkte einer Rechtsverletzung nicht zumutbar. Bei Bekanntwerden von Rechtsverletzungen werde ich derartige Links umgehend entfernen.
+
+[^1]: [cipher387](https://github.com/cipher387 "cipher387")
