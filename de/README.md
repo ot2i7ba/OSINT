@@ -18,12 +18,12 @@ Angelehnt an einem Zitat aus dem Film Full Metal Jacket, möchte ich zum Ausdruc
 | [Domain & IP-Tools](domains.md) | Informationsgewinnung zu Domains & IP-Adressen. |
 | [Foto- & Bildersuche](imagesearch.md) | Fotos und Bilder online suchen und identifizieren. |
 | [Karten & Routen](maps.md) | Digitales Kartenmaterial und Routenplanung. |
-| [Geolokalisierung](geolocation.md) | List all new or modified files |
-| [Cryptocurrencies](cryptocurrencies.md) | List all new or modified files |
-| [Social Networks](social_networks.md) | List all new or modified files |
-| [Leaked Sources](leaked_sources.md) | List all new or modified files |
-| [Telegram](telegram.md) | List all new or modified files |
-| [Tools](tools.md) | List all new or modified files |
+| [Geolokalisierung](README.md) | --- |
+| [Cryptocurrencies](README.md) | --- |
+| [Social Networks](README.md) | --- |
+| [Leaked Sources](README.md) | --- |
+| [Telegram](README.md) | --- |
+| [Tools](README.md) | --- |
 
 <br/><br/>
 ## :file_folder: ANERKENNUNG
