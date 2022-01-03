@@ -7,22 +7,32 @@ Eine Sammlung von Links zu Werkzeugen, welche dabei helfen, vorhandene Fotos und
 <br/><br/>
 
 ## 📑 BILDER SUCHEN
-- [Google Image Search](https://images.google.com/ "Google Image Search")
-- [Portrait Matcher](http://zeus.robots.ox.ac.uk/portraitmatcher/index "Portrait Matcher")
-- [Reverse Search](https://www.revesesearch.com/ "Reverse Search")
-- [Lampyre](https://lampyre.io/ "Lampyre.io")
-- [PimEyes](https://pimeyes.com/en "PimEyes")
-- [Tineye](https://tineye.com/ "Tineye")
+- **[Google Image Search](https://images.google.com/ "Google Image Search")**<br/>
+Die normale, breite Bildersuche mittels Google Suchmaschine.
+- **[Portrait Matcher](http://zeus.robots.ox.ac.uk/portraitmatcher/index "Portrait Matcher")**<br/>
+Rückwärtssuche nach Portrait-Fotos der Visual Geometry Group.
+- **[Reverse Search](https://www.revesesearch.com/ "Reverse Search")**<br/>
+Rückwärtssuche nach visuell ähnliche Bilder im Internet.
+- **[Lampyre](https://lampyre.io/ "Lampyre.io")**<br/>
+Rückwärtssuche nach Profilbildern. Ein Account wird benötigt!
+- **[PimEyes](https://pimeyes.com/en "PimEyes")**<br/>
+Gesichtserkennung sucht visuell ähnliche Fotos. Account wird benötigt!
+- **[Tineye](https://tineye.com/ "Tineye")**<br/>
+Eine weitere Möglichkeit der umgekehrten Bildersuche.
 
 ## 📑 EXIF ANALYSE
-- [Exif App](https://exif.app/ "Exif App")
+- **[Exif App](https://exif.app/ "Exif App")**<br/>
+Exif-Daten online einsehen und Unterschiede feststellen.
 
 ## 📑 BILDER IDENTIFIZIEREN
-- [Image Identification Project](https://www.imageidentify.com/ "Image Identification Project")
-- [PlantNet Identify](https://identify.plantnet.org/de "PlantNet Identify")
+- **[Image Identification Project](https://www.imageidentify.com/ "Image Identification Project")**<br/>
+Dienst zur Identifizierung von Objekten in Fotos.
+- **[PlantNet Identify](https://identify.plantnet.org/de "PlantNet Identify")**<br/>
+Dienst zur Identifizierung von Pflanzen auf Fotos.
 
 ## 📑 SONSTIGES
-- [Dotspotter](https://www.forensicdots.de/ "Dotspotter")
+- **[Dotspotter](https://www.forensicdots.de/ "Dotspotter")**<br/>
+Identifiziert Tracking-Dots (MIC) auf einem gescannten Dokument.
 
 <br/><br/>
 <div align="left">
