@@ -7,36 +7,58 @@ Eine Sammlung von Links zu Werkzeugen, welche digitales Kartenmaterial und Route
 <br/><br/>
 
 ## 📑 FREIES KARTENMATERIAL
-- [Open Street Map](https://www.openstreetmap.de/karte.html "Open Street Map")
-- [Open Railway Map](https://www.openrailwaymap.org/ "Open Railway Map")
+- **[Open Street Map](https://www.openstreetmap.de/karte.html "Open Street Map")**<br/>
+OpenStreetMap ist ein im Jahre 2004 gegründetes Projekt mit dem Ziel, eine freie Weltkarte zu erschaffen.
+- **[Open Railway Map](https://www.openrailwaymap.org/ "Open Railway Map")**<br/>
+Eine detaillierte Online-Karte der weltweiten Eisenbahninfrastruktur, welche auf OpenStreetMap-Daten basiert.
 
 ## 📑 DIGITALE KARTEN
-- [Google Earth](https://earth.google.com/web/ "Google Earth")
-- [Zoom Earth](https://zoom.earth/ "Zoom Earth")
-- [Satellites](https://satellites.pro/ "Satellites")
+- **[Google Earth](https://earth.google.com/web/ "Google Earth")**<br/>
+Google Satelliten- und Luftbilder unterschiedlicher Auflösung als Web-Version.
+- **[Zoom Earth](https://zoom.earth/ "Zoom Earth")**<br/>
+Satellitenbilder, Regenradar, Verfolgung von Hurrikans, Waldbrände und Wetter in Echtzeit.
+- **[Satellites](https://satellites.pro/ "Satellites")**<br/>
+Vereint Apple Map, Open Street Map, Google Maps, Esri Maps, MapBox und Yandex Map.
 
 ## 📑 ROUTEN SICHTEN
-- [Show My Street](https://showmystreet.com/ "Show My Street")
-- [KarteView](https://kartaview.org/map/ "KartaView")
-- [Mapillary](https://www.mapillary.com/app/ "Mapillary")
-- [360 Cities](https://www.360cities.net/map "360 Cities")
+- **[Show My Street](https://showmystreet.com/ "Show My Street")**<br/>
+Ein Google Streetview Explorer welcher veröffentlichte Bilder als 360° Panoramen anzeigt.
+- **[KarteView](https://kartaview.org/map/ "KartaView")**<br/>
+Interaktive Karte, welche das virtuelle Abfahren von Strecken ermöglicht und diese als Foto darstellt.
+- **[Mapillary](https://www.mapillary.com/app/ "Mapillary")**<br/>
+Wie KarteView, jedoch umfangreicher mit angenehmen Servicefunktionen wie Streckendarstellung als Slideshow.
+- **[360 Cities](https://www.360cities.net/map?lang=de "360 Cities")**<br/>
+Teilweise hochauflösende 360° Panorama-Ansichten vieler Örtlichkeiten.
 
 ## 📑 SOZIALE NETZWERKE
-- [I Know where yout cat lives](https://iknowwhereyourcatlives.com/ "I know where your cat lives")
-- [Trendsmap](https://www.trendsmap.com/map "Twitter Trending Hashtags")
-- [YT Geofind](https://mattw.io/youtube-geofind/ "Youtube Geofind")
-- [Snap Map](https://map.snapchat.com/ "Snapchat Map")
-- [Flickr Map](https://www.flickr.com/map "Flickr Map")
-- [Skylens](https://app.skylens.io/ "Skylens")
+- **[I Know where yout cat lives](https://iknowwhereyourcatlives.com/ "I know where your cat lives")**<br/>
+Zeit im Internet veröffentlichte Katzenbilder anhand deren Meta-Daten auf einer Karte an.
+- **[Trendsmap](https://www.trendsmap.com/map "Twitter Trending Hashtags")**<br/>
+Zeigt Twitter Trends der letzten 7 Tage anhand von Hashtags auf einer Karte an.
+- **[Youtube Geofind](https://mattw.io/youtube-geofind/ "Youtube Geofind")**<br/>
+Zeigt auf Youtube veröffentlichte Videos auf einer Karte an. Eine lokale Suche möglich.
+- **[Snap Map](https://map.snapchat.com/ "Snapchat Map")**<br/>
+Heatmap zeigt veröffentlichte Snapchat Beiträge anhand von Meta-Daten auf einer Karte.
+- **[Flickr Map](https://www.flickr.com/map "Flickr Map")**<br/>
+Zeigt auf Flickr veröffentlichte Bilder auf einer Karte an.
+- **[Skylens](https://app.skylens.io/ "Skylens")**<br/>
+Zeigt Beiträge aus Twitter, Youtube, Instagram, Flickr, kontakte und Weibo auf einer Karte an.
 
 ## 📑 SONSTIGES
-- [Submarine Cable Map](https://www.submarinecablemap.com/ "Submarine Cable Map")
-- [Retro Photo Map](https://pastvu.com/ "Retro Photo Map")
-- [OSM Buildings](https://osmbuildings.org/ "OSM Buildings")
-- [Open Wifi Map](https://openwifimap.net/ "Open Wifi Map")
-- [Open Cell ID](https://opencellid.org/ "Open Cell ID")
-- [Webcam Taxi](https://www.webcamtaxi.com/en/germany.html "Webcam Taxi")
-- [Wigle](https://www.wigle.net/ "Wireless Network Mapping")
+- **[Submarine Cable Map](https://www.submarinecablemap.com/ "Submarine Cable Map")**<br/>
+Kostenlose Karte von TeleGeography, welche Unterseekabel darstellt.
+- **[Retro Photo Map](https://pastvu.com/ "Retro Photo Map")**<br/>
+Stellt historische Fotoaufnahmen zu Örtlichkeiten auf einer Karte dar.
+- **[OSM Buildings](https://osmbuildings.org/ "OSM Buildings")**<br/>
+Kostenloser und quelloffener Webviewer für 3D-Gebäude. Unterstützt OpenStreetMap-Tagging-Schemata.
+- **[Open Wifi Map](https://openwifimap.net/ "Open Wifi Map")**<br/>
+Stellt offene WiFi Netze anhand derer Position auf einer Karte dar.
+- **[Open Cell ID](https://opencellid.org/ "Open Cell ID")**<br/>
+Darstellung von Mobilfunkdatensätzen zur Ermittlung von Position und Abdeckung von Sendemasten.
+- **[Webcam Taxi](https://www.webcamtaxi.com/en/germany.html "Webcam Taxi")**<br/>
+Darstellung frei zugänglicher Webcams auf einer Karte.
+- **[Wigle](https://www.wigle.net/ "Wireless Network Mapping")**<br/>
+Darstellung von WiFi und Bluetooth Netzen auf einer Karte. Rückwärtssuche anhand von MAC möglich.
 
 <br/><br/>
 <div align="left">
