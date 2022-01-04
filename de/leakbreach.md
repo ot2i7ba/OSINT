@@ -1,0 +1,36 @@
+<div align="left">
+  <a href="https://github.com/ot2i7ba/OSINT/blob/main/de/"><img alt="ZURÜCK" src="https://img.shields.io/badge/ZURÜCK-lightgrey.svg?style=for-the-badge"></a>
+</div>
+
+# ℹ️ LEAKED SOURCES
+...<br/><br/>
+
+## 📑 ONLINE ABFRAGEN
+- **[Have i been pwned](https://haveibeenpwned.com/ "Have i been pwned")**<br/>
+...
+- **[Breach Checker](https://breachchecker.com/ "Breach Checker")**<br/>
+...
+- **[IntelligenceX](https://intelx.io/ "IntelligenceX")**<br/>
+...
+- **[DeHashed](https://dehashed.com/ "DeHashed")**<br/>
+...
+- **[Ghost Project](https://ghostproject.fr/ "Ghost Project")**<br/>
+...
+- **[We leak info](https://weleakinfo.to/ "We leak info")**<br/>
+...
+- **[Leak Lookup](https://leak-lookup.com/ "Leak Lookup")**<br/>
+...
+- **[Leak Check](https://leakcheck.io/ "Leak Check")**<br/>
+...
+- **[Leak Peek](https://leakpeek.to/ "Leak Peek")**<br/>
+...
+- **[SnusBase](https://snusbase.com/ "SnusBase")**<br/>
+...
+- **[Scylla](https://scylla.so/ "Scylla")**<br/>
+...
+
+<br/><br/>
+<div align="left">
+  <a href="https://github.com/ot2i7ba/OSINT/blob/main/en/README.md"><img alt="README English" src="https://img.shields.io/badge/README-English-lightgrey.svg?style=for-the-badge"></a>
+  <a href="https://twitter.com/intent/follow?screen_name=ot2i7ba"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/ot2i7ba?logo=twitter&logoColor=white&style=for-the-badge"></a>
+</div>
