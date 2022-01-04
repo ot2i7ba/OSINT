@@ -19,7 +19,7 @@ Angelehnt an einem Zitat aus dem Film Full Metal Jacket, möchte ich zum Ausdruc
 | [Geolokalisierung](geolocation.md) | --- |
 | [Soziale Netzwerke](socialnetworks.md) | --- |
 | [Leaked Sources](leakbreach.md) | --- |
-| [Cryptocurrencies](README.md) | --- |
+| [Kryptowährungen](cryptocurrencies.md) | --- |
 | [Web Archive](archive.md) | Durchsuchen von Sammlungen digital archivierter Webseiten. |
 | [Werkzeuge](tools.md) | Sammlung von Programmen, Skripten, Anleitungen & Infos. |
 | [Telegram](telegram.md) | Hilfreiche Kanäle und Bots für Telegram. |
