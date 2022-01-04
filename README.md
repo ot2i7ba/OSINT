@@ -9,3 +9,8 @@
 ##### 👉 Use [README ENGLISH](en/README.md) for english Comments. 🚧 This collection is under construction!
 
 # WORK IN PROGRESS
+
+
+<br/><br/>
+## :file_folder: CREDITS
+[nixintel](https://github.com/nixintel), [cipher387](https://github.com/cipher387), [soxoj](https://github.com/soxoj)
