@@ -22,5 +22,5 @@ Angelehnt an einem Zitat aus dem Film Full Metal Jacket, möchte ich zum Ausdruc
 | [Cryptocurrencies](README.md) | --- |
 | [Social Networks](README.md) | --- |
 | [Leaked Sources](README.md) | --- |
-| [Telegram](README.md) | --- |
 | [Werkzeuge](tools.md) | Sammlung von Programmen, Skripten, Anleitungen & Infos. |
+| [Telegram](telegram.md) | Hilfreiche Kanäle und Bots für Telegram. |
