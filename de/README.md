@@ -16,7 +16,7 @@ Angelehnt an einem Zitat aus dem Film Full Metal Jacket, möchte ich zum Ausdruc
 | [Domain & IP-Tools](domains.md) | Informationsgewinnung zu Domains & IP-Adressen. |
 | [Foto- & Bildersuche](images.md) | Fotos und Bilder online suchen und identifizieren. |
 | [Karten & Routen](maps.md) | Digitales Kartenmaterial und Routenplanung. |
-| [Geolokalisierung](README.md) | --- |
+| [Geolokalisierung](geolocation.md) | --- |
 | [Social Networks](README.md) | --- |
 | [Leaked Sources](README.md) | --- |
 | [Cryptocurrencies](README.md) | --- |
