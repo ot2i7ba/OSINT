@@ -43,6 +43,14 @@ Sammelt informationen anhand von E-Mail, Nutzername, Twitter, Instagram und mehr
 Tool zum Durchsuchen von Standard-Anmeldeinformationen für Netzwerkgeräte und mehr. Von [Viralmaniar](https://github.com/Viralmaniar "Viralmaniar").
 - **[leakScraper](https://github.com/Acceis/leakScraper "leakScraper")**<br/>
 Tools zur Verarbeitung und Visualisierung großer Textdateien wie Kombolisten. Von [Acceis](https://github.com/Acceis "Acceis").
+- **[WhatBreach](https://github.com/Ekultek/WhatBreach "WhatBreach")**<br/>
+...
+- **[Scavenger](https://github.com/rndinfosecguy/Scavenger "Scavenger")**<br/>
+...
+- **[H8mail](https://github.com/khast3x/h8mail "H8mail")**<br/>
+...
+- **[pwnDB](https://github.com/davidtavarez/pwndb "pwnDB")**<br/>
+...
 
 ## 📑 DORK AUTOMATISIERUNG
 - **[Fast Google Dorks Scan](https://github.com/IvanGlinkin/Fast-Google-Dorks-Scan "Fast Google Dorks Scan")**<br/>
