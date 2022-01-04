@@ -13,14 +13,14 @@ Angelehnt an einem Zitat aus dem Film Full Metal Jacket, möchte ich zum Ausdruc
 ## :file_folder: INHALT
 | Name | Beschreibung |
 | :-- | :-- |
-| [Web Archive](archive.md) | Durchsuchen von Sammlungen digital archivierter Webseiten. |
 | [E-Mail Intelligence](emails.md) | Recherchetools zu E-Mail-Adressen. Recon, Validierung & Services. |
 | [Domain & IP-Tools](domains.md) | Informationsgewinnung zu Domains & IP-Adressen. |
 | [Foto- & Bildersuche](images.md) | Fotos und Bilder online suchen und identifizieren. |
 | [Karten & Routen](maps.md) | Digitales Kartenmaterial und Routenplanung. |
 | [Geolokalisierung](README.md) | --- |
-| [Cryptocurrencies](README.md) | --- |
 | [Social Networks](README.md) | --- |
 | [Leaked Sources](README.md) | --- |
+| [Cryptocurrencies](README.md) | --- |
+| [Web Archive](archive.md) | Durchsuchen von Sammlungen digital archivierter Webseiten. |
 | [Werkzeuge](tools.md) | Sammlung von Programmen, Skripten, Anleitungen & Infos. |
 | [Telegram](telegram.md) | Hilfreiche Kanäle und Bots für Telegram. |
