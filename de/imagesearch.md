@@ -20,15 +20,15 @@ Gesichtserkennung sucht visuell ähnliche Fotos. Account wird benötigt!
 - **[Tineye](https://tineye.com/ "Tineye")**<br/>
 Eine weitere Möglichkeit der umgekehrten Bildersuche.
 
-## 📑 EXIF ANALYSE
-- **[Exif App](https://exif.app/ "Exif App")**<br/>
-Exif-Daten online einsehen und Unterschiede feststellen.
-
 ## 📑 BILDER IDENTIFIZIEREN
 - **[Image Identification Project](https://www.imageidentify.com/ "Image Identification Project")**<br/>
 Dienst zur Identifizierung von Objekten in Fotos.
 - **[PlantNet Identify](https://identify.plantnet.org/de "PlantNet Identify")**<br/>
 Dienst zur Identifizierung von Pflanzen auf Fotos.
+
+## 📑 EXIF ANALYSE
+- **[Exif App](https://exif.app/ "Exif App")**<br/>
+Exif-Daten online einsehen und Unterschiede feststellen.
 
 ## 📑 SONSTIGES
 - **[Dotspotter](https://www.forensicdots.de/ "Dotspotter")**<br/>
