@@ -8,52 +8,53 @@ Eine Sammlung von Programmen, Skripten und inhaltsbezogen Kollektionen, welche O
 
 ## 📑 OSINT KOLLEKTIONEN
 - **[OSINT tools collection](https://github.com/cipher387/osint_stuff_tool_collection "OSINT tools collection")**<br/>
-Eine sehr umfangreiche und gut gepflegte Sammlung; von [cipher387](https://github.com/cipher387 "cipher387").
+Eine sehr umfangreiche und gut gepflegte Sammlung. Von [cipher387](https://github.com/cipher387 "cipher387").
+- **[Dorks collections list](https://github.com/cipher387/Dorks-collections-list "Open source security tools")**<br/>
+Umfangreiche Sammlung zum Thema Google Dorks / Google Hacking. Von [cipher387](https://github.com/cipher387 "cipher387").
 - **[OSINT namecheckers list](https://github.com/soxoj/osint-namecheckers-list "OSINT namecheckers list")**<br/>
-Eine Sammlung von Tools, welche speziell die Recherchen zu Nutzernamen erleichtern.; von [soxoj](https://github.com/soxoj "soxoj").
+Eine Sammlung von Tools, welche speziell die Recherchen zu Nutzernamen erleichtern. Von [soxoj](https://github.com/soxoj "soxoj").
 - **[OSINT for Netstalking](https://github.com/netstalking-core/netstalking-osint "OSINT for Netstalking")**<br/>
-Diese Sammlung verweist auf Grundwissen, Anleitungen und Tools; von [netstalking-core](https://github.com/netstalking-core "netstalking-core").
+Diese Sammlung verweist auf Grundwissen, Anleitungen und Tools. Von [netstalking-core](https://github.com/netstalking-core "netstalking-core").
 - **[Awesome Telegram OSINT](https://github.com/ItIsMeCall911/Awesome-Telegram-OSINT "Awesome Telegram OSINT")**<br/>
-Eine Sammlung von OSINT Tools für den Instant-Messaging-Dienst Telegram; von [ItIsMeCall911](https://github.com/ItIsMeCall911 "ItIsMeCall911").
+Eine Sammlung von OSINT Tools für den Instant-Messaging-Dienst Telegram. Von [ItIsMeCall911](https://github.com/ItIsMeCall911 "ItIsMeCall911").
 - **[Open source security tools](https://github.com/CaledoniaProject/awesome-opensource-security "Open source security tools")**<br/>
-Eine umfangreiche und gute gepflegte Liste von Open Source Tools; von [CaledoniaProject](https://github.com/CaledoniaProject "CaledoniaProject").
+Eine umfangreiche und gute gepflegte Liste von Open Source Tools. Von [CaledoniaProject](https://github.com/CaledoniaProject "CaledoniaProject").
+- **[Avoiding bot detection](https://github.com/niespodd/browser-fingerprinting "Avoiding bot detection")**<br/>
+Bot-Erkennung vermeiden: Wie kann man das Web durchsuchen, ohne blockiert zu werden? Von [Dariusz Niespodziany](https://github.com/niespodd "Dariusz Niespodziany").
 
 ## 📑 NUTZERNAMEN
 - **[Maigret](https://github.com/soxoj/maigret "Maigret")**<br/>
-Sammelt Informationen anhand von Nutzernamen, unterstützt 2500+ Seiten. Auch als [EXE](https://github.com/soxoj/maigret/releases "EXE") für Windows; von [soxoj](https://github.com/soxoj "soxoj").
+Sammelt Informationen anhand von Nutzernamen, unterstützt 2500+ Seiten. Auch als [EXE](https://github.com/soxoj/maigret/releases "EXE") für Windows. Von [soxoj](https://github.com/soxoj "soxoj").
 
 ## 📑 SOZIALE NETZWERKE
 - **[XingDumper](https://github.com/l4rm4nd/XingDumper "Telegram Nearby Map")**<br/>
-Skript zum Dumpen von Unternehmensmitarbeitern aus der XING-API; von [l4rm4nd](https://github.com/l4rm4nd "l4rm4nd").
+Skript zum Dumpen von Unternehmensmitarbeitern aus der XING-API. Von [l4rm4nd](https://github.com/l4rm4nd "l4rm4nd").
 
 ## 📑 MESSAGING DIENSTE
 - **[Telegram Nearby Map](https://github.com/tejado/telegram-nearby-map "Telegram Nearby Map")**<br/>
-Verwendet OpenStreetMap und die offizielle Telegram-Bibliothek, um die Position von Benutzern in der Nähe darzustellen; von [tejado](https://github.com/tejado "tejado").
+Stellt die Position von Benutzern in der Nähe auf einer Karte dar. Von [tejado](https://github.com/tejado "tejado").
 
 ## 📑 MULTITOOLS
 - **[Project iKy](https://github.com/kennbroorg/iKy "Project iKy")**<br/>
-Sammelt informationen anhand von E-Mail, Nutzername, Twitter, Instagram etc. und stell diese visuell dar; von [Kenn Brothers Org](https://github.com/kennbroorg "Kenn Brothers Org").
+Sammelt informationen anhand von E-Mail, Nutzername, Twitter, Instagram und mehr. Von [Kenn Brothers Org](https://github.com/kennbroorg "Kenn Brothers Org").
 
+## 📑 "LEAKED" SOURCES
+- **[Passhunt](https://github.com/Viralmaniar/Passhunt "Passhunt")**<br/>
+Tool zum Durchsuchen von Standard-Anmeldeinformationen für Netzwerkgeräte und mehr. Von [Viralmaniar](https://github.com/Viralmaniar "Viralmaniar").
+- **[leakScraper](https://github.com/Acceis/leakScraper "leakScraper")**<br/>
+Tools zur Verarbeitung und Visualisierung großer Textdateien wie Kombolisten. Von [Acceis](https://github.com/Acceis "Acceis").
 
+## 📑 DORK AUTOMATISIERUNG
+- **[Fast Google Dorks Scan](https://github.com/IvanGlinkin/Fast-Google-Dorks-Scan "Fast Google Dorks Scan")**<br/>
+Automatisierte Nutzung von Google Dork Suchkombinationen sammelt Informationen zu einer Webseite. Von [Ivan Glinkin](https://github.com/IvanGlinkin "Ivan Glinkin").
+- **[0xdork](https://github.com/rlyonheart/oxdork "Fast Google Dorks Scan")**<br/>
+Verwendet Google-Dorks, um Sicherheitslücken und Fehlkonfigurationen zu finden. Von [Richard Mwewa](https://github.com/rlyonheart "Richard Mwewa").
 
-
-
-
-
-
-
-https://github.com/Acceis/leakScraper
-https://github.com/IvanGlinkin/Fast-Google-Dorks-Scan
-https://github.com/rlyonheart/0xdork
-https://github.com/cipher387/Dorks-collections-list
-https://github.com/ankitdobhal/Ashok
-https://github.com/geekan/scrapy-examples
-https://github.com/karthik997/Forensic_Toolkit
-https://github.com/pyhackertarget/hackertarget
-https://github.com/Viralmaniar/Passhunt
-https://github.com/rlyonheart/thelordseye
-https://github.com/niespodd/browser-fingerprinting
-
+## 📑 PENETRATION
+- **[Ashok](https://github.com/ankitdobhal/Ashok "Ashok")**<br/>
+Ein unglaublich schnelles Aufklärungstool für Penetrationstester. Von [powerexploit](https://github.com/powerexploit "powerexploit").
+- **[HackerTarget ToolKit](https://github.com/pyhackertarget/hackertarget "HackerTarget ToolKit")**<br/>
+Sammelt informationen anhand von E-Mail, Nutzername, Twitter, Instagram und mehr. Von [Hacker Target](https://github.com/pyhackertarget "Hacker Target").
 
 <br/><br/>
 <div align="left">
