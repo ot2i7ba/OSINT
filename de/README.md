@@ -23,7 +23,7 @@ Angelehnt an einem Zitat aus dem Film Full Metal Jacket, möchte ich zum Ausdruc
 | [Social Networks](README.md) | --- |
 | [Leaked Sources](README.md) | --- |
 | [Telegram](README.md) | --- |
-| [Tools](README.md) | --- |
+| [Werkzeuge](tools.md) | --- |
 
 <br/><br/>
 ## :file_folder: ANERKENNUNG
