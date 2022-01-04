@@ -6,7 +6,7 @@
 Eine Sammlung von Programmen, Skripten und inhaltsbezogen Kollektionen, welche OSINT Recherchen erleichtern.
 <br/><br/>
 
-## 📑 OSINT KOLLEKTIONEN
+## 📑 NÜTZLICHE KOLLEKTIONEN
 - **[OSINT tools collection](https://github.com/cipher387/osint_stuff_tool_collection "OSINT tools collection")**<br/>
 Eine sehr umfangreiche und gut gepflegte Sammlung. Von [cipher387](https://github.com/cipher387 "cipher387").
 - **[Dorks collections list](https://github.com/cipher387/Dorks-collections-list "Open source security tools")**<br/>
