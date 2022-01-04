@@ -17,7 +17,7 @@ Angelehnt an einem Zitat aus dem Film Full Metal Jacket, möchte ich zum Ausdruc
 | [Foto- & Bildersuche](images.md) | Fotos und Bilder online suchen und identifizieren. |
 | [Karten & Routen](maps.md) | Digitales Kartenmaterial und Routenplanung. |
 | [Geolokalisierung](geolocation.md) | --- |
-| [Social Networks](README.md) | --- |
+| [Soziale Netzwerke](socialnetworks.md) | --- |
 | [Leaked Sources](README.md) | --- |
 | [Cryptocurrencies](README.md) | --- |
 | [Web Archive](archive.md) | Durchsuchen von Sammlungen digital archivierter Webseiten. |
