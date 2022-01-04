@@ -12,14 +12,14 @@ Angelehnt an einem Zitat aus dem Film Full Metal Jacket, möchte ich zum Ausdruc
 ## :file_folder: INHALT
 | Name | Beschreibung |
 | :-- | :-- |
-| [E-Mail Intelligence](emails.md) | Recherchetools zu E-Mail-Adressen. Recon, Validierung & Services. |
-| [Domain & IP-Tools](domains.md) | Informationsgewinnung zu Domains & IP-Adressen. |
-| [Foto- & Bildersuche](images.md) | Fotos und Bilder online suchen und identifizieren. |
-| [Karten & Routen](maps.md) | Digitales Kartenmaterial und Routenplanung. |
-| [Geolokalisierung](geolocation.md) | --- |
-| [Soziale Netzwerke](socialnetworks.md) | --- |
-| [Leaked Sources](leakbreach.md) | --- |
-| [Kryptowährungen](cryptocurrencies.md) | --- |
-| [Web Archive](archive.md) | Durchsuchen von Sammlungen digital archivierter Webseiten. |
-| [Werkzeuge](tools.md) | Sammlung von Programmen, Skripten, Anleitungen & Infos. |
-| [Telegram](telegram.md) | Hilfreiche Kanäle und Bots für Telegram. |
+| [E-Mail Intelligence](md/emails.md) | Recherchetools zu E-Mail-Adressen. Recon, Validierung & Services. |
+| [Domain & IP-Tools](md/domains.md) | Informationsgewinnung zu Domains & IP-Adressen. |
+| [Foto- & Bildersuche](md/images.md) | Fotos und Bilder online suchen und identifizieren. |
+| [Karten & Routen](md/maps.md) | Digitales Kartenmaterial und Routenplanung. |
+| [Geolokalisierung](md/geolocation.md) | --- |
+| [Soziale Netzwerke](md/socialnetworks.md) | --- |
+| [Leaked Sources](md/leakbreach.md) | --- |
+| [Kryptowährungen](md/cryptocurrencies.md) | --- |
+| [Web Archive](md/archive.md) | Durchsuchen von Sammlungen digital archivierter Webseiten. |
+| [Werkzeuge](md/tools.md) | Sammlung von Programmen, Skripten, Anleitungen & Infos. |
+| [Telegram](md/telegram.md) | Hilfreiche Kanäle und Bots für Telegram. |
