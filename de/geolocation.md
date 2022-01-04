@@ -5,11 +5,9 @@
 # ℹ️ GEOLOKALISIERUNG
 ...<br/><br/>
 
-## 📑 FREIES KARTENMATERIAL
-- **[Open Street Map](https://www.openstreetmap.de/karte.html "Open Street Map")**<br/>
-OpenStreetMap ist ein im Jahre 2004 gegründetes Projekt mit dem Ziel, eine freie Weltkarte zu erschaffen.
-
-
+## 📑 LICHT UND SCHATTEN
+- **[Suncalc](https://www.suncalc.org/#/51.3805,7.4872,16/2021.10.18/12:32/1/3 "Suncalc")**<br/>
+Darstellung von Sonnenbewegung und Sonnenphasen zu einem spezifischen Ort.
 
 <br/><br/>
 <div align="left">
