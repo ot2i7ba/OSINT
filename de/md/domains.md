@@ -93,6 +93,8 @@ Ebenfalls ein Google Dork Service, jedoch nicht mehr ganz aktuell.
 Sicherheitscheck auf bekannte Schwachstellen und HTTP-Sicherheitsheader.
 
 ## 📑 TECHNIK CHECK
+- **[Privacy Inspector](https://themarkup.org/blacklight/ "Backlight Privacy Inspector")**<br/>
+Zeigt die spezifischen Technologien zur Benutzerverfolgung auf der Website an.
 - **[Wappalyzer](https://www.wappalyzer.com/ "Wappalyzer")**<br/>
 Ein Dienst zur Identifizierung eingesetzter Technik einer Webseite.
 - **[BuildWith](https://builtwith.com/de/ "BuildWith")**<br/>
