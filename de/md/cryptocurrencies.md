@@ -9,7 +9,9 @@ Verfolgung und Analyse der Verbreitung von Kryptowährungen. Mit diesen Diensten
 - **[Blockchain Explorer](https://www.blockchain.com/explorer/ "Blockchain Explorer")**<br/>
 Blockchain-Informationen für Bitcoin (BTC), einschließlich historischer Preise.
 - **[Blockchair](https://blockchair.com/ "Blockchair")**<br/>
-Ein Blockchain-Explorer, Analyse- und Webdienste.
+Ein Blockchain-Explorer, Analyse- und Webdienste,unterstützt mehrere Währungen.
+- **[Etherscan](https://etherscan.io/ "Etherscan")**<br/>
+Der Ethereum (ETH) Blockchain Explorer.
 
 <br/><br/>
 <div align="left">
