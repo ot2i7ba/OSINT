@@ -25,4 +25,4 @@ This is my personal OSINT collection, which specially helps me with my work. The
 
 <br/><br/>
 ## :file_folder: GRÜßE / CREDITS
-[nixintel](https://github.com/nixintel), [cipher387](https://github.com/cipher387), [soxoj](https://github.com/soxoj)
+PPHA, [nixintel](https://github.com/nixintel), [cipher387](https://github.com/cipher387), [soxoj](https://github.com/soxoj)
