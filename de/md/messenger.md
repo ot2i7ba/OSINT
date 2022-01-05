@@ -8,6 +8,8 @@ Open Source Intelligence Werkzeuge für Recherchen zu Instant Messaging Diensten
 ## 📑 SKYPE
 - **[Epieos Tools](https://tools.epieos.com/skype.php "Epieos Tools - Skype Lookup")**<br/>
 Suche nach Skype Benutzern unter Verwendung von E-Mail-Adresse, Nutzernamen oder Rufnummer.
+- **[Skypli](https://skypli.com/ "Skypli")**<br/>
+Ohne Skype-Konten nach Skype-Benutzern suchen, deren Profile durchsuchen und vieles mehr.
 
 <br/><br/>
 <div align="left">
