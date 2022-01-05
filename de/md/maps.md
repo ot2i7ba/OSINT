@@ -45,6 +45,8 @@ Zeigt auf Flickr veröffentlichte Bilder auf einer Karte an.
 Zeigt Beiträge aus Twitter, Youtube, Instagram, Flickr, kontakte und Weibo auf einer Karte an.
 
 ## 📑 SONSTIGES
+- **[Newspaper Map](https://newspapermap.com/ "Newspaper Map")**<br/>
+Zeigt auf einer Karte an, welche Zeitung aus einer bestimmten Region kommt.
 - **[Submarine Cable Map](https://www.submarinecablemap.com/ "Submarine Cable Map")**<br/>
 Kostenlose Karte von TeleGeography, welche Unterseekabel darstellt.
 - **[Retro Photo Map](https://pastvu.com/ "Retro Photo Map")**<br/>
@@ -59,6 +61,9 @@ Darstellung von Mobilfunkdatensätzen zur Ermittlung von Position und Abdeckung 
 Darstellung frei zugänglicher Webcams auf einer Karte.
 - **[Wigle](https://www.wigle.net/ "Wireless Network Mapping")**<br/>
 Darstellung von WiFi und Bluetooth Netzen auf einer Karte. Rückwärtssuche anhand von MAC möglich.
+
+
+
 
 <br/><br/>
 <div align="left">
