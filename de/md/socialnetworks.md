@@ -3,17 +3,19 @@
 </div>
 
 # ℹ️ SOZIALE NETZWERKE
-...<br/><br/>
+Werkzeuge die dabei helfen, Informationen aus sozialen Netzwerken zu sammeln.<br/><br/>
 
 ## 📑 ERMITTLUNG VON PROFIL IDS
-- **[Facebook ID](https://lookup-id.com/# "Facebook ID")**<br/>
-...
+- **[Find My FBID](https://findmyfbid.in/ "Find My FBID")**<br/>
+Findet Facebook ID eines Nutzers. Unterstützt mehrere Netzwerke.
+- **[Facebook ID](https://lookup-id.com/ "Facebook ID")**<br/>
+Ermittelt Facebook Profil ID, Gruppen ID und Seiten ID.
 - **[Instagram ID](https://codeofaninja.com/tools/find-instagram-user-id/ "Instagram ID")**<br/>
-...
+Ermittelt die Instagram Profil ID eines Nutzers.
 - **[Twitter ID](https://tweeterid.com/ "Twitter ID")**<br/>
-...
+Ermittelt Twitter Profil ID. Rückwärtssuche nach Profil ID möglich.
 - **[TikTok ID](https://www.instafollowers.co/find-tiktok-user-id "TikTok ID")**<br/>
-...
+Ermittelt TikTok Profil ID. Unterstützt auch andere Netzwerke.
 
 <br/><br/>
 <div align="left">
