@@ -16,9 +16,9 @@ Angelehnt an einem Zitat aus dem Film Full Metal Jacket, möchte ich zum Ausdruc
 | [E-Mail Intelligence](md/emails.md) | Recherchetools zu E-Mail-Adressen. Recon, Validierung & Services. |
 | [Domain & IP-Tools](md/domains.md) | Informationsgewinnung zu Domains & IP-Adressen. |
 | [Foto- & Bildersuche](md/images.md) | Fotos und Bilder online suchen und identifizieren. |
-| [Karten & Routen](md/maps.md) | Digitales Kartenmaterial und Routenplanung. |
-| [Geolokalisierung](md/geolocation.md) | --- |
-| [Soziale Netzwerke](md/socialnetworks.md) | --- |
+| [Karten & Routen](md/maps.md) | Digitales Kartenmaterial und Routenplanung Siehe [auch](md/geolocation.md "Geolokalisierung"). |
+| [Geolokalisierung](md/geolocation.md) | Identifizierung von Aufnahmeorte und Aufnahmezeit. Siehe [auch](md/maps.md "Geolokalisierung"). |
+| [Soziale Netzwerke](md/socialnetworks.md) | Werkzeuge für die Recherche in sozialen Netzwerken. |
 | [Leaked Sources](md/leakbreach.md) | Leaked Sources & Breaches als Informationsquelle. |
 | [Kryptowährungen](md/cryptocurrencies.md) | Verfolgung und Analyse der Verbreitung von Kryptowährungen. |
 | [Web Archive](md/archive.md) | Durchsuchen von Sammlungen digital archivierter Webseiten. |
