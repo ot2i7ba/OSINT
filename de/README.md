@@ -22,8 +22,9 @@ Um meinen Kollegen die Arbeit mit meiner Sammlung zu erleichtern, werde ich den 
 | [Karten & Routen](md/maps.md) | Digitales Kartenmaterial und Routenplanung Siehe [auch](md/geolocation.md "Geolokalisierung"). |
 | [Geolokalisierung](md/geolocation.md) | Identifizierung von Aufnahmeorte und Aufnahmezeit. Siehe [auch](md/maps.md "Geolokalisierung"). |
 | [Soziale Netzwerke](md/socialnetworks.md) | Werkzeuge für die Recherche in sozialen Netzwerken. |
+| [Messenger Dienste](md/messenger.md) | Tools für Instant Messaging Dienste. |
 | [Leaked Sources](md/leakbreach.md) | Leaked Sources & Breaches als Informationsquelle. |
 | [Kryptowährungen](md/cryptocurrencies.md) | Verfolgung und Analyse der Verbreitung von Kryptowährungen. |
 | [Web Archive](md/archive.md) | Durchsuchen von Sammlungen digital archivierter Webseiten. |
 | [Werkzeuge](md/tools.md) | Sammlung von Programmen, Skripten, Anleitungen & Infos. |
-| [Telegram](md/telegram.md) | Hilfreiche Kanäle und Bots für Telegram. |
+| [Telegram](md/telegram.md) | Hilfreiche Info-Kanäle und Bots für Telegram. |
