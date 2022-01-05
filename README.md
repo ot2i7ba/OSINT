@@ -24,5 +24,5 @@ This is my personal OSINT collection, which specially helps me with my work. The
 ##### 👉 Use [README ENGLISH](en/README.md) for english Comments. 🚧 This collection is under construction!
 
 <br/><br/>
-## :file_folder: CREDITS
+## :file_folder: GRÜßE / CREDITS
 [nixintel](https://github.com/nixintel), [cipher387](https://github.com/cipher387), [soxoj](https://github.com/soxoj)
