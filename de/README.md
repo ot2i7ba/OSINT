@@ -10,6 +10,8 @@
 
 Angelehnt an einem Zitat aus dem Film Full Metal Jacket, möchte ich zum Ausdruck bringen, das es sich bei dieser Sammlung mit Bezug zum Thema OSINT (Open Source Intelligence) um meine persönliche Zusammenstellung handelt, welche mir ein wichtiges Werkzeug bei meiner täglichen Arbeit ist. Für Tipps zu interessanten Tools, welche hier nicht fehlen dürfen, bin ich sehr dankbar.
 
+**HINWEIS**: Um meinen Kollegen die Arbeit mit meiner Sammlung zu erleichtern, werde ich den Nutzen einzelner Tools künftig symbolisch mit ■□□□□□ für gut bis ■■■■■■ für sehr gut kennzeichnen.
+
 ## :file_folder: INHALT
 | Name | Beschreibung |
 | :-- | :-- |
