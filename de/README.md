@@ -18,7 +18,7 @@ Angelehnt an einem Zitat aus dem Film Full Metal Jacket, möchte ich zum Ausdruc
 | [Karten & Routen](md/maps.md) | Digitales Kartenmaterial und Routenplanung. |
 | [Geolokalisierung](md/geolocation.md) | --- |
 | [Soziale Netzwerke](md/socialnetworks.md) | --- |
-| [Leaked Sources](md/leakbreach.md) | --- |
+| [Leaked Sources](md/leakbreach.md) | Leaked Sources & Breaches als Informationsquelle. |
 | [Kryptowährungen](md/cryptocurrencies.md) | Verfolgung und Analyse der Verbreitung von Kryptowährungen |
 | [Web Archive](md/archive.md) | Durchsuchen von Sammlungen digital archivierter Webseiten. |
 | [Werkzeuge](md/tools.md) | Sammlung von Programmen, Skripten, Anleitungen & Infos. |
