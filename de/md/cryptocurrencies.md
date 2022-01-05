@@ -3,13 +3,13 @@
 </div>
 
 # ℹ️ KRYPTOWÄHRUNGEN
-...<br/><br/>
+Verfolgung und Analyse der Verbreitung von Kryptowährungen. Mit diesen Diensten kann beispielsweise geprüft werden, ob eine Adresse bereits genutzt wird und was, wann gesendet worden ist.<br/><br/>
 
 ## 📑 BLOCKCHAIN
 - **[Blockchain Explorer](https://www.blockchain.com/explorer/ "Blockchain Explorer")**<br/>
-...
+Blockchain-Informationen für Bitcoin (BTC), einschließlich historischer Preise.
 - **[Blockchair](https://blockchair.com/ "Blockchair")**<br/>
-...
+Ein Blockchain-Explorer, Analyse- und Webdienste.
 
 <br/><br/>
 <div align="left">
