@@ -39,7 +39,7 @@ Abfrage, ob bekannte E-Mail-Adresse zur Registrierung einer Domain genutzt worde
 ## 📑 PROVIDER SERVICE TOOLS
 - **[Lampyre](https://lampyre.io/ "Lampyre.io")**<br/>
 Bezieht Daten aus offenen Quellen unter Verwendung von E-Mail-Adresse, Telefonnummer, IP-Adresse, Domainname usw.
-- **[Epieos Tools](https://tools.epieos.com/ "Epieos Tools")**<br/>
+- **[Epieos Tools](https://tools.epieos.com/ "Epieos Tools - E-Mail Lookup")**<br/>
 Passives Tool zur Abtragung von Diensten im Zusammenhang mit einer E-Mail-Adresse.
 - **[Github, Holehe](https://github.com/megadose/holehe "Github, Holehe")**<br/>
 Holehe prüft, ob eine E-Mail mit Konten auf Websites wie Twitter, Instagram, Imgur und mehr als 120 anderen verbunden ist.
