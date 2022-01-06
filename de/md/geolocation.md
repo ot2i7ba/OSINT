@@ -6,8 +6,10 @@
 ...<br/><br/>
 
 ## 📑 LICHT UND SCHATTEN
-- **[Suncalc](https://www.suncalc.org/#/51.3805,7.4872,16/2021.10.18/12:32/1/3 "Suncalc")**<br/>
+- **[Suncalc](https://www.suncalc.org/ "Suncalc")**<br/>
 Darstellung von Sonnenbewegung und Sonnenphasen zu einem spezifischen Ort.
+- **[Shademap](https://shademap.app/ "Shademap")**<br/>
+Stellt den Schattenwurf zu einem spezifischen Zeitpunkt auf einer Karte dar.
 
 <br/><br/>
 <div align="left">
