@@ -62,7 +62,7 @@ Umfangreiche Informationsquelle zum Thema Privatsphäre und Anonymisierung.
 Umfangreicher Tweak-Pool, um die Sicherheit und den Datenschutz des Betriebssystems zu verbessern.
 
 ## 📑 SONSTIGES
-- **[Accs MArket](https://accsmarket.com/ "Accs MArket")**<br/>
+- **[Accs Market](https://accsmarket.com/ "Accs MArket")**<br/>
 Accounts für eine Vielzahl sozialer Netzwerke käuflich erwerben. ACHTUNG, VERBOTEN!
 
 <br/><br/>
