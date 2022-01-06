@@ -39,10 +39,11 @@ Liefert schnell und unkompliziert Zugangsdaten zu diversen Diensten. Oft leider 
 - **[PSBDMP](https://psbdmp.ws/ "PSBDMP")**<br/>
 Dursuchen von öffentlich zugänglichen Pastebin Dumps mittels API.
 
-
 ## 📑 HASHWERTE SUCHEN
 - **[MD5Decrypt](https://md5decrypt.net/en/Sha1/ "MD5Decrypt")**<br/>
 Offenbart Klartext zu MD5, SHA-1, SHA-256 und mehr anhand von bereits bekannten Hashwerten.
+- **[OSINT.sh - Guess MD5 Hash](https://osint.sh/md5/ "OSINT.sh - Guess MD5 Hash")**<br/>
+Sucht Klartext zu MD5 Hashes aus bekannten Ressourcen.
 
 ## 📑 SONSTIGE DIENSTE
 - **[BugMeNot](http://bugmenot.com/ "BugMeNot")**<br/>
