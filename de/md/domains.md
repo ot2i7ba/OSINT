@@ -27,6 +27,8 @@ Gezielte Suche liefert ausführliche Informationen zu Hosts und Zertifikaten.
 Die Suchmaschine für Internet of Everything, das „Google“ für Hacker.
 - **[Natlas](https://natlas.io/ "Natlas")**<br/>
 Recherchemöglichkeit für IP-Adressen. Scant Hosts nach Services.
+- **[Host.io](https://host.io/ "Host.io")**<br/>
+Mächtige und sehr schnelle Domain Name Data API.
 
 ## 📑 DOMAIN / IP WHOIS
 - **[Domaintools](https://research.domaintools.com/ "Domaintools")**<br/>
