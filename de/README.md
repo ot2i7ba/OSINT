@@ -25,7 +25,7 @@ Um meinen Kollegen die Arbeit mit meiner Sammlung zu erleichtern, werde ich den 
 | [Soziale Netzwerke](md/socialnetworks.md) | Werkzeuge für die Recherche in sozialen Netzwerken. |
 | [Messenger Dienste](md/messenger.md) | Tools für Instant Messaging Dienste. |
 | [Leaked Sources](md/leakbreach.md) | Leaked Sources & Breaches als Informationsquelle. |
-| [Kryptowährungen](md/cryptocurrencies.md) | Verfolgung und Analyse der Verbreitung von Kryptowährungen. |
+| [Kryptowährungen](md/cryptos.md) | Verfolgung und Analyse der Verbreitung von Kryptowährungen. |
 | [Web Archive](md/archive.md) | Durchsuchen von Sammlungen digital archivierter Webseiten. |
 | [Werkzeuge](md/tools.md) | Sammlung von Programmen, Skripten, Anleitungen & Infos. |
 | [Telegram](md/telegram.md) | Hilfreiche Info-Kanäle und Bots für Telegram. |
