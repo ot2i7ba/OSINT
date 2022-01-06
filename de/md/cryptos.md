@@ -3,7 +3,7 @@
 </div>
 
 # ℹ️ KRYPTOWÄHRUNGEN
-Verfolgung und Analyse der Verbreitung von Kryptowährungen. Mit diesen Diensten kann beispielsweise geprüft werden, ob eine Adresse bereits genutzt wird und was, wann gesendet worden ist.<br/><br/>
+Verfolgung und Analyse der Verbreitung von Kryptowährungen. Mit diesen Diensten kann beispielsweise geprüft werden, ob eine Adresse bereits genutzt wird und welche Summen transferiert worden sind. Auch der Ankauf von Kryptowährungen zur Bezahlung diverser Dienste nötig sein.<br/><br/>
 
 ## 📑 BLOCKCHAIN
 - **[Blockchain Explorer](https://www.blockchain.com/explorer/ "Blockchain Explorer")**<br/>
@@ -12,6 +12,10 @@ Blockchain-Informationen für Bitcoin (BTC), einschließlich historischer Preise
 Ein Blockchain-Explorer, Analyse- und Webdienste,unterstützt mehrere Währungen.
 - **[Etherscan](https://etherscan.io/ "Etherscan")**<br/>
 Der Ethereum (ETH) Blockchain Explorer.
+
+## 📑 CRYPTOS KAUFEN
+- **[CryptoVoucher](https://cryptovoucher.io/ "CryptoVoucher")**<br/>
+Der einfachste Weg, Bitcoin oder andere Kryptowährungen sofort zu kaufen.
 
 <br/><br/>
 <div align="left">
