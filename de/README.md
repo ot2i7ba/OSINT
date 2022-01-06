@@ -16,6 +16,7 @@ Um meinen Kollegen die Arbeit mit meiner Sammlung zu erleichtern, werde ich den 
 ## :file_folder: INHALT
 | Name | Beschreibung |
 | :-- | :-- |
+| [Sock Puppet Accounts](md/puppets.md) | Sock Puppets (Sockenpuppen) sind detailliert erstellte Fake Accounts. |
 | [E-Mail Intelligence](md/emails.md) | Recherchetools zu E-Mail-Adressen. Recon, Validierung & Services. |
 | [Domain & IP-Tools](md/domains.md) | Informationsgewinnung zu Domains & IP-Adressen. |
 | [Foto- & Bildersuche](md/images.md) | Fotos und Bilder online suchen und identifizieren. |
