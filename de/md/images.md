@@ -3,8 +3,7 @@
 </div>
 
 # ℹ️ FOTO- & BILDERUSCHE
-Eine Sammlung von Links zu Werkzeugen, welche dabei helfen, vorhandene Fotos und Bilder online zu suchen und zu identifizieren. Mit ihnen kann beispielsweise eine Rückwärtssuche zu Profilbildern durchgeführt werden.
-<br/><br/>
+Eine Sammlung von Links zu Werkzeugen, welche dabei helfen, vorhandene Fotos und Bilder online zu suchen und zu identifizieren. Mit ihnen kann beispielsweise eine Rückwärtssuche zu Profilbildern durchgeführt werden.<br/><br/>
 
 ## 📑 BILDER SUCHEN
 - **[Google Image Search](https://images.google.com/ "Google Image Search")**<br/>
@@ -13,6 +12,8 @@ Die normale, breite Bildersuche mittels Google Suchmaschine.
 Rückwärtssuche nach Portrait-Fotos der Visual Geometry Group.
 - **[Reverse Search](https://www.revesesearch.com/ "Reverse Search")**<br/>
 Rückwärtssuche nach visuell ähnliche Bilder im Internet.
+- **[Search4Faces](https://search4faces.com/ "Search4Faces")**<br/>
+Search4faces ist ein Dienst zum Auffinden von Personen im Internet durch Fotografie.
 - **[Lampyre](https://lampyre.io/ "Lampyre.io")**<br/>
 Rückwärtssuche nach Profilbildern. Ein Account wird benötigt!
 - **[PimEyes](https://pimeyes.com/en "PimEyes")**<br/>

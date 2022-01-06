@@ -17,6 +17,16 @@ Ermittelt Twitter Profil ID. Rückwärtssuche nach Profil ID möglich.
 - **[TikTok ID](https://www.instafollowers.co/find-tiktok-user-id "TikTok ID")**<br/>
 Ermittelt TikTok Profil ID. Unterstützt auch andere Netzwerke.
 
+## 📑 YOUTUBE
+- **[Youtube Geofind](https://mattw.io/youtube-geofind/ "Youtube Geofind")**<br/>
+Zeigt auf Youtube veröffentlichte Videos auf einer Karte an. Eine lokale Suche möglich.
+- **[Youtube Metadata](https://mattw.io/youtube-metadata/ "Youtube Metadata")**<br/>
+Ermittelt TikTok Profil ID. Unterstützt auch andere Netzwerke.
+
+## 📑 SONSTIGES
+- **[Social Blade](https://socialblade.com/ "Social Blade")**<br/>
+Social Blade verfolgt Benutzerstatistiken für YouTube, Twitch, Instagram und Twitter.
+
 <br/><br/>
 <div align="left">
   <a href="https://github.com/ot2i7ba/OSINT/blob/main/en/README.md"><img alt="README English" src="https://img.shields.io/badge/README-English-lightgrey.svg?style=for-the-badge"></a>

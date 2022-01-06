@@ -3,8 +3,7 @@
 </div>
 
 # ℹ️ WERKZEUGE
-Eine Sammlung von Programmen, Skripten und inhaltsbezogen Kollektionen, welche OSINT Recherchen erleichtern.
-<br/><br/>
+Eine Sammlung von Programmen, Skripten und inhaltsbezogen Kollektionen, welche OSINT Recherchen erleichtern.<br/><br/>
 
 ## 📑 NÜTZLICHES
 - **[OSINT tools collection](https://github.com/cipher387/osint_stuff_tool_collection "OSINT tools collection")**<br/>
@@ -61,6 +60,10 @@ Verwendet Google-Dorks, um Sicherheitslücken und Fehlkonfigurationen zu finden.
 Ein unglaublich schnelles Aufklärungstool für Penetrationstester. Von [powerexploit](https://github.com/powerexploit "powerexploit").
 - **[HackerTarget ToolKit](https://github.com/pyhackertarget/hackertarget "HackerTarget ToolKit")**<br/>
 Sammelt informationen anhand von E-Mail, Nutzername, Twitter, Instagram und mehr. Von [Hacker Target](https://github.com/pyhackertarget "Hacker Target").
+
+## 📑 SONSTIGES
+- **[Depix](https://github.com/beurtschipper/Depix "Depix")**<br/>
+Depix ist ein Tool zum Wiederherstellen von Passwörtern aus verpixelten Screenshots. Von [beurtschipper](https://github.com/beurtschipper "beurtschipper").
 
 <br/><br/>
 <div align="left">

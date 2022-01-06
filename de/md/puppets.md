@@ -18,10 +18,14 @@ Das ultimative Sock Puppet Tutorial für OSINT Operators.
 Hilft durch zufällig generierte Personalien bei der Erstellung einer Legende.
 - **[Elf Qrin's Cyber Lab](https://www.elfqrin.com/fakeid.php "Elf Qrin's Cyber Lab")**<br/>
 Generiert wie Fake Name Generator zufällige Personalien.
+- **[Facemaker](http://facemaker.uvrg.org/ "Facemaker")**<br/>
+Ausgehend vom europäischen Durchschnittsgesicht kann man hier Gesichter nach den eigenen Vorstellungen gestalten.
 - **[This X Does Not Exist](https://thisxdoesnotexist.com/ "This X Does Not Exist")**<br/>
 Generiert mittels Generative Adversarial Networks (GAN) Bilder zu Dingen, welche so nicht wirklich real existent sind.
 - **[This Person Does Not Exist](https://thispersondoesnotexist.com/ "This PErson Does Not Exist")**<br/>
-Generiert mittels Generative Adversarial Networks (GAN) Bilder zu PErsonen, welche so nicht wirklich real existent sind.
+Generiert mittels Generative Adversarial Networks (GAN) Bilder zu Personen, welche so nicht wirklich real existent sind.
+- **[Generated Photos Anonymizer](https://generated.photos/anonymizer "Generated Photos - Anonymizer")**<br/>
+Generiert aus einem hochgeladenen Bild, ein ähnlich aussehendes mittels AI generiertes Bild.
 - **[Generated Photos](https://generated.photos/face-generator/ "Generated Photos - Face Generator")**<br/>
 In Echtzeit generierte Gesichter, deren Parameter umfangreich definiert werden können.
 
