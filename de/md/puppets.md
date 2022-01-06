@@ -61,6 +61,10 @@ Umfangreiche Informationsquelle zum Thema Privatsphäre und Anonymisierung.
 - **[privacy.sexy](https://privacy.sexy/ "privacy.sexy")**<br/>
 Umfangreicher Tweak-Pool, um die Sicherheit und den Datenschutz des Betriebssystems zu verbessern.
 
+## 📑 SONSTIGES
+- **[Accs MArket](https://accsmarket.com/ "Accs MArket")**<br/>
+Accounts für eine Vielzahl sozialer Netzwerke käuflich erwerben. ACHTUNG, VERBOTEN!
+
 <br/><br/>
 <div align="left">
   <a href="https://github.com/ot2i7ba/OSINT/blob/main/en/README.md"><img alt="README English" src="https://img.shields.io/badge/README-English-lightgrey.svg?style=for-the-badge"></a>
