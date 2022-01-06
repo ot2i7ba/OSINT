@@ -77,6 +77,8 @@ Visuelle Darstellung von DNS-Abfragen. Download als .png und .svg möglich.
 Findet Subdomains unter Zuhilfenahme mehrerer, parallel laufender Abfragedienste.
 - **[Spyse Subdomain Finder](https://spyse.com/tools/subdomain-finder "Spyse Subdomain Finder")**<br/>
 Simpler Subdomain Finder von Spyse.
+- **[OSINT.sh - Subdomain Finder](https://osint.sh/subdomain/ "OSINT.sh - Subdomain Finder")**<br/>
+Schnelles auffinden von Subdomains mittels DNS Recon.
 
 ## 📑 BACKLINK & TRAFFIC ANALYSE
 - **[Open Link Profiler](https://www.openlinkprofiler.org/ "Open Link Profiler")**<br/>
