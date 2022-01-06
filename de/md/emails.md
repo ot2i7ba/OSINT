@@ -3,8 +3,7 @@
 </div>
 
 # ℹ️ E-MAIL INTELLIGENCE
-Eine Sammlung von Links zu Werkzeugen, welche Recherchen zu Mail-Adressen ermöglichen. Sie identifizieren, validieren und zeigen Verknüpfungen von E-Mail-Adressen mit weiteren Online-Diensten auf. Viele dieser Dienste benötigen einen kostenpflichtigen Account.
-<br/><br/>
+Eine Sammlung von Links zu Werkzeugen, welche Recherchen zu Mail-Adressen ermöglichen. Sie identifizieren, validieren und zeigen Verknüpfungen von E-Mail-Adressen mit weiteren Online-Diensten auf. Viele dieser Dienste benötigen einen kostenpflichtigen Account.<br/><br/>
 
 ## 📑 E-MAILS SAMMELN
 - **[Hunter.io](https://hunter.io/ "Hunter.io")**<br/>
