@@ -13,6 +13,8 @@ Eine sehr umfangreiche und gut gepflegte Sammlung. Von [cipher387](https://githu
 Umfangreiche Sammlung zum Thema Google Dorks / Google Hacking. Von [cipher387](https://github.com/cipher387 "cipher387").
 - **[OSINT namecheckers list](https://github.com/soxoj/osint-namecheckers-list "OSINT namecheckers list")**<br/>
 Eine Sammlung von Tools, welche speziell die Recherchen zu Nutzernamen erleichtern. Von [soxoj](https://github.com/soxoj "soxoj").
+- **[OSINTsources](https://github.com/awareseven/OSINTsources "OSINTsources")**<br/>
+Mehreren Open Source Intelligence (OSINT) Quellen zusammengestellt von der [AWARE7 GmbH](https://github.com/awareseven "AWARE7 GmbH").
 - **[OSINT for Netstalking](https://github.com/netstalking-core/netstalking-osint "OSINT for Netstalking")**<br/>
 Diese Sammlung verweist auf Grundwissen, Anleitungen und Tools. Von [netstalking-core](https://github.com/netstalking-core "netstalking-core").
 - **[Awesome Telegram OSINT](https://github.com/ItIsMeCall911/Awesome-Telegram-OSINT "Awesome Telegram OSINT")**<br/>
