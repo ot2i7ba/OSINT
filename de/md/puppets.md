@@ -46,6 +46,10 @@ Sicherer E-Mail-Dienst aus der Schweiz.
 Erstellung von virtuellen Zahlungskarten für einen einmaligen Einkauf.
 - **[Online SIM](https://onlinesim.ru/de/ "Online SIM")**<br/>
 Virtuelle SMS online empfangen. Bietet virtuelle Rufnummern aus vielen Ländern.
+- **[Text Now](https://play.google.com/store/apps/details?id=com.enflick.android.TextNow "Text Now")**<br/>
+Bietet Rufnummer aus den USA mit der SMS und Voice Verifizierung möglich sind. VPN nötig!
+- **[SafeUM](https://play.google.com/store/apps/details?id=com.safeum.android "SafeUM")**<br/>
+Umfassende Lösung für sichere Kommunikation. Bietet Rufnummer aus Lettland zur Voice Verifizierung. VPN nötig!
 
 ## 📑 VPN ANBIETER
 - **[Proton VPN](https://protonvpn.com/de/ "Proton VPN")**<br/>

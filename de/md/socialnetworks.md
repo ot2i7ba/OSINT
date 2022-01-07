@@ -17,6 +17,14 @@ Ermittelt Twitter Profil ID. Rückwärtssuche nach Profil ID möglich.
 - **[TikTok ID](https://www.instafollowers.co/find-tiktok-user-id "TikTok ID")**<br/>
 Ermittelt TikTok Profil ID. Unterstützt auch andere Netzwerke.
 
+## 📑 FACEBOOK
+- **[Fuck Facebook](http://4wbwa6vcpvcr3vvf4qkhppgy56urmjcj2vagu2iqgp3z656xcmfdbiqd.onion.pet/ "Fuck Facebook")**<br/>
+Fuck Facebook hilft dabei, einen großen Datensatz von über 500 Millionen Facebook-Nutzern zu durchsuchen. Achtung, .onion Link!
+- **[Facebook Search](https://sowsearch.info/ "Facebook Search")**<br/>
+Eine Schnittstelle zur vereinfachten Suche auf Facebook um die Lücke zur alten Graphsuche zu schließen.
+- **[Facebook Matrix](https://plessas.net/facebookmatrix "Facebook Matrix")**<br/>
+Eine detaillierte Anleitung zum Erstellen einer URL mit verschlüsselten Parametern für die Facebook-Suche.
+
 ## 📑 YOUTUBE
 - **[Youtube Geofind](https://mattw.io/youtube-geofind/ "Youtube Geofind")**<br/>
 Zeigt auf Youtube veröffentlichte Videos auf einer Karte an. Eine lokale Suche möglich.
@@ -24,6 +32,8 @@ Zeigt auf Youtube veröffentlichte Videos auf einer Karte an. Eine lokale Suche 
 Ermittelt TikTok Profil ID. Unterstützt auch andere Netzwerke.
 
 ## 📑 SONSTIGES
+- **[Export Comments](https://exportcomments.com/ "Export Comments")**<br/>
+Exportiert frei zugängliche Kommentare aus sozialen Netzwerken in eine Excel-Datei.
 - **[Social Blade](https://socialblade.com/ "Social Blade")**<br/>
 Social Blade verfolgt Benutzerstatistiken für YouTube, Twitch, Instagram und Twitter.
 

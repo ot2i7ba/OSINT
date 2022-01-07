@@ -3,13 +3,29 @@
 </div>
 
 # ℹ️ GEOLOKALISIERUNG
-...<br/><br/>
+Zur Lokalisierung sind diverse [Karten](maps.md) sehr hilfreich. Hier finden sich zudem Werkzeuge, welche beispielsweise anhand von Sonnenstand und Schattenwurf bei der Lokalisierung von Fotoaufnahmen helfen.<br/><br/>
+
+## 📑 INFORMATIONEN
+- **[Bellingcat](https://www.bellingcat.com/resources/2020/12/03/using-the-sun-and-the-shadows-for-geolocation/ "Bellingcat")**<br/>
+Erklärung von [Bellingcat](https://www.bellingcat.com/ "Bellingcat"), wie sonne und schatten zur Geolokalisierung genutzt werden können.
+- **[Sector035](https://sector035.nl/articles/chronolocation-of-media "Sector035")**<br/>
+Ein umfassender Leitfaden von [Sector035](https://sector035.nl/ "Sector035") zur Bestimmung von Datum und Uhrzeit in (Online-)Medien.
 
 ## 📑 LICHT UND SCHATTEN
 - **[Suncalc](https://www.suncalc.org/ "Suncalc")**<br/>
 Darstellung von Sonnenbewegung und Sonnenphasen zu einem spezifischen Ort.
 - **[Shademap](https://shademap.app/ "Shademap")**<br/>
 Stellt den Schattenwurf zu einem spezifischen Zeitpunkt auf einer Karte dar.
+
+## 📑 FOTO LOKALISIERUNG
+- **[Geoestimation](https://labs.tib.eu/geoestimation/ "Geoestimation")**<br/>
+Hilft bei der Ermittlung des wahrscheinlichsten Aufnahmeorts einer hochgeladenen Fotografie.
+
+## 📑 WERKZEUGE
+- **[Quick geolocation search](https://cipher387.github.io/quickgeolocationsearch/ "Quick geolocation search")**<br/>
+Schnelle visuelle Darstellung von Längen- und Breitengrad. Bietet Suche in mehreren Diensten, z.B. Twitter.
+- **[Chronocalc](https://github.com/Sector035/chronocalc "Chronocalc")**<br/>
+Berechnung von Datum und Uhrzeiten, zu denen sich Sonne oder Mond an einer bestimmten Position am Himmel befinden.
 
 <br/><br/>
 <div align="left">

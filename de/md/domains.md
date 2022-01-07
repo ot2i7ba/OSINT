@@ -3,8 +3,7 @@
 </div>
 
 # ℹ️ DOMAIN & IP-TOOLS
-Eine Sammlung von Links zu Werkzeugen, welche der Informationsgewinnung zu Domains und IP-Adressen dienen. Auskünfte zu Domaininhaber, Hoster, Backlinks, Redirects, Subdomains, Cloudflare, Traffic und mehr.
-<br/><br/>
+Eine Sammlung von Links zu Werkzeugen, welche der Informationsgewinnung zu Domains und IP-Adressen dienen. Auskünfte zu Domaininhaber, Hoster, Backlinks, Redirects, Subdomains, Cloudflare, Traffic und mehr.<br/><br/>
 
 ## 📑 DOMAIN / IP INVESTIGATOR
 - **[Spyse](https://spyse.com/ "Spyse - Domain & IP Investigation")**<br/>
@@ -89,6 +88,8 @@ Ein weiterer Backlink Checker. Ein kostenloser Account wird benötigt.
 Analysiert den Traffic einer Webseite.
 
 ## 📑 DORKS & VULNERABILITIES
+- **[Google Hacking Database](https://www.exploit-db.com/google-hacking-database "Google Hacking Database")**<br/>
+Das größte Google Dorks Archiv im Netz. Hier werden teils brisante Dorks nach Kategorien gelistet.
 - **[Investigator](https://abhijithb200.github.io/investigator/ "Investigator - A recon tool")**<br/>
 Einfache Recherche mittels vordefinierter Google Dorks zu einer Domain.
 - **[Bug Bounty Helper](https://dorks.faisalahmed.me/ "Bug Bounty Helper")**<br/>
@@ -111,6 +112,10 @@ Ein weiterer Dienst zur Identifizierung eingesetzter Technik einer Webseite.
 ## 📑 ZERTIFIKATE
 - **[Certificate Search](https://crt.sh/ "Certificate Search")**<br/>
 Analysiert eingesetzte Zertifikate einer Domain. Ermöglicht eine Rückwärtssuche nach bekannten Zertifikaten.
+
+## 📑 SONSTIGES
+- **[Down for Everyone or Just Me](https://downforeveryoneorjustme.com/ "Down for Everyone or Just Me")**<br/>
+Prüft, ob eine Webseite wirklich down ist, oder ob diese ggf. nur aufgrund von Geolokalisierung blockiert ist.
 
 <br/><br/>
 <div align="left">

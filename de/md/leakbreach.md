@@ -14,6 +14,8 @@ Prüf wie "Have i been pwned" ob eine Email Opfer einer Datenoffenlegung wurde.
 Prüft Daten auf Leaks. Bietet Alarm-Service, welcher über Veröffentlichung eigener Daten informiert. 
 
 ## 📑 DATENSÄTZE DURCHSUCHEN
+- **[Fuck Facebook](http://4wbwa6vcpvcr3vvf4qkhppgy56urmjcj2vagu2iqgp3z656xcmfdbiqd.onion.pet/ "Fuck Facebook")**<br/>
+Fuck Facebook hilft dabei, einen großen Datensatz von über 500 Millionen Facebook-Nutzern zu durchsuchen. Achtung, .onion Link!
 - **[Breach Directory](https://breachdirectory.org/ "Breach Directory")**<br/>
 Fragt Nutzername, E-Mail und Rufnummern ab. Gibt Auskunft über Breach und Passwort-Hash.
 - **[IntelligenceX](https://intelx.io/ "IntelligenceX")**<br/>

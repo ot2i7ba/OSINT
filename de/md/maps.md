@@ -3,8 +3,7 @@
 </div>
 
 # ℹ️ KARTEN & ROUTEN
-Eine Sammlung von Links zu Werkzeugen, welche digitales Kartenmaterial und Routenplaner beinhalten. Diese können genutzt werden, um beispielsweise unbekannte Örtlichkeiten im Vorfeld zu sichten.
-<br/><br/>
+Eine Sammlung von Links zu Werkzeugen, welche digitales Kartenmaterial und Routenplaner beinhalten. Diese können genutzt werden, um beispielsweise unbekannte Örtlichkeiten im Vorfeld zu sichten.<br/><br/>
 
 ## 📑 FREIES KARTENMATERIAL
 - **[Open Street Map](https://www.openstreetmap.de/karte.html "Open Street Map")**<br/>
