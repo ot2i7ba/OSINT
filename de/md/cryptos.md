@@ -8,14 +8,22 @@ Verfolgung und Analyse der Verbreitung von Kryptowährungen. Mit diesen Diensten
 ## 📑 BLOCKCHAIN
 - **[Blockchain Explorer](https://www.blockchain.com/explorer/ "Blockchain Explorer")**<br/>
 Blockchain-Informationen für Bitcoin (BTC), einschließlich historischer Preise.
-- **[Blockchair](https://blockchair.com/ "Blockchair")**<br/>
-Ein Blockchain-Explorer, Analyse- und Webdienste,unterstützt mehrere Währungen.
+- **[Blockchair](https://blockchair.com/ "Blockchair")** ■■■■■□<br/>
+Blockchain-Explorer, Analyse und visuelle Darstellung, unterstützt mehrere Währungen.
+- **[Blockcypher](https://blockcypher.herokuapp.com/ "Blockcypher")**<br/>
+Durchsucht die Blockchain, finde Informationen, welche andere Block-Explorer nicht anzeigen.
+- **[Blockpath](https://blockpath.com/ "Blockpath")**<br/>
+Analysieren von Bitcoin Transaktionen. Ermöglicht den direkten Export in Excel.
 - **[Etherscan](https://etherscan.io/ "Etherscan")**<br/>
 Der Ethereum (ETH) Blockchain Explorer.
 
 ## 📑 CRYPTOS KAUFEN
 - **[CryptoVoucher](https://cryptovoucher.io/ "CryptoVoucher")**<br/>
 Der einfachste Weg, Bitcoin oder andere Kryptowährungen sofort zu kaufen.
+
+## 📑 Werkzeuge
+- **[Orbit](https://github.com/s0md3v/Orbit "Orbit")**<br/>
+Entwickelt um das Netzwerk einer Wallet rekursiv zu Crawlen und visuell darzustellen.
 
 <br/><br/>
 <div align="left">

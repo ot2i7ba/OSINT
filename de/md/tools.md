@@ -64,6 +64,10 @@ Sammelt informationen anhand von E-Mail, Nutzername, Twitter, Instagram und mehr
 ## 📑 SONSTIGES
 - **[Depix](https://github.com/beurtschipper/Depix "Depix")**<br/>
 Depix ist ein Tool zum Wiederherstellen von Passwörtern aus verpixelten Screenshots. Von [beurtschipper](https://github.com/beurtschipper "beurtschipper").
+- **[Vortimo](https://www.vortimo.com/ "Vortimo")**<br/>
+Eine Software, welche bei Online-Ermittlungen behilflich ist. Sie wird von vielen OSINT Experten geschätzt.
+- **[Gamayun](https://sociallinks.io/products/gamayun "Gamayun")**<br/>
+Eine Software, welche mehrere Tools für Online-Ermittlungen vereint.
 
 <br/><br/>
 <div align="left">

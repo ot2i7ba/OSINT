@@ -18,6 +18,8 @@ Google Satelliten- und Luftbilder unterschiedlicher Auflösung als Web-Version.
 Satellitenbilder, Regenradar, Verfolgung von Hurrikans, Waldbrände und Wetter in Echtzeit.
 - **[Satellites](https://satellites.pro/ "Satellites")** ■■■■■□<br/>
 Vereint Apple Map, Open Street Map, Google Maps, Esri Maps, MapBox und Yandex Map.
+- **[Soar Earth](https://soar.earth/ "Soar Earth")** ■■□□□□<br/>
+Soar Earth ist dabei, den größten digitalen Atlas mit Weltkarten und Bildern zu erstellen.
 
 ## 📑 ROUTEN SICHTEN
 - **[Show My Street](https://showmystreet.com/ "Show My Street")** ■■■■□□<br/>
@@ -44,6 +46,8 @@ Zeigt auf Flickr veröffentlichte Bilder auf einer Karte an.
 Zeigt Beiträge aus Twitter, Youtube, Instagram, Flickr, kontakte und Weibo auf einer Karte an.
 
 ## 📑 SONSTIGES
+- **[Snazzy Maps Builder](https://snazzymaps.com/build-a-map "Snazzy Maps Builder")** ■■■□□□<br/>
+Erstellt eine Karte mit selbst definierten Attributen. Kann für Berichte genutzt werden.
 - **[Newspaper Map](https://newspapermap.com/ "Newspaper Map")**<br/>
 Zeigt auf einer Karte an, welche Zeitung aus einer bestimmten Region kommt.
 - **[Submarine Cable Map](https://www.submarinecablemap.com/ "Submarine Cable Map")**<br/>

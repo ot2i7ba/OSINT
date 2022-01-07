@@ -116,6 +116,8 @@ Analysiert eingesetzte Zertifikate einer Domain. Ermöglicht eine Rückwärtssuc
 ## 📑 SONSTIGES
 - **[Down for Everyone or Just Me](https://downforeveryoneorjustme.com/ "Down for Everyone or Just Me")**<br/>
 Prüft, ob eine Webseite wirklich down ist, oder ob diese ggf. nur aufgrund von Geolokalisierung blockiert ist.
+- **[Lookyloo](http://lookyloo.circl.lu "Lookyloo")**<br/>
+Ein Webinterface, um Webseiten zu scrapen (durchsuchen) und Baumdiagram darzustellen.
 
 <br/><br/>
 <div align="left">

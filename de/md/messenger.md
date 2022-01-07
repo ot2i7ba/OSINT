@@ -5,6 +5,16 @@
 # ℹ️ MESSENGER DIENSTE
 Open Source Intelligence Werkzeuge für Recherchen zu Instant Messaging Diensten.<br/><br/>
 
+## 📑 WHATSAPP
+- **[WA Tools](https://watools.io/ "WA Tools")** ■■■■■□<br/>
+Prüft Rufnummern & Online-Status. Zeigt Profilbilder, ohne WhatsApp zu nutzen. Bietet Tracker-Tool.
+
+## 📑 TELEGRAM
+- **[Telegram Analytics](https://tgstat.com/ "Telegram Analytics")** ■■■□□□<br/>
+Analysiert telegram Kanäle und ermöglicht die Suche in offenen Kanälen/Gruppe/Chats.
+- **[SMAT App](https://www.smat-app.com/search?searchTerm=osint&startDate=2021-06-29&endDate=2021-12-29&websites=telegram&numberOf=10&interval=day&limit=1000&changepoint=false "SMAT App")** ■■■■■□<br/>
+Ideales Tool zur Schlagwortsuche in öffentlich zugänglichen Kanälen, Gruppen und Chats.
+
 ## 📑 SKYPE
 - **[Epieos Tools](https://tools.epieos.com/skype.php "Epieos Tools - Skype Lookup")** ■■■■■■<br/>
 Suche nach Skype Benutzern unter Verwendung von E-Mail-Adresse, Nutzernamen oder Rufnummer.

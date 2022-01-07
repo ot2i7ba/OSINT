@@ -30,6 +30,20 @@ Eine detaillierte Anleitung zum Erstellen einer URL mit verschlüsselten Paramet
 Zeigt auf Youtube veröffentlichte Videos auf einer Karte an. Eine lokale Suche möglich.
 - **[Youtube Metadata](https://mattw.io/youtube-metadata/ "Youtube Metadata")**<br/>
 Ermittelt TikTok Profil ID. Unterstützt auch andere Netzwerke.
+- **[Ninja Outreach](https://ninjaoutreach.com/ "Ninja Outreach")**<br/>
+Analysiert Youtube Profile anhand von Nutzername oder Schlagwort, findet „Influencer“.
+
+## 📑 INSTAGRAM
+- **[Search My Bio](https://www.searchmy.bio/ "Search My Bio")**<br/>
+Durchsucht Instagram-Bios nach Schlagworten. Nützlich um z.B. Nutzer gewisser Gruppierungen zu finden.
+- **[Dumpor](https://dumpor.com/ "Dumpor")**<br/>
+Anonymer Instagram-Story-Viewer. Online-Ansicht von Profilen, Reels, Stores, Followern und markierten Posts.
+- **[Ninja Outreach](https://ninjaoutreach.com/ "Ninja Outreach")**<br/>
+Analysiert Instagram Profile anhand von Nutzername oder Schlagwort, findet „Influencer“.
+
+## 📑 TWITTER
+- **[Social Bearing](https://socialbearing.com/ "Social Bearing")**<br/>
+Analyse und Suche nach Tweets. Suchen, filtern und sortieren von Tweets oder Personen.
 
 ## 📑 SONSTIGES
 - **[Export Comments](https://exportcomments.com/ "Export Comments")**<br/>

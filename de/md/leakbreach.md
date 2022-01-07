@@ -22,7 +22,7 @@ Fragt Nutzername, E-Mail und Rufnummern ab. Gibt Auskunft über Breach und Passw
 Abfrage von Domain, E-Mail, IP, Bitcoin Adressen und mehr. Teilweise frei einsehbare Leaks.
 - **[DeHashed](https://dehashed.com/ "DeHashed")** ■■■■■□<br/>
 Abfrage verschiedenster Parameter möglich. Benötigt einen Account. Teils kostenpflichtig.
-- **[Ghost Project](https://ghostproject.fr/ "Ghost Project")** ■■■□□□<br/>
+- **[Ghost Project](https://ghostproject.fr/ "Ghost Project")** ■■□□□□<br/>
 Kostenpflichtiger Dienst zur Abfrage von E-Mails, Nutzernamen, Rufnummern und mehr.
 - **[We leak info](https://weleakinfo.to/ "We leak info")** ■■■■□□<br/>
 Nutzernamen und E-Mails in mehr als 9 Milliarden Datensätzen abfragen.
@@ -32,7 +32,7 @@ Mittels API können 21 Milliarden Datensätze durchsucht werden.
 Ein weiterer Leak-Check. Ein freier Account liefert eingeschränkte Ergebnisse.
 - **[Leak Peek](https://leakpeek.to/ "Leak Peek")**<br/>
 8 Milliarden Datensätze nach E-Mail, Nutzername, Passwort, Keyword und Domain durchsuchen.
-- **[SnusBase](https://snusbase.com/ "SnusBase")** ■■■□□□<br/>
+- **[SnusBase](https://snusbase.com/ "SnusBase")** ■■□□□□<br/>
 Älteste Data Breach Search Engine. Benötigt einen kostenpflichtigen Account.
 - **[Scylla](https://scylla.so/ "Scylla")**<br/>
 Scylla ist derzeit down! Wirbt aktuell mit 1.2 Trillionen Datensätzen zum Relaunch.
@@ -46,9 +46,11 @@ Offenbart Klartext zu MD5, SHA-1, SHA-256 und mehr anhand von bereits bekannten 
 Sucht Klartext zu MD5 Hashes aus bekannten Ressourcen.
 
 ## 📑 SONSTIGE DIENSTE
-- **[BugMeNot](http://bugmenot.com/ "BugMeNot")** ■■■□□□<br/>
+- **[Many Passwords](https://many-passwords.github.io/ "Many Passwords")**<br/>
+Mehr als 2700+ Standard Passwörter diverser IoT Devices.
+- **[BugMeNot](http://bugmenot.com/ "BugMeNot")** ■■□□□□<br/>
 Liefert schnell und unkompliziert Zugangsdaten zu diversen Diensten. Oft leider inkorrekt.
-- **[PSBDMP](https://psbdmp.ws/ "PSBDMP")** ■■■■□□<br/>
+- **[PSBDMP](https://psbdmp.ws/ "PSBDMP")** ■■□□□□<br/>
 Dursuchen von öffentlich zugänglichen Pastebin Dumps mittels API.
 
 <br/><br/>
