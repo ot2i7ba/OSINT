@@ -14,15 +14,15 @@ Wie erstellt man eine Sockenpuppe für OSINT im Jahr 2021?
 Das ultimative Sock Puppet Tutorial für OSINT Operators.
 
 ## 📑 PROFIL WERKZEUGE
-- **[Fake Name Generator](https://de.fakenamegenerator.com/ "Fake Name Generator")**<br/>
+- **[Fake Name Generator](https://de.fakenamegenerator.com/ "Fake Name Generator")** ■■■■■□<br/>
 Hilft durch zufällig generierte Personalien bei der Erstellung einer Legende.
 - **[Elf Qrin's Cyber Lab](https://www.elfqrin.com/fakeid.php "Elf Qrin's Cyber Lab")**<br/>
 Generiert wie Fake Name Generator zufällige Personalien.
-- **[Facemaker](http://facemaker.uvrg.org/ "Facemaker")**<br/>
+- **[Facemaker](http://facemaker.uvrg.org/ "Facemaker")** ■■■■■□<br/>
 Ausgehend vom europäischen Durchschnittsgesicht kann man hier Gesichter nach den eigenen Vorstellungen gestalten.
 - **[This X Does Not Exist](https://thisxdoesnotexist.com/ "This X Does Not Exist")**<br/>
 Generiert mittels Generative Adversarial Networks (GAN) Bilder zu Dingen, welche so nicht wirklich real existent sind.
-- **[This Person Does Not Exist](https://thispersondoesnotexist.com/ "This PErson Does Not Exist")**<br/>
+- **[This Person Does Not Exist](https://thispersondoesnotexist.com/ "This PErson Does Not Exist")** ■■■■■□<br/>
 Generiert mittels Generative Adversarial Networks (GAN) Bilder zu Personen, welche so nicht wirklich real existent sind.
 - **[Generated Photos Anonymizer](https://generated.photos/anonymizer "Generated Photos - Anonymizer")**<br/>
 Generiert aus einem hochgeladenen Bild, ein ähnlich aussehendes mittels AI generiertes Bild.
@@ -30,15 +30,15 @@ Generiert aus einem hochgeladenen Bild, ein ähnlich aussehendes mittels AI gene
 In Echtzeit generierte Gesichter, deren Parameter umfangreich definiert werden können.
 
 ## 📑 E-MAIL ANBIETER
-- **[Simple Login](https://simplelogin.io/ "Simple Login")**<br/>
+- **[Simple Login](https://simplelogin.io/ "Simple Login")** ■■■■□□<br/>
 Generiert E-Mail-Aliasse und hält dadurch die Hauptadresse frei von Spam. Hilft dadurch auch anonym zu bleiben.
-- **[Guerrilla Mail](https://www.guerrillamail.com/de/ "Guerrilla Mail")**<br/>
+- **[Guerrilla Mail](https://www.guerrillamail.com/de/ "Guerrilla Mail")** ■■■■■□<br/>
 Generiert kostenlos temporäre Einweg-E-Mail-Adresse mit einer Lebenszeit von 60 Minuten.
 - **[Müll Mail](https://muellmail.com/ "Müll Mail")**<br/>
 Generiert kostenlos temporäre Einweg-E-Mail-Adresse mit einer Lebenszeit von 10+ Minuten.
 - **[Byom](https://www.byom.de/ "Byom")**<br/>
 Generiert kostenlos temporäre Einweg-E-Mail-Adresse mit einer Lebenszeit von 60 Minuten.
-- **[Proton Mail](https://protonmail.com/de/ "Proton Mail")**<br/>
+- **[Proton Mail](https://protonmail.com/de/ "Proton Mail")** ■■■■■□<br/>
 Sicherer E-Mail-Dienst aus der Schweiz.
 
 ## 📑 BURNER SIM/PHONE/PAYMENT
@@ -52,25 +52,25 @@ Bietet Rufnummer aus den USA mit der SMS und Voice Verifizierung möglich sind. 
 Umfassende Lösung für sichere Kommunikation. Bietet Rufnummer aus Lettland zur Voice Verifizierung. VPN nötig!
 
 ## 📑 VPN ANBIETER
-- **[Proton VPN](https://protonvpn.com/de/ "Proton VPN")**<br/>
+- **[Proton VPN](https://protonvpn.com/de/ "Proton VPN")** ■■■■■□<br/>
 Schweizer Hochgeschwindigkeits-VPN, das Ihre Privatsphäre schützt.
-- **[Surfshark](https://surfshark.com/de/ "Surfshark")**<br/>
+- **[Surfshark](https://surfshark.com/de/ "Surfshark")** ■■■■■□<br/>
 Günstiger VPN mit Multi-Hop, RAM-only-Server, Verschlüsselung und guter Abdeckung.
 
 ## 📑 DATEN MANIPULIEREN
 - **[The Xifer](https://www.thexifer.net/ "The Xifer")**<br/>
 Ermöglicht online die Manipulation von Exif-Daten um beispielsweise Fotos geografisch anzupassen.
-- **[Grabify](https://grabify.link/ "Grabify")**<br/>
+- **[Grabify](https://grabify.link/ "Grabify")** ■■■■■□<br/>
 Ermöglicht es, beispielsweise ein Foto mit einem IP-Tracker auszustatten.
 
 ## 📑 PRIVATSPHÄRE & ANONYMISIERUNG INFOS
-- **[privacy-handbuch.de](https://www.privacy-handbuch.de/ "Privacy Handbuch")**<br/>
+- **[privacy-handbuch.de](https://www.privacy-handbuch.de/ "Privacy Handbuch")** ■■■■■■<br/>
 Umfangreiche Informationsquelle zum Thema Privatsphäre und Anonymisierung.
-- **[privacy.sexy](https://privacy.sexy/ "privacy.sexy")**<br/>
+- **[privacy.sexy](https://privacy.sexy/ "privacy.sexy")** ■■■■■■<br/>
 Umfangreicher Tweak-Pool, um die Sicherheit und den Datenschutz des Betriebssystems zu verbessern.
 
 ## 📑 SONSTIGES
-- **[Accs Market](https://accsmarket.com/ "Accs MArket")**<br/>
+- **[Accs Market](https://accsmarket.com/ "Accs MArket")** ■■■■■□<br/>
 Accounts für eine Vielzahl sozialer Netzwerke käuflich erwerben. ACHTUNG, VERBOTEN!
 
 <br/><br/>

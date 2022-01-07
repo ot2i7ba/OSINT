@@ -6,15 +6,15 @@
 Eine Sammlung von Links zu Werkzeugen, welche der Informationsgewinnung zu Domains und IP-Adressen dienen. Auskünfte zu Domaininhaber, Hoster, Backlinks, Redirects, Subdomains, Cloudflare, Traffic und mehr.<br/><br/>
 
 ## 📑 DOMAIN / IP INVESTIGATOR
-- **[Spyse](https://spyse.com/ "Spyse - Domain & IP Investigation")**<br/>
+- **[Spyse](https://spyse.com/ "Spyse - Domain & IP Investigation")** ■■■■■□<br/>
 Spürt digitale Fingerabdrücke zu Domains, IPv4 Hosts, SSL/TLS Zertifikaten und mehr auf.
 - **[IP Neighbors](https://www.ip-neighbors.com/ "IP Neighbors")**<br/>
 Ermöglicht das Auffinden zuvor unbekannter Websites und Details zu einer IP-Adresse.
-- **[Centralops](https://centralops.net/co/domaindossier.aspx "Centralops")**<br/>
+- **[Centralops](https://centralops.net/co/domaindossier.aspx "Centralops")** ■■■■■□<br/>
 Domain Whois, Netzwerk Whois, DNS Records, Traceroute und Service-Scan aus einer Hand.
-- **[Domain Big Data](https://domainbigdata.com/ "Domain Big Data")**<br/>
+- **[Domain Big Data](https://domainbigdata.com/ "Domain Big Data")** ■■■■■□<br/>
 Ermöglicht Recherchen in Bezug auf Domains. Bietet direkte Suche nach IP-Adresse, E-Mail und Registrant.
-- **[Hurricane Electric BGP](https://bgp.he.net/ "Hurricane Electric BGP")**<br/>
+- **[Hurricane Electric BGP](https://bgp.he.net/ "Hurricane Electric BGP")** ■■■■■□<br/>
 Guter Service eines Tier-1-Carrier und Backbone-ISP. Bietet DNS Info, IP Info und mehr.
 - **[MX Toolbox](https://mxtoolbox.com/NetworkTools.aspx "MX Toolsbox")**<br/>
 45+ Netzwerk Tools ermöglichen Recherchen zu Domains, IP-Adressen, E-Mails und mehr.
@@ -22,15 +22,15 @@ Guter Service eines Tier-1-Carrier und Backbone-ISP. Bietet DNS Info, IP Info un
 Informationen zu IP-Adressen, AS Nummern, Mobile Carrier Detection und IP Geolocation.
 - **[Censys](https://search.censys.io/ "Censys")**<br/>
 Gezielte Suche liefert ausführliche Informationen zu Hosts und Zertifikaten.
-- **[Shodan](https://www.shodan.io/ "Shodan")**<br/>
+- **[Shodan](https://www.shodan.io/ "Shodan")** ■■■■■■<br/>
 Die Suchmaschine für Internet of Everything, das „Google“ für Hacker.
 - **[Natlas](https://natlas.io/ "Natlas")**<br/>
 Recherchemöglichkeit für IP-Adressen. Scant Hosts nach Services.
-- **[Host.io](https://host.io/ "Host.io")**<br/>
+- **[Host.io](https://host.io/ "Host.io")** ■■■■□□<br/>
 Mächtige und sehr schnelle Domain Name Data API.
 
 ## 📑 DOMAIN / IP WHOIS
-- **[Domaintools](https://research.domaintools.com/ "Domaintools")**<br/>
+- **[Domaintools](https://research.domaintools.com/ "Domaintools")** ■■■■■□<br/>
 Ermöglicht Whois Abfrage. Ein bezahlter Account bietet Whois und Hosting History als Report.
 - **[ICANN Lookup](https://lookup.icann.org/ "ICANN Lookup")**<br/>
 Whois Service der Internet Corporation for Assigned Names and Numbers. Unterstützt nicht jede TLD.
@@ -54,15 +54,15 @@ Geolokalisierung von IP-Adressen durch parallele Abfrage mehrerer Services.
 Gute, jedoch kostenpflichtige Geolokalisierung von IP-Adressen.
 
 ## 📑 DNS SERVER TOOLS
-- **[Spyse DNS Lookup](https://spyse.com/tools/dns-lookup "Spyse DNS Lookup")**<br/>
+- **[Spyse DNS Lookup](https://spyse.com/tools/dns-lookup "Spyse DNS Lookup")** ■■■■■□<br/>
 Sehr guter und ausführlicher DNS-Lookup, wird instant durchgeführt.
 - **[Passive DNS Tool](https://passivedns.mnemonic.no/ "Passive DNS Tool")**<br/>
 Sehr simple, passiv nutzbare DNS Abfrage.
 - **[Security Trails](https://securitytrails.com/dns-trails "Security Trails")**<br/>
 Mehr als 3.4 Trillionen historische DNS Records. Suche nach IP-Adresse, Host, Domain und Keyword möglich.
-- **[DNS Dumpster](https://dnsdumpster.com/ "DNS Dumpster")**<br/>
+- **[DNS Dumpster](https://dnsdumpster.com/ "DNS Dumpster")** ■■■■■□<br/>
 Grafische Darstellung von DNS-Lookups. Downloads der Endergebnisse als .xlsx möglich.
-- **[DNS History](http://dnshistory.org/ "DNS History")**<br/>
+- **[DNS History](http://dnshistory.org/ "DNS History")** ■■■■■□<br/>
 Ein weiteres Domain Name System (DNS) Archiv zu historischen Einträgen.
 - **[Into DNS](https://intodns.com/ "Into DNS")**<br/>
 Simpler DNS-Lookup und Health-Report, Ergebnis wird ausführlich in tabellarischer Form dargestellt.
@@ -80,7 +80,7 @@ Simpler Subdomain Finder von Spyse.
 Schnelles auffinden von Subdomains mittels DNS Recon.
 
 ## 📑 BACKLINK & TRAFFIC ANALYSE
-- **[Open Link Profiler](https://www.openlinkprofiler.org/ "Open Link Profiler")**<br/>
+- **[Open Link Profiler](https://www.openlinkprofiler.org/ "Open Link Profiler")** ■■■■■□<br/>
 Findet Backlinks einer Domain, um zu ermitteln, wo eine Zieldomain überall verlinkt wurde.
 - **[SEO Spyglass](https://www.link-assistant.com/seo-spyglass/free-backlink-checker-tool.html "SEO Spyglass")**<br/>
 Ein weiterer Backlink Checker. Ein kostenloser Account wird benötigt.
@@ -88,9 +88,9 @@ Ein weiterer Backlink Checker. Ein kostenloser Account wird benötigt.
 Analysiert den Traffic einer Webseite.
 
 ## 📑 DORKS & VULNERABILITIES
-- **[Google Hacking Database](https://www.exploit-db.com/google-hacking-database "Google Hacking Database")**<br/>
+- **[Google Hacking Database](https://www.exploit-db.com/google-hacking-database "Google Hacking Database")** ■■■■■■<br/>
 Das größte Google Dorks Archiv im Netz. Hier werden teils brisante Dorks nach Kategorien gelistet.
-- **[Investigator](https://abhijithb200.github.io/investigator/ "Investigator - A recon tool")**<br/>
+- **[Investigator](https://abhijithb200.github.io/investigator/ "Investigator - A recon tool")** ■■■■■□<br/>
 Einfache Recherche mittels vordefinierter Google Dorks zu einer Domain.
 - **[Bug Bounty Helper](https://dorks.faisalahmed.me/ "Bug Bounty Helper")**<br/>
 Ebenfalls ein Google Dork Service, jedoch nicht mehr ganz aktuell.

@@ -6,11 +6,11 @@
 Eine Sammlung von Links zu Werkzeugen, welche das Durchsuchen von digital archivierten Webseiten ermöglicht. Dadurch können beispielsweise ehemals existierende Versionen von Inhalten einer spezifischen Domain eingesehen werden.<br/><br/>
 
 ## 📑 WEB ARCHIVE
-- **[Quick Cache and Archive Search](https://cipher387.github.io/quickcacheandarchivesearch/)** [^1] <br/>
+- **[Quick Cache and Archive Search](https://cipher387.github.io/quickcacheandarchivesearch/)** ■■■■■□ [^1] <br/>
 Ein Tool zur parallelen Suche in bis zu 25+ Archiven und im Cache mittels 10+ Suchmaschinen.
-- **[WayBack Machine](https://archive.org/web/ "WayBack Maschine")**<br/>
+- **[WayBack Machine](https://archive.org/web/ "WayBack Maschine")** ■■■■■□<br/>
 Das bekannte Internet Archiv ermöglicht die Suche in 640 Billionen Webseiten.
-- **[Webpage Archive](https://archive.fo/ "Webpage Archive")**<br/>
+- **[Webpage Archive](https://archive.fo/ "Webpage Archive")** ■■■■□□<br/>
 Ermöglicht wie die WayBack Machine das Durchsuchen und digitale Speichern im Archiv.
 
 ## 📑 CACHE VIEWER

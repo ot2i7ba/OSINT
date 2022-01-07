@@ -6,7 +6,7 @@
 Mit [CWE-200](https://cwe.mitre.org/data/definitions/200.html "Common Weakness Enumeration - CWE-200") definiert das Common Weakness Enumeration diese Schwachstelle mit den Worten „Exposure of Sensitive Information to an Unauthorized Actor“. Leaked Sources sind eine hervorragende Informationsquelle und viele sind frei zugänglich.<br/><br/>
 
 ## 📑 OFFENLEGUNG PRÜFEN
-- **[Have i been pwned](https://haveibeenpwned.com/ "Have i been pwned")**<br/>
+- **[Have i been pwned](https://haveibeenpwned.com/ "Have i been pwned")** ■■■■■■<br/>
 Prüfen, ob eine E-Mail-Adresse oder Rufnummern von einem Breach betroffen ist und wenn ja, von welchem.
 - **[Breach Checker](https://breachchecker.com/ "Breach Checker")**<br/>
 Prüf wie "Have i been pwned" ob eine Email Opfer einer Datenoffenlegung wurde.
@@ -14,17 +14,17 @@ Prüf wie "Have i been pwned" ob eine Email Opfer einer Datenoffenlegung wurde.
 Prüft Daten auf Leaks. Bietet Alarm-Service, welcher über Veröffentlichung eigener Daten informiert. 
 
 ## 📑 DATENSÄTZE DURCHSUCHEN
-- **[Fuck Facebook](http://4wbwa6vcpvcr3vvf4qkhppgy56urmjcj2vagu2iqgp3z656xcmfdbiqd.onion.pet/ "Fuck Facebook")**<br/>
-Fuck Facebook hilft dabei, einen großen Datensatz von über 500 Millionen Facebook-Nutzern zu durchsuchen. Achtung, .onion Link!
-- **[Breach Directory](https://breachdirectory.org/ "Breach Directory")**<br/>
+- **[Fuck Facebook](http://4wbwa6vcpvcr3vvf4qkhppgy56urmjcj2vagu2iqgp3z656xcmfdbiqd.onion.pet/ "Fuck Facebook")** ■■■■■■<br/>
+Hilft dabei einen großen Datensatz von über 500 Millionen Facebook-Nutzern zu durchsuchen. Achtung, .onion Link!
+- **[Breach Directory](https://breachdirectory.org/ "Breach Directory")** ■■■■■□<br/>
 Fragt Nutzername, E-Mail und Rufnummern ab. Gibt Auskunft über Breach und Passwort-Hash.
-- **[IntelligenceX](https://intelx.io/ "IntelligenceX")**<br/>
+- **[IntelligenceX](https://intelx.io/ "IntelligenceX")** ■■■■■■<br/>
 Abfrage von Domain, E-Mail, IP, Bitcoin Adressen und mehr. Teilweise frei einsehbare Leaks.
-- **[DeHashed](https://dehashed.com/ "DeHashed")**<br/>
+- **[DeHashed](https://dehashed.com/ "DeHashed")** ■■■■■□<br/>
 Abfrage verschiedenster Parameter möglich. Benötigt einen Account. Teils kostenpflichtig.
-- **[Ghost Project](https://ghostproject.fr/ "Ghost Project")**<br/>
+- **[Ghost Project](https://ghostproject.fr/ "Ghost Project")** ■■■□□□<br/>
 Kostenpflichtiger Dienst zur Abfrage von E-Mails, Nutzernamen, Rufnummern und mehr.
-- **[We leak info](https://weleakinfo.to/ "We leak info")**<br/>
+- **[We leak info](https://weleakinfo.to/ "We leak info")** ■■■■□□<br/>
 Nutzernamen und E-Mails in mehr als 9 Milliarden Datensätzen abfragen.
 - **[Leak Lookup](https://leak-lookup.com/ "Leak Lookup")**<br/>
 Mittels API können 21 Milliarden Datensätze durchsucht werden.
@@ -32,14 +32,12 @@ Mittels API können 21 Milliarden Datensätze durchsucht werden.
 Ein weiterer Leak-Check. Ein freier Account liefert eingeschränkte Ergebnisse.
 - **[Leak Peek](https://leakpeek.to/ "Leak Peek")**<br/>
 8 Milliarden Datensätze nach E-Mail, Nutzername, Passwort, Keyword und Domain durchsuchen.
-- **[SnusBase](https://snusbase.com/ "SnusBase")**<br/>
+- **[SnusBase](https://snusbase.com/ "SnusBase")** ■■■□□□<br/>
 Älteste Data Breach Search Engine. Benötigt einen kostenpflichtigen Account.
 - **[Scylla](https://scylla.so/ "Scylla")**<br/>
 Scylla ist derzeit down! Wirbt aktuell mit 1.2 Trillionen Datensätzen zum Relaunch.
 - **[BugMeNot](http://bugmenot.com/ "BugMeNot")**<br/>
 Liefert schnell und unkompliziert Zugangsdaten zu diversen Diensten. Oft leider inkorrekt.
-- **[PSBDMP](https://psbdmp.ws/ "PSBDMP")**<br/>
-Dursuchen von öffentlich zugänglichen Pastebin Dumps mittels API.
 
 ## 📑 HASHWERTE SUCHEN
 - **[MD5Decrypt](https://md5decrypt.net/en/Sha1/ "MD5Decrypt")**<br/>
@@ -48,9 +46,9 @@ Offenbart Klartext zu MD5, SHA-1, SHA-256 und mehr anhand von bereits bekannten 
 Sucht Klartext zu MD5 Hashes aus bekannten Ressourcen.
 
 ## 📑 SONSTIGE DIENSTE
-- **[BugMeNot](http://bugmenot.com/ "BugMeNot")**<br/>
+- **[BugMeNot](http://bugmenot.com/ "BugMeNot")** ■■■□□□<br/>
 Liefert schnell und unkompliziert Zugangsdaten zu diversen Diensten. Oft leider inkorrekt.
-- **[PSBDMP](https://psbdmp.ws/ "PSBDMP")**<br/>
+- **[PSBDMP](https://psbdmp.ws/ "PSBDMP")** ■■■■□□<br/>
 Dursuchen von öffentlich zugänglichen Pastebin Dumps mittels API.
 
 <br/><br/>

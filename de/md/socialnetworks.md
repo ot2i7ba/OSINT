@@ -19,7 +19,7 @@ Ermittelt TikTok Profil ID. Unterstützt auch andere Netzwerke.
 
 ## 📑 FACEBOOK
 - **[Fuck Facebook](http://4wbwa6vcpvcr3vvf4qkhppgy56urmjcj2vagu2iqgp3z656xcmfdbiqd.onion.pet/ "Fuck Facebook")**<br/>
-Fuck Facebook hilft dabei, einen großen Datensatz von über 500 Millionen Facebook-Nutzern zu durchsuchen. Achtung, .onion Link!
+Hilft dabei einen großen Datensatz von über 500 Millionen Facebook-Nutzern zu durchsuchen. Achtung, .onion Link!
 - **[Facebook Search](https://sowsearch.info/ "Facebook Search")**<br/>
 Eine Schnittstelle zur vereinfachten Suche auf Facebook um die Lücke zur alten Graphsuche zu schließen.
 - **[Facebook Matrix](https://plessas.net/facebookmatrix "Facebook Matrix")**<br/>
