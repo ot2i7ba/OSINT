@@ -5,6 +5,10 @@
 # ℹ️ KARTEN & ROUTEN
 Eine Sammlung von Links zu Werkzeugen, welche digitales Kartenmaterial und Routenplaner beinhalten. Diese können genutzt werden, um beispielsweise unbekannte Örtlichkeiten im Vorfeld zu sichten.<br/><br/>
 
+## 📑 OSINT TOOLS
+- **[Open Street Map](https://cipher387.github.io/osintmap/ "OSINT Map")** ■■■■□□<br/>
+Eine Karte, welche länderspezifisch regionale OSINT Tools darstellt.
+
 ## 📑 FREIES KARTENMATERIAL
 - **[Open Street Map](https://www.openstreetmap.de/karte.html "Open Street Map")** ■■■■■■<br/>
 OpenStreetMap ist ein im Jahre 2004 gegründetes Projekt mit dem Ziel, eine freie Weltkarte zu erschaffen.

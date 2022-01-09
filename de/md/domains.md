@@ -84,6 +84,8 @@ Schnelles auffinden von Subdomains mittels DNS Recon.
 Findet Backlinks einer Domain, um zu ermitteln, wo eine Zieldomain überall verlinkt wurde.
 - **[SEO Spyglass](https://www.link-assistant.com/seo-spyglass/free-backlink-checker-tool.html "SEO Spyglass")**<br/>
 Ein weiterer Backlink Checker. Ein kostenloser Account wird benötigt.
+- **[Similarweb](http://vstat.info/ "VStat")**<br/>
+Analysiert den Traffic und die Keywords einer Webseite.
 - **[Similarweb](https://www.similarweb.com/de/ "Similarweb")**<br/>
 Analysiert den Traffic einer Webseite.
 

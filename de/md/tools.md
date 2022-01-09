@@ -14,6 +14,8 @@ Umfangreiche Sammlung zum Thema Google Dorks / Google Hacking. Von [cipher387](h
 Eine Sammlung von Tools, welche speziell die Recherchen zu Nutzernamen erleichtern. Von [soxoj](https://github.com/soxoj "soxoj").
 - **[OSINTsources](https://github.com/awareseven/OSINTsources "OSINTsources")**<br/>
 Mehreren Open Source Intelligence (OSINT) Quellen zusammengestellt von der [AWARE7 GmbH](https://github.com/awareseven "AWARE7 GmbH").
+- **[Awesome API Security](https://github.com/arainho/awesome-api-security "Awesome API Security")**<br/>
+Eine umfangreiche Sammlung von API-Sicherheitstools und -ressourcen. Von [André Rainho](https://github.com/arainho "André Rainho").
 - **[OSINT for Netstalking](https://github.com/netstalking-core/netstalking-osint "OSINT for Netstalking")**<br/>
 Diese Sammlung verweist auf Grundwissen, Anleitungen und Tools. Von [netstalking-core](https://github.com/netstalking-core "netstalking-core").
 - **[Awesome Telegram OSINT](https://github.com/ItIsMeCall911/Awesome-Telegram-OSINT "Awesome Telegram OSINT")**<br/>
@@ -22,6 +24,8 @@ Eine Sammlung von OSINT Tools für den Instant-Messaging-Dienst Telegram. Von [I
 Eine umfangreiche und gute gepflegte Liste von Open Source Tools. Von [CaledoniaProject](https://github.com/CaledoniaProject "CaledoniaProject").
 - **[Avoiding bot detection](https://github.com/niespodd/browser-fingerprinting "Avoiding bot detection")**<br/>
 Bot-Erkennung vermeiden: Wie kann man das Web durchsuchen, ohne blockiert zu werden? Von [Dariusz Niespodziany](https://github.com/niespodd "Dariusz Niespodziany").
+- **[Hacking-Tools](https://github.com/juliocarneiro/hacking-tools "Hacking-Tools")**<br/>
+Eine Sammlung von Tools für Hacker, Pentester und Sicherheitsforscher. Von [Júlio Carneiro](https://github.com/juliocarneiro "Júlio Carneiro").
 
 ## 📑 NUTZERNAMEN
 - **[Maigret](https://github.com/soxoj/maigret "Maigret")**<br/>
