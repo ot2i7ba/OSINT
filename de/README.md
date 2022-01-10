@@ -13,6 +13,8 @@ Angelehnt an einem Zitat aus dem Film Full Metal Jacket, möchte ich zum Ausdruc
 ## HINWEIS
 Um meinen Kollegen die Arbeit mit meiner Sammlung zu erleichtern, werde ich den Nutzen einzelner Tools künftig mit ■□□□□□ für gut, bis ■■■■■■ für extrem gut symbolisch kennzeichnen. Diese Wertung entspricht dabei nur meiner persönlichen Meinung in Bezug zu meinem / unseren Job. Eine fehlende Bewertung bedeutet NICHT, dass ein Tool unnütz ist. Grundsätzlich sind alle Tools auf ihre Art sehr hilfreich!<br/><br/>
 
+Um meinen Kollegen die Arbeit mit meiner Sammlung zu erleichtern, werde ich den Nutzen einzelner Tools künftig mit <img src="https://img.shields.io/badge/Bewertung-1%2F6-lightgrey"> für gut, bis <img src="https://img.shields.io/badge/Bewertung-6%2F6-lightgrey"> für extrem gut symbolisch kennzeichnen. Diese Wertung entspricht dabei nur meiner persönlichen Meinung in Bezug zu meinem / unseren Job. Eine fehlende Bewertung bedeutet NICHT, dass ein Tool unnütz ist. Grundsätzlich sind alle Tools auf ihre Art sehr hilfreich!<br/><br/>
+
 ## :file_folder: INHALT
 | Name | Beschreibung |
 | :-- | :-- |

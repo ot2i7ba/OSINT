@@ -8,6 +8,8 @@ Eine Sammlung von Links zu Werkzeugen, welche der Informationsgewinnung zu Domai
 ## 📑 DOMAIN / IP INVESTIGATOR
 - **[Spyse](https://spyse.com/ "Spyse - Domain & IP Investigation")** ■■■■■□<br/>
 Spürt digitale Fingerabdrücke zu Domains, IPv4 Hosts, SSL/TLS Zertifikaten und mehr auf.
+- **[SpyOnWeb](https://spyonweb.com/ "SpyOnWeb")**<br/>
+Bitet neben Standard-Informationen die Suche nach Google Analytics Unique Adsense IDs (UA).
 - **[IP Neighbors](https://www.ip-neighbors.com/ "IP Neighbors")**<br/>
 Ermöglicht das Auffinden zuvor unbekannter Websites und Details zu einer IP-Adresse.
 - **[Centralops](https://centralops.net/co/domaindossier.aspx "Centralops")** ■■■■■□<br/>
@@ -41,7 +43,7 @@ Whois Histroy und Reverse Whois sind teilweise aus kostenloser Demo ersichtlich.
 - **[Who is](https://who.is/ "Who is")**<br/>
 Eine weitere Whois Abfragemöglichkeit nach Domain oder IP-Adresse.
 - **[TOR Whois](https://torwhois.com/ "TOR Whois")**<br/>
-Whois Service zur Abfrage von *.onlion URLs im TOR Netzwerk.
+Whois Service zur Abfrage von .onlion URLs im TOR Netzwerk.
 
 ## 📑 DOMAIN / IP GEOLOKALISIERUNG
 - **[IP2Geolocation](https://ip2geolocation.com/ "IP2Geolocation")**<br/>
@@ -64,12 +66,15 @@ Mehr als 3.4 Trillionen historische DNS Records. Suche nach IP-Adresse, Host, Do
 Grafische Darstellung von DNS-Lookups. Downloads der Endergebnisse als .xlsx möglich.
 - **[DNS History](http://dnshistory.org/ "DNS History")** ■■■■■□<br/>
 Ein weiteres Domain Name System (DNS) Archiv zu historischen Einträgen.
+- **[DNS Lytics](https://dnslytics.com/ "DNS Lytics")**<br/>
+Ein weiterer DNS Reverse Lookup Service. Unterstützt Domain, IPv4/IPv6 und Provider Abfragen.
 - **[Into DNS](https://intodns.com/ "Into DNS")**<br/>
 Simpler DNS-Lookup und Health-Report, Ergebnis wird ausführlich in tabellarischer Form dargestellt.
 - **[View DNS](https://viewdns.info/ "View DNS")**<br/>
 Bietet neben DNS-Record-Lookup 20+ weitere Netzwerk Tools.
 - **[DNSViz](https://dnsviz.net/ "DNSVis")**<br/>
 Visuelle Darstellung von DNS-Abfragen. Download als .png und .svg möglich.
+
 
 ## 📑 SUBDOMAINS FINDEN
 - **[Nmmapper Subdomain Finder](https://www.nmmapper.com/sys/tools/subdomainfinder/ "Nmmapper Subdomain Finder")**<br/>
@@ -89,7 +94,7 @@ Analysiert den Traffic und die Keywords einer Webseite.
 - **[Similarweb](https://www.similarweb.com/de/ "Similarweb")**<br/>
 Analysiert den Traffic einer Webseite.
 
-## 📑 DORKS & VULNERABILITIES
+## 📑 DORKS, SECURITY & VULNERABILITIES
 - **[Google Hacking Database](https://www.exploit-db.com/google-hacking-database "Google Hacking Database")** ■■■■■■<br/>
 Das größte Google Dorks Archiv im Netz. Hier werden teils brisante Dorks nach Kategorien gelistet.
 - **[Investigator](https://abhijithb200.github.io/investigator/ "Investigator - A recon tool")** ■■■■■□<br/>
@@ -98,6 +103,8 @@ Einfache Recherche mittels vordefinierter Google Dorks zu einer Domain.
 Ebenfalls ein Google Dork Service, jedoch nicht mehr ganz aktuell.
 - **[Snyk Website Scanner](https://snyk.io/website-scanner/ "Snyk Website Scanner")**<br/>
 Sicherheitscheck auf bekannte Schwachstellen und HTTP-Sicherheitsheader.
+- **[Virus Total](https://www.virustotal.com/ "Virus Total")**<br/>
+Dieser Dienst prüft nicht nur auf Schadcode, sondern liefert auch Domain Details.
 
 ## 📑 TECHNIK CHECK
 - **[Privacy Inspector](https://themarkup.org/blacklight/ "Backlight Privacy Inspector")**<br/>
@@ -120,6 +127,8 @@ Analysiert eingesetzte Zertifikate einer Domain. Ermöglicht eine Rückwärtssuc
 Prüft, ob eine Webseite wirklich down ist, oder ob diese ggf. nur aufgrund von Geolokalisierung blockiert ist.
 - **[Lookyloo](http://lookyloo.circl.lu "Lookyloo")**<br/>
 Ein Webinterface, um Webseiten zu scrapen (durchsuchen) und Baumdiagram darzustellen.
+- **[Visual Ping](https://visualping.io/ "Visual Ping")**<br/>
+ Überwacht Änderungen (Mointoring) von Webseiten und informiert via E-Mail darüber.
 
 <br/><br/>
 <div align="left">
