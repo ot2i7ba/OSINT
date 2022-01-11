@@ -6,6 +6,8 @@
 Eine Sammlung von Programmen, Skripten und inhaltsbezogen Kollektionen, welche OSINT Recherchen erleichtern.<br/><br/>
 
 ## 📑 NÜTZLICHES
+- **[Swiss Online Investigation Toolkit](https://docs.google.com/spreadsheets/u/0/d/1LHP3gfppDBBPENffw9R7FrhpRxhmP0UhaLiklbQN7tA/htmlview "Swiss Online Investigation Toolkit")**<br/>
+Umfangreiche und gut sortierte Sammlung von Recherche-Ressourcen. Von [Zard8](https://twitter.com/Zard8 "Zard8") & [Techjournalisto](https://twitter.com/Techjournalisto "Techjournalisto").
 - **[OSINT tools collection](https://github.com/cipher387/osint_stuff_tool_collection "OSINT tools collection")**<br/>
 Eine sehr umfangreiche und gut gepflegte Sammlung. Von [cipher387](https://github.com/cipher387 "cipher387").
 - **[Dorks collections list](https://github.com/cipher387/Dorks-collections-list "Open source security tools")**<br/>
@@ -30,6 +32,12 @@ Eine Sammlung von Tools für Hacker, Pentester und Sicherheitsforscher. Von [Jú
 ## 📑 NUTZERNAMEN
 - **[Maigret](https://github.com/soxoj/maigret "Maigret")**<br/>
 Sammelt Informationen anhand von Nutzernamen, unterstützt 2500+ Seiten. Auch als [EXE](https://github.com/soxoj/maigret/releases "EXE") für Windows. Von [soxoj](https://github.com/soxoj "soxoj").
+- **[Sherlock](https://github.com/sherlock-project/sherlock "Sherlock")**<br/>
+Durchsucht Konten in sozialen Medien anhand eines definierten Benutzernamens. Von [Sherlock Project](https://github.com/sherlock-project "Sherlock Project").
+- **[Pyosint](https://github.com/d8rkmind/Pyosint "Pyosint")**<br/>
+Durchsucht mehr als 350+ Dienste auf Existenz eines definierten Nutzernamens. Von [d8rkmind](https://github.com/d8rkmind "d8rkmind").
+- **[UserFinder](https://github.com/mishakorzik/UserFinder "UserFinder")**<br/>
+Findet Benutzerinformationen in sozialen Netzwerken und mehr. Von [mishakorzik](https://github.com/mishakorzik "mishakorzik").
 
 ## 📑 SOZIALE NETZWERKE
 - **[XingDumper](https://github.com/l4rm4nd/XingDumper "Telegram Nearby Map")**<br/>
@@ -66,12 +74,16 @@ Ein unglaublich schnelles Aufklärungstool für Penetrationstester. Von [powerex
 Sammelt informationen anhand von E-Mail, Nutzername, Twitter, Instagram und mehr. Von [Hacker Target](https://github.com/pyhackertarget "Hacker Target").
 
 ## 📑 SONSTIGES
+- **[Fact Check Explorer](https://toolbox.google.com/factcheck/explorer "Fact Check Explorer")**<br/>
+Der Fact Check Explorer von Google prüft Wahrheitsgehalt Suchtreffern.
 - **[Depix](https://github.com/beurtschipper/Depix "Depix")**<br/>
 Depix ist ein Tool zum Wiederherstellen von Passwörtern aus verpixelten Screenshots. Von [beurtschipper](https://github.com/beurtschipper "beurtschipper").
 - **[Vortimo](https://www.vortimo.com/ "Vortimo")**<br/>
 Eine Software, welche bei Online-Ermittlungen behilflich ist. Sie wird von vielen OSINT Experten geschätzt.
 - **[Gamayun](https://sociallinks.io/products/gamayun "Gamayun")**<br/>
 Eine Software, welche mehrere Tools für Online-Ermittlungen vereint.
+- **[Diagrams](https://www.diagrams.net/ "Diagrams")**<br/>
+Online-Dienst zur Erstellung von Diagrammen, ohne Login nutzbar.
 
 <br/><br/>
 <div align="left">

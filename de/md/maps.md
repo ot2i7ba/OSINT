@@ -24,6 +24,8 @@ Satellitenbilder, Regenradar, Verfolgung von Hurrikans, Waldbrände und Wetter i
 Vereint Apple Map, Open Street Map, Google Maps, Esri Maps, MapBox und Yandex Map.
 - **[Soar Earth](https://soar.earth/ "Soar Earth")** ■■□□□□<br/>
 Soar Earth ist dabei, den größten digitalen Atlas mit Weltkarten und Bildern zu erstellen.
+- **[Earthondemand](https://earthondemand.astraea.earth/ "Earthondemand")** ■■■■□□<br/>
+Sucht frei verfügbare Satellitenbildern und bietet viele Filtermöglichkeiten.
 
 ## 📑 ROUTEN SICHTEN
 - **[Show My Street](https://showmystreet.com/ "Show My Street")** ■■■■□□<br/>
@@ -60,6 +62,8 @@ Kostenlose Karte von TeleGeography, welche Unterseekabel darstellt.
 Stellt historische Fotoaufnahmen zu Örtlichkeiten auf einer Karte dar.
 - **[OSM Buildings](https://osmbuildings.org/ "OSM Buildings")**<br/>
 Kostenloser und quelloffener Webviewer für 3D-Gebäude. Unterstützt OpenStreetMap-Tagging-Schemata.
+- **[Skyscraper](https://skyscraperpage.com/ "Skyscraper")**<br/>
+Zeigt Fotos, Standort und weiterführende Informationen zu Wolkenkratzern weltweit.
 - **[Open Wifi Map](https://openwifimap.net/ "Open Wifi Map")**<br/>
 Stellt offene WiFi Netze anhand derer Position auf einer Karte dar.
 - **[Open Cell ID](https://opencellid.org/ "Open Cell ID")**<br/>

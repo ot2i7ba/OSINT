@@ -16,6 +16,8 @@ Durchsucht die Blockchain, finde Informationen, welche andere Block-Explorer nic
 Analysieren von Bitcoin Transaktionen. Ermöglicht den direkten Export in Excel.
 - **[Etherscan](https://etherscan.io/ "Etherscan")**<br/>
 Der Ethereum (ETH) Blockchain Explorer.
+- **[Zapper](https://zapper.fi/de "Zapper")**<br/>
+Anhand von Wallet-ID sämtliche Aktivitäten einsehen.
 
 ## 📑 CRYPTOS KAUFEN
 - **[CryptoVoucher](https://cryptovoucher.io/ "CryptoVoucher")**<br/>
