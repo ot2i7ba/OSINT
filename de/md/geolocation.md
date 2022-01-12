@@ -3,7 +3,7 @@
 </div>
 
 # ℹ️ GEOLOKALISIERUNG
-Zur Lokalisierung sind diverse [Karten](maps.md) sehr hilfreich. Hier finden sich zudem Werkzeuge, welche beispielsweise anhand von Sonnenstand und Schattenwurf bei der Lokalisierung von Fotoaufnahmen helfen.<br/><br/>
+Ob nun [Kartenmaterial & Routenplanung](md/maps.md), Geolokalisierung oder [Radar & Tracker](md/tracker.md). Diese Rubriken behandeln alle geografische Darstellungen von Informationen und wurden aufgrund ihres Umfangs und Nutzens bewusst getrennt.<br/><br/>
 
 ## 📑 INFORMATIONEN
 - **[Bellingcat](https://www.bellingcat.com/resources/2020/12/03/using-the-sun-and-the-shadows-for-geolocation/ "Bellingcat")**<br/>

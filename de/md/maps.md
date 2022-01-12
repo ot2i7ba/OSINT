@@ -3,7 +3,7 @@
 </div>
 
 # ℹ️ KARTEN & ROUTEN
-Eine Sammlung von Links zu Werkzeugen, welche digitales Kartenmaterial und Routenplaner beinhalten. Diese können genutzt werden, um beispielsweise unbekannte Örtlichkeiten im Vorfeld zu sichten.<br/><br/>
+Ob nun Kartenmaterial & Routenplanung, [Geolokalisierung](md/geolocation.md) oder [Radar & Tracker](md/tracker.md). Diese Rubriken behandeln alle geografische Darstellungen von Informationen und wurden aufgrund ihres Umfangs und Nutzens bewusst getrennt.<br/><br/>
 
 ## 📑 OSINT TOOLS
 - **[Open Street Map](https://cipher387.github.io/osintmap/ "OSINT Map")** ■■■■□□<br/>
