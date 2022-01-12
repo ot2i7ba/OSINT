@@ -68,6 +68,8 @@ Zeigt Fotos, Standort und weiterführende Informationen zu Wolkenkratzern weltwe
 Stellt offene WiFi Netze anhand derer Position auf einer Karte dar.
 - **[Open Cell ID](https://opencellid.org/ "Open Cell ID")**<br/>
 Darstellung von Mobilfunkdatensätzen zur Ermittlung von Position und Abdeckung von Sendemasten.
+- **[Localingual](https://localingual.com/ "Localingual")**<br/>
+Welche Sprache wird wo auf der Welt gesprochen? Diese Map sagt es Dir.
 - **[Webcam Taxi](https://www.webcamtaxi.com/en/germany.html "Webcam Taxi")** ■■□□□□<br/>
 Darstellung frei zugänglicher Webcams auf einer Karte.
 - **[Wigle](https://www.wigle.net/ "Wireless Network Mapping")** ■■■■■■<br/>

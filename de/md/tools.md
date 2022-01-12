@@ -6,8 +6,6 @@
 Eine Sammlung von Programmen, Skripten und inhaltsbezogen Kollektionen, welche OSINT Recherchen erleichtern.<br/><br/>
 
 ## 📑 NÜTZLICHES
-- **[Swiss Online Investigation Toolkit](https://docs.google.com/spreadsheets/u/0/d/1LHP3gfppDBBPENffw9R7FrhpRxhmP0UhaLiklbQN7tA/htmlview "Swiss Online Investigation Toolkit")**<br/>
-Umfangreiche und gut sortierte Sammlung von Recherche-Ressourcen. Von [Zard8](https://twitter.com/Zard8 "Zard8") & [Techjournalisto](https://twitter.com/Techjournalisto "Techjournalisto").
 - **[OSINT tools collection](https://github.com/cipher387/osint_stuff_tool_collection "OSINT tools collection")**<br/>
 Eine sehr umfangreiche und gut gepflegte Sammlung. Von [cipher387](https://github.com/cipher387 "cipher387").
 - **[Dorks collections list](https://github.com/cipher387/Dorks-collections-list "Open source security tools")**<br/>
@@ -20,6 +18,10 @@ Mehreren Open Source Intelligence (OSINT) Quellen zusammengestellt von der [AWAR
 Eine umfangreiche Sammlung von API-Sicherheitstools und -ressourcen. Von [André Rainho](https://github.com/arainho "André Rainho").
 - **[OSINT for Netstalking](https://github.com/netstalking-core/netstalking-osint "OSINT for Netstalking")**<br/>
 Diese Sammlung verweist auf Grundwissen, Anleitungen und Tools. Von [netstalking-core](https://github.com/netstalking-core "netstalking-core").
+- **[Intelligence Writing](https://github.com/mxm0z/awesome-intelligence-writing "Intelligence Writing")**<br/>
+Umfangreiche und gut sortierte Sammlung zum Thema Intelligence Writing. Von [Ygor Maximo](https://github.com/mxm0z "Ygor Maximo").
+- **[Swiss Online Investigation Toolkit](https://docs.google.com/spreadsheets/u/0/d/1LHP3gfppDBBPENffw9R7FrhpRxhmP0UhaLiklbQN7tA/htmlview "Swiss Online Investigation Toolkit")**<br/>
+Umfangreiche und gut sortierte Sammlung von Recherche-Ressourcen. Von [Zard8](https://twitter.com/Zard8 "Zard8") & [Techjournalisto](https://twitter.com/Techjournalisto "Techjournalisto").
 - **[Awesome Telegram OSINT](https://github.com/ItIsMeCall911/Awesome-Telegram-OSINT "Awesome Telegram OSINT")**<br/>
 Eine Sammlung von OSINT Tools für den Instant-Messaging-Dienst Telegram. Von [ItIsMeCall911](https://github.com/ItIsMeCall911 "ItIsMeCall911").
 - **[Open source security tools](https://github.com/CaledoniaProject/awesome-opensource-security "Open source security tools")**<br/>

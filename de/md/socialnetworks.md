@@ -24,6 +24,8 @@ Hilft dabei einen großen Datensatz von über 500 Millionen Facebook-Nutzern zu 
 Eine Schnittstelle zur vereinfachten Suche auf Facebook um die Lücke zur alten Graphsuche zu schließen.
 - **[Facebook Matrix](https://plessas.net/facebookmatrix "Facebook Matrix")**<br/>
 Eine detaillierte Anleitung zum Erstellen einer URL mit verschlüsselten Parametern für die Facebook-Suche.
+- **[Facebook ADS Libary](https://www.facebook.com/ads/library/ "Facebook ADS Libary")**<br/>
+Suche nach Benutzernamen und Schlagworten in Facebook, Instagram und WhatsApp in Werbung.
 
 ## 📑 YOUTUBE
 - **[Youtube Geofind](https://mattw.io/youtube-geofind/ "Youtube Geofind")**<br/>
@@ -40,16 +42,48 @@ Durchsucht Instagram-Bios nach Schlagworten. Nützlich um z.B. Nutzer gewisser G
 Anonymer Instagram-Story-Viewer. Online-Ansicht von Profilen, Reels, Stores, Followern und markierten Posts.
 - **[Ninja Outreach](https://ninjaoutreach.com/ "Ninja Outreach")**<br/>
 Analysiert Instagram Profile anhand von Nutzername oder Schlagwort, findet „Influencer“.
+- **[instaloctrack](https://github.com/bernsteining/instaloctrack "instaloctrack")**<br/>
+Ein Tool zum scrapen von Geotagged-Standorten in Instagram-Profilen. Ausgabe in JSON & interaktive Karte.
+- **[sterraxcyl](https://github.com/novitae/sterraxcyl "sterraxcyl")**<br/>
+Ein SOCMINT-Tool, um Informationen zu den Followern einesInstagram-Kontos zu erhalten.
+- **[toutatis](https://github.com/megadose/toutatis "toutatis")**<br/>
+Extrahiert Informationen aus Instagram-Konten wie E-Mails, Telefonnummern und mehr.
+- **[Picuki](https://www.picuki.com/ "Picuki")**<br/>
+Durchsucht Instagram anhand von Nutzernamen, Tags, Standorten.
+
+## 📑 TIKTOK
+- **[TikTok Timestamp](https://bellingcat.github.io/tiktok-timestamp/ "TikTok Timestamp")**<br/>
+Bestimmt den Zeitpunkt der Veröffentlichung eines TikTok Videos.
+- **[TikTok Scraper](https://github.com/drawrowfly/tiktok-scraper "TikTok Scraper")**<br/>
+Ohne Login oder Passwort Medien und Metainformationen scrapen.
+- **[UrleBird](https://urlebird.com/de/ "UrleBird")**<br/>
+Benutzer, Videos, Hashtags und Musik leicht durchsuchen, ohne Account.
+- **[Exolyt](https://exolyt.com/ "Exolyt")**<br/>
+Ein Analysetool, welches Influencern, Vermarktern und Content-Erstellern helfen soll.
+- **[SnapTik](https://snaptik.app/ "SnapTik")**<br/>
+TikTok Video-Downloader, ohne Wasserzeichen.
+
+## 📑 SNAPCHAT
+- **[Ghostdex](https://ghostdex.app/ "Ghostdex")**<br/>
+Ghostdex ist eine inoffizielle, durchsuchbare Datenbank mit Snapchat-Benutzernamen.
 
 ## 📑 TWITTER
 - **[Social Bearing](https://socialbearing.com/ "Social Bearing")**<br/>
 Analyse und Suche nach Tweets. Suchen, filtern und sortieren von Tweets oder Personen.
 
+## 📑 ONLYFANS
+- **[Only Search](https://onlysearch.co/ "Only Search")**<br/>
+Findet OnlyFans Profile anhand einer Schlagwortsuche.
+
 ## 📑 SONSTIGES
+- **[Digital Business Card CSE](https://cse.google.com/cse?cx=bee58a1c31f451e4a "Digital Business Card CSE")**<br/>
+Durchsucht typische Webseiten & Verzeichnisse nach digitalen Visitenkarten.
 - **[Export Comments](https://exportcomments.com/ "Export Comments")**<br/>
 Exportiert frei zugängliche Kommentare aus sozialen Netzwerken in eine Excel-Datei.
 - **[Social Blade](https://socialblade.com/ "Social Blade")**<br/>
 Social Blade verfolgt Benutzerstatistiken für YouTube, Twitch, Instagram und Twitter.
+- **[Ignorant](https://github.com/megadose/ignorant "Ignorant")**<br/>
+Prüft Rufnummern auf Verwendung in Snapchat & Instagram.
 
 <br/><br/>
 <div align="left">
