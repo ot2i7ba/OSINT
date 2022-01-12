@@ -20,9 +20,9 @@ Um meinen Kollegen die Arbeit mit meiner Sammlung zu erleichtern, werde ich den 
 | [E-Mail Intelligence](md/emails.md) | Recherchetools zu E-Mail-Adressen. Recon, Validierung & Services. |
 | [Domain & IP-Tools](md/domains.md) | Informationsgewinnung zu Domains & IP-Adressen. |
 | [Foto- & Bildersuche](md/images.md) | Fotos und Bilder online suchen und identifizieren. |
-| [Karten & Routen](md/maps.md) | Digitales Kartenmaterial und Routenplanung Siehe [auch](md/geolocation.md "Geolokalisierung"). |
-| [Geolokalisierung](md/geolocation.md) | Identifizierung von Aufnahmeorte und Aufnahmezeit. Siehe [auch](md/maps.md "Geolokalisierung"). |
-| [Radar & Tracker](md/tracker.md) | Echtzeit-Positionsdarstellung von Flugzeugen und mehr. Siehe [auch](md/geolocation.md "Geolokalisierung") & [auch](md/maps.md "Geolokalisierung"). |
+| [Karten & Routen](md/maps.md) | Digitales Kartenmaterial und Routenplanung. |
+| [Geolokalisierung](md/geolocation.md) | Identifizierung von Aufnahmeorte und Aufnahmezeit. |
+| [Radar & Tracker](md/tracker.md) | Echtzeit-Positionsdarstellung von Transportmitteln und mehr. |
 | [Benutzer & Profile](md/usernames.md) | Tools um Benutzernamen & Profile zu suchen und zu finden. |
 | [Soziale Netzwerke](md/socialnetworks.md) | Werkzeuge für die Recherche in sozialen Netzwerken. |
 | [Messenger Dienste](md/messenger.md) | Tools für Instant Messaging Dienste. |
