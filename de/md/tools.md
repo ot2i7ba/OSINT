@@ -8,6 +8,8 @@ Eine Sammlung von Programmen, Skripten und inhaltsbezogen Kollektionen, welche O
 ## 📑 NÜTZLICHES / SAMMLUNGEN
 - **[OSINT tools collection](https://github.com/cipher387/osint_stuff_tool_collection "OSINT tools collection")**<br/>
 Eine sehr umfangreiche und gut gepflegte Sammlung. Von [cipher387](https://github.com/cipher387 "cipher387").
+- **[OSINT Essentials](https://www.osintessentials.com/ "OSINT Essentials")**<br/>
+Ressourcen und Expertisen für Open-Source-Recherchen und Medienkompetenz. Von [Eoghan Sweeney](https://twitter.com/osintessentials "Eoghan Sweeney").
 - **[Dorks collections list](https://github.com/cipher387/Dorks-collections-list "Open source security tools")**<br/>
 Umfangreiche Sammlung zum Thema Google Dorks / Google Hacking. Von [cipher387](https://github.com/cipher387 "cipher387").
 - **[OSINT namecheckers list](https://github.com/soxoj/osint-namecheckers-list "OSINT namecheckers list")**<br/>

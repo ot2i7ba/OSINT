@@ -28,6 +28,8 @@ Dienst zur Identifizierung von Objekten in Fotos.
 Dienst zur Identifizierung von Pflanzen auf Fotos.
 
 ## 📑 EXIF ANALYSE
+- **[Image Forensic](https://www.imageforensic.org/ "Image Forensic")**<br/>
+Exif-Daten und mehr online einsehen und Manipulationen feststellen.
 - **[Exif App](https://exif.app/ "Exif App")**<br/>
 Exif-Daten online einsehen und Unterschiede feststellen.
 

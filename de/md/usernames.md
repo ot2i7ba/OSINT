@@ -10,6 +10,8 @@ Egal ob man es nun benutzername, Username, Nickname, Profil oder schlicht Accoun
 Einer der neusten und besten Dienste in diesem Bereich. Erstellt Zusammenfassung zur Zielperson.
 - **[Lampyre](https://lampyre.io/ "Lampyre.io")** ■■■■■■<br/>
 Bezieht Daten aus offenen Quellen unter Verwendung von E-Mail-Adresse, Telefonnummer, IP-Adresse, Domainname usw.
+- **[Spokeo](https://www.spokeo.com/ "Spokeo")**<br/>
+Findet vertrauliche Informationen anhand von Nutzernamen, Rufnummrt, E-Masil und Anschrift.
 - **[Usersearch](https://usersearch.org/index.php "Usersearch")** ■■■■■□<br/>
 Durchsucht 600+ Dienste wie soziale Netzwerke, Dating Seiten, Crypto Foren, Chats & Blogs.
 - **[Maigret](https://github.com/soxoj/maigret "Maigret")** ■■■■■■<br/>
