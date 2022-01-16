@@ -70,8 +70,12 @@ Umfangreiche Informationsquelle zum Thema Privatsphäre und Anonymisierung.
 Umfangreicher Tweak-Pool, um die Sicherheit und den Datenschutz des Betriebssystems zu verbessern.
 
 ## 📑 SONSTIGES
-- **[Accs Market](https://accsmarket.com/ "Accs MArket")** ■■■■■□<br/>
+- **[Accs Market](https://accsmarket.com/ "Accs Market")** ■■■■■□<br/>
 Accounts für eine Vielzahl sozialer Netzwerke käuflich erwerben. ACHTUNG, VERBOTEN!
+
+<br/><br/>
+# 📌 LEGENDE
+[P] > Python Script, [R] > Regiestrierung nötig/vorteilhaft, [€$] > kostenpflichtig, [VPN] > VPN ratsam, [BOT] Bot Service, [DEL] Fake Account löschen!<br/><br/>
 
 <br/><br/>
 <div align="left">

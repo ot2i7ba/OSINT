@@ -24,7 +24,7 @@ Guter Service eines Tier-1-Carrier und Backbone-ISP. Bietet DNS Info, IP Info un
 Informationen zu IP-Adressen, AS Nummern, Mobile Carrier Detection und IP Geolocation.
 - **[Censys](https://search.censys.io/ "Censys")**<br/>
 Gezielte Suche liefert ausführliche Informationen zu Hosts und Zertifikaten.
-- **[Shodan](https://www.shodan.io/ "Shodan")** ■■■■■■<br/>
+- **[Shodan](https://www.shodan.io/ "Shodan")** [R], [€$] ■■■■■■<br/>
 Die Suchmaschine für Internet of Everything, das „Google“ für Hacker.
 - **[Natlas](https://natlas.io/ "Natlas")**<br/>
 Recherchemöglichkeit für IP-Adressen. Scant Hosts nach Services.
@@ -32,7 +32,7 @@ Recherchemöglichkeit für IP-Adressen. Scant Hosts nach Services.
 Mächtige und sehr schnelle Domain Name Data API.
 
 ## 📑 DOMAIN / IP WHOIS
-- **[Domaintools](https://research.domaintools.com/ "Domaintools")** ■■■■■□<br/>
+- **[Domaintools](https://research.domaintools.com/ "Domaintools")** [R], [€$] ■■■■■□<br/>
 Ermöglicht Whois Abfrage. Ein bezahlter Account bietet Whois und Hosting History als Report.
 - **[ICANN Lookup](https://lookup.icann.org/ "ICANN Lookup")**<br/>
 Whois Service der Internet Corporation for Assigned Names and Numbers. Unterstützt nicht jede TLD.
@@ -74,7 +74,6 @@ Simpler DNS-Lookup und Health-Report, Ergebnis wird ausführlich in tabellarisch
 Bietet neben DNS-Record-Lookup 20+ weitere Netzwerk Tools.
 - **[DNSViz](https://dnsviz.net/ "DNSVis")**<br/>
 Visuelle Darstellung von DNS-Abfragen. Download als .png und .svg möglich.
-
 
 ## 📑 SUBDOMAINS FINDEN
 - **[Nmmapper Subdomain Finder](https://www.nmmapper.com/sys/tools/subdomainfinder/ "Nmmapper Subdomain Finder")**<br/>
@@ -129,6 +128,10 @@ Prüft, ob eine Webseite wirklich down ist, oder ob diese ggf. nur aufgrund von 
 Ein Webinterface, um Webseiten zu scrapen (durchsuchen) und Baumdiagram darzustellen.
 - **[Visual Ping](https://visualping.io/ "Visual Ping")**<br/>
  Überwacht Änderungen (Mointoring) von Webseiten und informiert via E-Mail darüber.
+
+<br/><br/>
+# 📌 LEGENDE
+[P] > Python Script, [R] > Regiestrierung nötig/vorteilhaft, [€$] > kostenpflichtig, [VPN] > VPN ratsam, [BOT] Bot Service, [DEL] Fake Account löschen!<br/><br/>
 
 <br/><br/>
 <div align="left">

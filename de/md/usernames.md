@@ -8,19 +8,21 @@ Egal ob man es nun benutzername, Username, Nickname, Profil oder schlicht Accoun
 ## 📑 ACCOUNT- & PROFILSUCHE
 - **[Username Checker](https://analyzeid.com/username/ "Username Checker")** ■■■■■■<br/>
 Einer der neusten und besten Dienste in diesem Bereich. Erstellt Zusammenfassung zur Zielperson.
-- **[Lampyre](https://lampyre.io/ "Lampyre.io")** ■■■■■■<br/>
+- **[Lampyre](https://lampyre.io/ "Lampyre.io")** [R], [€$], [DEL] ■■■■■■<br/>
 Bezieht Daten aus offenen Quellen unter Verwendung von E-Mail-Adresse, Telefonnummer, IP-Adresse, Domainname usw.
 - **[Spokeo](https://www.spokeo.com/ "Spokeo")**<br/>
 Findet vertrauliche Informationen anhand von Nutzernamen, Rufnummrt, E-Masil und Anschrift.
+- **[Nexfil](https://github.com/thewhiteh4t/nexfil "Nexfil")** [P] ■■■■□□<br/>
+Prüft 300+ Dienste auf Existenz eines definierten Nutzernamens.
 - **[Usersearch](https://usersearch.org/index.php "Usersearch")** ■■■■■□<br/>
 Durchsucht 600+ Dienste wie soziale Netzwerke, Dating Seiten, Crypto Foren, Chats & Blogs.
-- **[Maigret](https://github.com/soxoj/maigret "Maigret")** ■■■■■■<br/>
+- **[Maigret](https://github.com/soxoj/maigret "Maigret")** [P] ■■■■■■<br/>
 Sammelt Informationen anhand von Nutzernamen, unterstützt 2500+ Seiten. Auch als [EXE](https://github.com/soxoj/maigret/releases "EXE") für Windows.
-- **[Sherlock](https://github.com/sherlock-project/sherlock "Sherlock")** ■■■■■■<br/>
+- **[Sherlock](https://github.com/sherlock-project/sherlock "Sherlock")** [P] ■■■■■■<br/>
 Durchsucht Konten in sozialen Medien anhand eines definierten Benutzernamens.
-- **[Pyosint](https://github.com/d8rkmind/Pyosint "Pyosint")** ■■■□□□<br/>
+- **[Pyosint](https://github.com/d8rkmind/Pyosint "Pyosint")** [P] ■■■□□□<br/>
 Durchsucht mehr als 350+ Dienste auf Existenz eines definierten Nutzernamens.
-- **[UserFinder](https://github.com/mishakorzik/UserFinder "UserFinder")**<br/>
+- **[UserFinder](https://github.com/mishakorzik/UserFinder "UserFinder")** [P]<br/>
 Findet Benutzerinformationen in sozialen Netzwerken und mehr.
 - **[Go Find Who](https://gofindwho.com/ "Go Find Who")** ■■■■□□<br/>
 Personen anhand von Name, E-Mail, Rufnummer etc. auf Facebook und in öffentlichen Quellen.
@@ -32,6 +34,10 @@ Prüft 70+ Dienste auf Existenz eines definierten Nutzernamens.
 ## 📑 SCAM & FAKE
 - **[ScamDigger](http://scamdigger.com/ "Scam Digger")** ■■■□□□<br/>
 Sucht in einer scammer-Datenbank nach Namen, E-Mail, IP-Adresse oder Rufnummer.
+
+<br/><br/>
+# 📌 LEGENDE
+[P] > Python Script, [R] > Regiestrierung nötig/vorteilhaft, [€$] > kostenpflichtig, [VPN] > VPN ratsam, [BOT] Bot Service, [DEL] Fake Account löschen!<br/><br/>
 
 <br/><br/>
 <div align="left">

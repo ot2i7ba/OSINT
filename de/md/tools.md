@@ -36,53 +36,53 @@ Bot-Erkennung vermeiden: Wie kann man das Web durchsuchen, ohne blockiert zu wer
 Eine Sammlung von Tools für Hacker, Pentester und Sicherheitsforscher. Von [Júlio Carneiro](https://github.com/juliocarneiro "Júlio Carneiro").
 
 ## 📑 NUTZERNAMEN
-- **[Maigret](https://github.com/soxoj/maigret "Maigret")**<br/>
+- **[Maigret](https://github.com/soxoj/maigret "Maigret")** [P]<br/>
 Sammelt Informationen anhand von Nutzernamen, unterstützt 2500+ Seiten. Auch als [EXE](https://github.com/soxoj/maigret/releases "EXE") für Windows. Von [soxoj](https://github.com/soxoj "soxoj").
-- **[Sherlock](https://github.com/sherlock-project/sherlock "Sherlock")**<br/>
+- **[Sherlock](https://github.com/sherlock-project/sherlock "Sherlock")** [P]<br/>
 Durchsucht Konten in sozialen Medien anhand eines definierten Benutzernamens. Von [Sherlock Project](https://github.com/sherlock-project "Sherlock Project").
-- **[Pyosint](https://github.com/d8rkmind/Pyosint "Pyosint")**<br/>
+- **[Pyosint](https://github.com/d8rkmind/Pyosint "Pyosint")** [P]<br/>
 Durchsucht mehr als 350+ Dienste auf Existenz eines definierten Nutzernamens. Von [d8rkmind](https://github.com/d8rkmind "d8rkmind").
-- **[UserFinder](https://github.com/mishakorzik/UserFinder "UserFinder")**<br/>
+- **[UserFinder](https://github.com/mishakorzik/UserFinder "UserFinder")** [P]<br/>
 Findet Benutzerinformationen in sozialen Netzwerken und mehr. Von [mishakorzik](https://github.com/mishakorzik "mishakorzik").
 
 ## 📑 SOZIALE NETZWERKE
-- **[XingDumper](https://github.com/l4rm4nd/XingDumper "Telegram Nearby Map")**<br/>
+- **[XingDumper](https://github.com/l4rm4nd/XingDumper "Telegram Nearby Map")** [P]<br/>
 Skript zum Dumpen von Unternehmensmitarbeitern aus der XING-API. Von [l4rm4nd](https://github.com/l4rm4nd "l4rm4nd").
 
 ## 📑 MESSAGING DIENSTE
-- **[Telegram Nearby Map](https://github.com/tejado/telegram-nearby-map "Telegram Nearby Map")**<br/>
+- **[Telegram Nearby Map](https://github.com/tejado/telegram-nearby-map "Telegram Nearby Map")** [P]<br/>
 Stellt die Position von Benutzern in der Nähe auf einer Karte dar. Von [tejado](https://github.com/tejado "tejado").
 
 ## 📑 MULTITOOLS
-- **[Project iKy](https://github.com/kennbroorg/iKy "Project iKy")**<br/>
+- **[Project iKy](https://github.com/kennbroorg/iKy "Project iKy")** [P]<br/>
 Sammelt informationen anhand von E-Mail, Nutzername, Twitter, Instagram und mehr. Von [Kenn Brothers Org](https://github.com/kennbroorg "Kenn Brothers Org").
 
 ## 📑 "LEAKED" SOURCES
-- **[Passhunt](https://github.com/Viralmaniar/Passhunt "Passhunt")**<br/>
+- **[Passhunt](https://github.com/Viralmaniar/Passhunt "Passhunt")** [P]<br/>
 Tool zum Durchsuchen von Standard-Anmeldeinformationen für Netzwerkgeräte und mehr. Von [Viralmaniar](https://github.com/Viralmaniar "Viralmaniar").
-- **[leakScraper](https://github.com/Acceis/leakScraper "leakScraper")**<br/>
+- **[leakScraper](https://github.com/Acceis/leakScraper "leakScraper")** [P]<br/>
 Tools zur Verarbeitung und Visualisierung großer Textdateien wie Kombolisten. Von [Acceis](https://github.com/Acceis "Acceis").
-- **[H8mail](https://github.com/khast3x/h8mail "H8mail")**<br/>
+- **[H8mail](https://github.com/khast3x/h8mail "H8mail")** [P]<br/>
 Nutzt Troy Hunts „Collection1“ und „Breach Compilation“ zum Aufspüren von Sicherheitsverletzungen. 
-- **[WhatBreach](https://github.com/Ekultek/WhatBreach "WhatBreach")**<br/>
+- **[WhatBreach](https://github.com/Ekultek/WhatBreach "WhatBreach")** [P]<br/>
 Deckt gezielt Leaks zu einer oder mehrerer E-Mail-Adressen auf.
 
 ## 📑 DORK AUTOMATISIERUNG
-- **[Fast Google Dorks Scan](https://github.com/IvanGlinkin/Fast-Google-Dorks-Scan "Fast Google Dorks Scan")**<br/>
+- **[Fast Google Dorks Scan](https://github.com/IvanGlinkin/Fast-Google-Dorks-Scan "Fast Google Dorks Scan")** [P]<br/>
 Automatisierte Nutzung von Google Dork Suchkombinationen sammelt Informationen zu einer Webseite. Von [Ivan Glinkin](https://github.com/IvanGlinkin "Ivan Glinkin").
-- **[0xdork](https://github.com/rlyonheart/oxdork "Fast Google Dorks Scan")**<br/>
+- **[0xdork](https://github.com/rlyonheart/oxdork "Fast Google Dorks Scan")** [P]<br/>
 Verwendet Google-Dorks, um Sicherheitslücken und Fehlkonfigurationen zu finden. Von [Richard Mwewa](https://github.com/rlyonheart "Richard Mwewa").
 
 ## 📑 PENETRATION
-- **[Ashok](https://github.com/ankitdobhal/Ashok "Ashok")**<br/>
+- **[Ashok](https://github.com/ankitdobhal/Ashok "Ashok")** [P]<br/>
 Ein unglaublich schnelles Aufklärungstool für Penetrationstester. Von [powerexploit](https://github.com/powerexploit "powerexploit").
-- **[HackerTarget ToolKit](https://github.com/pyhackertarget/hackertarget "HackerTarget ToolKit")**<br/>
+- **[HackerTarget ToolKit](https://github.com/pyhackertarget/hackertarget "HackerTarget ToolKit")** [P]<br/>
 Sammelt informationen anhand von E-Mail, Nutzername, Twitter, Instagram und mehr. Von [Hacker Target](https://github.com/pyhackertarget "Hacker Target").
 
 ## 📑 SONSTIGES
 - **[Fact Check Explorer](https://toolbox.google.com/factcheck/explorer "Fact Check Explorer")**<br/>
 Der Fact Check Explorer von Google prüft Wahrheitsgehalt Suchtreffern.
-- **[Depix](https://github.com/beurtschipper/Depix "Depix")**<br/>
+- **[Depix](https://github.com/beurtschipper/Depix "Depix")** [P]<br/>
 Depix ist ein Tool zum Wiederherstellen von Passwörtern aus verpixelten Screenshots. Von [beurtschipper](https://github.com/beurtschipper "beurtschipper").
 - **[Vortimo](https://www.vortimo.com/ "Vortimo")**<br/>
 Eine Software, welche bei Online-Ermittlungen behilflich ist. Sie wird von vielen OSINT Experten geschätzt.
@@ -90,6 +90,14 @@ Eine Software, welche bei Online-Ermittlungen behilflich ist. Sie wird von viele
 Eine Software, welche mehrere Tools für Online-Ermittlungen vereint.
 - **[Diagrams](https://www.diagrams.net/ "Diagrams")**<br/>
 Online-Dienst zur Erstellung von Diagrammen, ohne Login nutzbar.
+- **[TIO.run](https://tio.run/ "TIO.run")**<br/>
+Geschriebenen Code für 600+ Programmiersprachen direkt im Browser testen.
+- **[de4js](https://lelinhtinh.github.io/de4js/ "de4js")**<br/>
+JavaScript Deobfuscator und Entpacker.
+
+<br/><br/>
+# 📌 LEGENDE
+[P] > Python Script, [R] > Regiestrierung nötig/vorteilhaft, [€$] > kostenpflichtig, [VPN] > VPN ratsam, [BOT] Bot Service, [DEL] Fake Account löschen!<br/><br/>
 
 <br/><br/>
 <div align="left">

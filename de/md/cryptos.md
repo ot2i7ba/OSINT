@@ -24,8 +24,12 @@ Anhand von Wallet-ID sämtliche Aktivitäten einsehen.
 Der einfachste Weg, Bitcoin oder andere Kryptowährungen sofort zu kaufen.
 
 ## 📑 Werkzeuge
-- **[Orbit](https://github.com/s0md3v/Orbit "Orbit")**<br/>
+- **[Orbit](https://github.com/s0md3v/Orbit "Orbit")** [P]<br/>
 Entwickelt um das Netzwerk einer Wallet rekursiv zu Crawlen und visuell darzustellen.
+
+<br/><br/>
+# 📌 LEGENDE
+[P] > Python Script, [R] > Regiestrierung nötig/vorteilhaft, [€$] > kostenpflichtig, [VPN] > VPN ratsam, [BOT] Bot Service, [DEL] Fake Account löschen!<br/><br/>
 
 <br/><br/>
 <div align="left">

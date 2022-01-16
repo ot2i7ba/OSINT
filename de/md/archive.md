@@ -8,7 +8,7 @@ Eine Sammlung von Links zu Werkzeugen, welche das Durchsuchen von digital archiv
 ## 📑 WEB ARCHIVE
 - **[Quick Cache and Archive Search](https://cipher387.github.io/quickcacheandarchivesearch/)** ■■■■■□ [^1] <br/>
 Ein Tool zur parallelen Suche in bis zu 25+ Archiven und im Cache mittels 10+ Suchmaschinen.
-- **[WayBack Machine](https://archive.org/web/ "WayBack Maschine")** v<br/>
+- **[WayBack Machine](https://archive.org/web/ "WayBack Maschine")**<br/>
 Das bekannte Internet Archiv ermöglicht die Suche in 640 Billionen Webseiten.
 - **[Webpage Archive](https://archive.fo/ "Webpage Archive")** ■■■■□□<br/>
 Ermöglicht wie die WayBack Machine das Durchsuchen und digitale Speichern im Archiv.
@@ -18,6 +18,10 @@ Ermöglicht wie die WayBack Machine das Durchsuchen und digitale Speichern im Ar
 Sucht nach Inhalten einer Domain im möglicherweise vorhandenen Google-Cache.
 - **[Cached Pages](http://www.cachedpages.com/ "Cached Pages")**<br/>
 Sucht nach Inhalten einer Domain in möglicherweise vorhandenen Caches.
+
+<br/><br/>
+# 📌 LEGENDE
+[P] > Python Script, [R] > Regiestrierung nötig/vorteilhaft, [€$] > kostenpflichtig, [VPN] > VPN ratsam, [BOT] Bot Service, [DEL] Fake Account löschen!<br/><br/>
 
 <br/><br/>
 <div align="left">

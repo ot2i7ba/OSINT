@@ -24,8 +24,12 @@ Hilft bei der Ermittlung des wahrscheinlichsten Aufnahmeorts einer hochgeladenen
 ## 📑 WERKZEUGE
 - **[Quick geolocation search](https://cipher387.github.io/quickgeolocationsearch/ "Quick geolocation search")**<br/>
 Schnelle visuelle Darstellung von Längen- und Breitengrad. Bietet Suche in mehreren Diensten, z.B. Twitter.
-- **[Chronocalc](https://github.com/Sector035/chronocalc "Chronocalc")**<br/>
+- **[Chronocalc](https://github.com/Sector035/chronocalc "Chronocalc")** [P]<br/>
 Berechnung von Datum und Uhrzeiten, zu denen sich Sonne oder Mond an einer bestimmten Position am Himmel befinden.
+
+<br/><br/>
+# 📌 LEGENDE
+[P] > Python Script, [R] > Regiestrierung nötig/vorteilhaft, [€$] > kostenpflichtig, [VPN] > VPN ratsam, [BOT] Bot Service, [DEL] Fake Account löschen!<br/><br/>
 
 <br/><br/>
 <div align="left">
