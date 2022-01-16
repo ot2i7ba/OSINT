@@ -39,7 +39,7 @@ Custom Search Engine (CSE) zur Suche in Gyroscope, AllTrails, Relive, Garmin, Ay
 
 <br/><br/>
 # 📌 LEGENDE
-[P] > Python Script, [R] > Regiestrierung nötig/vorteilhaft, [€$] > kostenpflichtig, [VPN] > VPN ratsam, [BOT] Bot Service, [DEL] Fake Account löschen!<br/><br/>
+[P] > Python Script, [R] > Regiestrierung nötig/vorteilhaft, [€$] > kostenpflichtig<br/>[VPN] > VPN ratsam, [BOT] Bot Service, [DEL] Fake Account löschen!<br/><br/>
 
 <br/><br/>
 <div align="left">
