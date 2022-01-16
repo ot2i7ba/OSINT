@@ -36,6 +36,10 @@ Interaktive Karte, welche das virtuelle Abfahren von Strecken ermöglicht und di
 Wie KarteView, jedoch umfangreicher mit angenehmen Servicefunktionen wie Streckendarstellung als Slideshow.
 - **[360 Cities](https://www.360cities.net/map?lang=de "360 Cities")**<br/>
 Teilweise hochauflösende 360° Panorama-Ansichten vieler Örtlichkeiten.
+- **[Earth Viewer 360](https://earthviewer360.com/ "Earth Viewer 360")**<br/>
+Zeigt lokale Videos und eine 360°-Straßenansicht von definierten Standorten.
+- **[Dual Maps](http://data.mashedworld.com/dualmaps/map.htm "Dual Maps")**<br/>
+Ermöglicht die gleichzeitige Anzeige von Karte, Satellit und Street View in Google Maps.
 
 ## 📑 SOZIALE NETZWERKE
 - **[I Know where yout cat lives](https://iknowwhereyourcatlives.com/ "I know where your cat lives")** ■■■□□□<br/>
