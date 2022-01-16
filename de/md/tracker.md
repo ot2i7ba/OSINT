@@ -38,10 +38,10 @@ Hier können Tracking-Nummern zu Brief, Pakete, Seefracht oder Luftfracht abgefr
 Custom Search Engine (CSE) zur Suche in Gyroscope, AllTrails, Relive, Garmin, Ayvri und MyPacer.
 
 <br/><br/>
-### 📌 LEGENDE
-[P] > Python Script, [R] > Regiestrierung nötig/vorteilhaft, [€$] > kostenpflichtig<br/>[VPN] > VPN ratsam, [BOT] Bot Service, [DEL] Fake Account löschen!<br/><br/>
+>### 📌 LEGENDE
+>[P] > Python Script, [R] > Regiestrierung nötig/vorteilhaft, [€$] > kostenpflichtig<br/>[VPN] > VPN ratsam, [BOT] Bot Service, [DEL] Fake Account löschen!
 
-<br/><br/>
+<br/>
 <div align="left">
   <a href="https://github.com/ot2i7ba/OSINT/blob/main/en/README.md"><img alt="README English" src="https://img.shields.io/badge/README-English-lightgrey.svg?style=for-the-badge"></a>
   <a href="https://twitter.com/intent/follow?screen_name=ot2i7ba"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/ot2i7ba?logo=twitter&logoColor=white&style=for-the-badge"></a>
