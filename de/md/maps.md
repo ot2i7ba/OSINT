@@ -76,7 +76,7 @@ Darstellung frei zugänglicher Webcams auf einer Karte.
 Darstellung von WiFi und Bluetooth Netzen auf einer Karte. Rückwärtssuche anhand von MAC möglich.
 
 <br/><br/>
-# 📌 LEGENDE
+### 📌 LEGENDE
 [P] > Python Script, [R] > Regiestrierung nötig/vorteilhaft, [€$] > kostenpflichtig<br/>[VPN] > VPN ratsam, [BOT] Bot Service, [DEL] Fake Account löschen!<br/><br/>
 
 <br/><br/>

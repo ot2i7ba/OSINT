@@ -52,7 +52,7 @@ Ein modulares Tool, welches mit einer E-Mail-Adresse verknüpfte Google Dienste 
 Veröffentlichte Informationen zu Personen, welche beispielsweise an Demonstrationen teilgenommen haben.
 
 <br/><br/>
-# 📌 LEGENDE
+### 📌 LEGENDE
 [P] > Python Script, [R] > Regiestrierung nötig/vorteilhaft, [€$] > kostenpflichtig<br/>[VPN] > VPN ratsam, [BOT] Bot Service, [DEL] Fake Account löschen!<br/><br/>
 
 <br/><br/>

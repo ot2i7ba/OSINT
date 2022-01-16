@@ -28,7 +28,7 @@ Der einfachste Weg, Bitcoin oder andere Kryptowährungen sofort zu kaufen.
 Entwickelt um das Netzwerk einer Wallet rekursiv zu Crawlen und visuell darzustellen.
 
 <br/><br/>
-# 📌 LEGENDE
+### 📌 LEGENDE
 [P] > Python Script, [R] > Regiestrierung nötig/vorteilhaft, [€$] > kostenpflichtig<br/>[VPN] > VPN ratsam, [BOT] Bot Service, [DEL] Fake Account löschen!<br/><br/>
 
 <br/><br/>
