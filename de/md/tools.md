@@ -92,6 +92,8 @@ Eine Software, welche mehrere Tools für Online-Ermittlungen vereint.
 Online-Dienst zur Erstellung von Diagrammen, ohne Login nutzbar.
 - **[TIO.run](https://tio.run/ "TIO.run")**<br/>
 Geschriebenen Code für 600+ Programmiersprachen direkt im Browser testen.
+- **[Filesec](https://filesec.io/ "Filesec")**<br/>
+Erläutert Dateierweiterungen, welche gerne von Angreifern genutzt werden.
 - **[de4js](https://lelinhtinh.github.io/de4js/ "de4js")**<br/>
 JavaScript Deobfuscator und Entpacker.
 

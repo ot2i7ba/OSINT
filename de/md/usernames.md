@@ -30,10 +30,14 @@ Personen anhand von Name, E-Mail, Rufnummer etc. auf Facebook und in öffentlich
 Prüft 300+ Dienste auf Existenz eines definierten Nutzernamens.
 - **[Name Checkup](https://namecheckup.com/ "Name Checkup")** ■■■□□□<br/>
 Prüft 70+ Dienste auf Existenz eines definierten Nutzernamens.
+- **[Social Analyzer](https://github.com/qeeqbox/social-analyzer "Social Analyzer")**<br/>
+Analysieren und auffinden von Profilen auf über 1000 Social-Media-Websites.
 
 ## 📑 SCAM & FAKE
 - **[ScamDigger](http://scamdigger.com/ "Scam Digger")** ■■■□□□<br/>
 Sucht in einer scammer-Datenbank nach Namen, E-Mail, IP-Adresse oder Rufnummer.
+- **[Deepfake Detect](https://scanner.deepware.ai/ "Deepware")**<br/>
+Überprüft Videos und erkennt Deepfakes mittels AI.
 
 <br/><br/>
 >### 📌 LEGENDE

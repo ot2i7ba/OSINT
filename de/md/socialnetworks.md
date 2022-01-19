@@ -54,6 +54,8 @@ Durchsucht Instagram anhand von Nutzernamen, Tags, Standorten.
 ## 📑 TIKTOK
 - **[TikTok Timestamp](https://bellingcat.github.io/tiktok-timestamp/ "TikTok Timestamp")**<br/>
 Bestimmt den Zeitpunkt der Veröffentlichung eines TikTok Videos.
+- **[TikTok Scraper](https://github.com/sauermar/Tiktok-Scraper "TikTok Scraper")** [P]<br/>
+Extrahier Informationen zu Benutzer, Videos, Kanälen basierend auf Hastags und Profilen. [Apify](https://apify.com/sauermar/Tiktok-Scraper "TikTok Scraper")
 - **[TikTok Scraper](https://github.com/drawrowfly/tiktok-scraper "TikTok Scraper")** [P]<br/>
 Ohne Login oder Passwort Medien und Metainformationen scrapen.
 - **[UrleBird](https://urlebird.com/de/ "UrleBird")**<br/>

@@ -5,7 +5,7 @@
 # ℹ️ KRYPTOWÄHRUNGEN
 Verfolgung und Analyse der Verbreitung von Kryptowährungen. Mit diesen Diensten kann beispielsweise geprüft werden, ob eine Adresse bereits genutzt wird und welche Summen transferiert worden sind. Auch der Ankauf von Kryptowährungen zur Bezahlung diverser Dienste nötig sein.<br/><br/>
 
-## 📑 BLOCKCHAIN
+## 📑 BLOCKCHAIN & CO
 - **[Blockchain Explorer](https://www.blockchain.com/explorer/ "Blockchain Explorer")**<br/>
 Blockchain-Informationen für Bitcoin (BTC), einschließlich historischer Preise.
 - **[Blockchair](https://blockchair.com/ "Blockchair")** ■■■■■□<br/>
@@ -18,6 +18,8 @@ Analysieren von Bitcoin Transaktionen. Ermöglicht den direkten Export in Excel.
 Der Ethereum (ETH) Blockchain Explorer.
 - **[Zapper](https://zapper.fi/de "Zapper")**<br/>
 Anhand von Wallet-ID sämtliche Aktivitäten einsehen.
+- **[BSC Scan](https://bscscan.com/ "BSC Scan")**<br/>
+Ein Binance Smart Chain Explorer.
 
 ## 📑 CRYPTOS KAUFEN
 - **[CryptoVoucher](https://cryptovoucher.io/ "CryptoVoucher")**<br/>
@@ -26,6 +28,10 @@ Der einfachste Weg, Bitcoin oder andere Kryptowährungen sofort zu kaufen.
 ## 📑 Werkzeuge
 - **[Orbit](https://github.com/s0md3v/Orbit "Orbit")** [P]<br/>
 Entwickelt um das Netzwerk einer Wallet rekursiv zu Crawlen und visuell darzustellen.
+- **[Honeypot.is](https://honeypot.is/ "Honeypot.is")** [P]<br/>
+Honeypot Detektor für das Binance Smart Chain (BSC) Netzwerk.
+- **[Tokensniffer](https://tokensniffer.com/ "Tokensniffer")** [P]<br/>
+Kann Dex (Dezentraler Austausch) Exit-Betrug (rug pulls) und Scam aufdecken, wie Honeypot.is.
 
 <br/><br/>
 >### 📌 LEGENDE
