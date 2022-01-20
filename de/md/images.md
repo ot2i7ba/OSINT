@@ -16,6 +16,8 @@ Rückwärtssuche nach visuell ähnliche Bilder im Internet.
 Search4faces ist ein Dienst zum Auffinden von Personen im Internet durch Fotografie.
 - **[Lampyre](https://lampyre.io/ "Lampyre.io")** [R], [€$], [DEL] ■■■■■■<br/>
 Rückwärtssuche nach Profilbildern. Ein Account wird benötigt!
+- **[Beta Face API](https://www.betafaceapi.com/ "Beta Face API")**<br/>
+Gesichtserkennung, Gesichtsanalyse, biometrische Messungen & Verifizierung.
 - **[PimEyes](https://pimeyes.com/en "PimEyes")** ■■■■■□<br/>
 Gesichtserkennung sucht visuell ähnliche Fotos. Account wird benötigt!
 - **[Tineye](https://tineye.com/ "Tineye")**<br/>
