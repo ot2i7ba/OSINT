@@ -18,16 +18,20 @@ Ideales Tool zur Schlagwortsuche in öffentlich zugänglichen Kanälen, Gruppen 
 Stellt die Position von Benutzern in der Nähe auf einer Karte dar.
 - **[Recorded Telegram](https://api.recordedtelegram.com/ "Recorded Telegram")** ■■■□□□<br/>
 Eine erweiterte Suchmaschine, welche speziell auf Telegram ausgerichtet ist.
+- **[Telepathy](https://github.com/jordanwildon/Telepathy "Telepathy")** [P] ■■■□□□<br/>
+Tool zum scrapen von Telegram Daten. Speichert Namen, Nachrichten, Weiterleitungen etc. in CSV ab.
 
 ## 📑 SKYPE
 - **[Epieos Tools](https://tools.epieos.com/skype.php "Epieos Tools - Skype Lookup")** ■■■■■■<br/>
 Suche nach Skype Benutzern unter Verwendung von E-Mail-Adresse, Nutzernamen oder Rufnummer.
+- **[MostWantedHF](https://mostwantedhf.info/ "MostWantedHF")**<br/>
+Ein Skype Resolver, findet Skype Profile zu E-Mail Adressen.
 - **[Skypli](https://skypli.com/ "Skypli")**<br/>
 Ohne Skype-Konten nach Skype-Benutzern suchen, deren Profile durchsuchen und vieles mehr.
 
 <br/><br/>
 >### 📌 LEGENDE
->[P] > Python Script, [R] > Regiestrierung nötig/vorteilhaft, [€$] > kostenpflichtig<br/>[VPN] > VPN ratsam, [BOT] Bot Service, [DEL] Fake Account löschen!
+>[P] > Python Script, [R] > Regiestrierung nötig/vorteilhaft, [€$] > kostenpflichtig<br/>[VPN] > VPN ratsam, [BOT] Bot Service, [TOR] Onion Site, [DEL] Fake Account löschen!
 
 <br/>
 <div align="left">

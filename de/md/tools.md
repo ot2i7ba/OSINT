@@ -34,6 +34,8 @@ Eine umfangreiche und gute gepflegte Liste von Open Source Tools. Von [Caledonia
 Bot-Erkennung vermeiden: Wie kann man das Web durchsuchen, ohne blockiert zu werden? Von [Dariusz Niespodziany](https://github.com/niespodd "Dariusz Niespodziany").
 - **[Hacking-Tools](https://github.com/juliocarneiro/hacking-tools "Hacking-Tools")**<br/>
 Eine Sammlung von Tools für Hacker, Pentester und Sicherheitsforscher. Von [Júlio Carneiro](https://github.com/juliocarneiro "Júlio Carneiro").
+- **[OSINT Resources](https://github.com/OldBonhart/Osint-Resources "OSINT Resources")**<br/>
+Eine gut sortierte Sammlung von OSINT Tools. Von [OldBonhart](https://github.com/OldBonhart "OldBonhart").
 
 ## 📑 NUTZERNAMEN
 - **[Maigret](https://github.com/soxoj/maigret "Maigret")** [P]<br/>
@@ -80,10 +82,14 @@ Ein unglaublich schnelles Aufklärungstool für Penetrationstester. Von [powerex
 Sammelt informationen anhand von E-Mail, Nutzername, Twitter, Instagram und mehr. Von [Hacker Target](https://github.com/pyhackertarget "Hacker Target").
 
 ## 📑 SONSTIGES
+- **[Spiderfoot](https://www.spiderfoot.net/ "Spiderfoot")** [€$]<br/>
+Automatisiert OSINT für Threat Intelligence, Asset Discovery, Attack Surface Monitoring etc.
 - **[Fact Check Explorer](https://toolbox.google.com/factcheck/explorer "Fact Check Explorer")**<br/>
 Der Fact Check Explorer von Google prüft Wahrheitsgehalt Suchtreffern.
 - **[Depix](https://github.com/beurtschipper/Depix "Depix")** [P]<br/>
 Depix ist ein Tool zum Wiederherstellen von Passwörtern aus verpixelten Screenshots. Von [beurtschipper](https://github.com/beurtschipper "beurtschipper").
+- **[xeuledoc]https://github.com/Malfrats/xeuledoc "xeuledoc")** [P]<br/>
+Sammelt Infos aus frei zugänglichen Google Drive, Docs, Spreadsheets undd weiteren Google Services.
 - **[Vortimo](https://www.vortimo.com/ "Vortimo")**<br/>
 Eine Software, welche bei Online-Ermittlungen behilflich ist. Sie wird von vielen OSINT Experten geschätzt.
 - **[Gamayun](https://sociallinks.io/products/gamayun "Gamayun")**<br/>
@@ -96,10 +102,12 @@ Geschriebenen Code für 600+ Programmiersprachen direkt im Browser testen.
 Erläutert Dateierweiterungen, welche gerne von Angreifern genutzt werden.
 - **[de4js](https://lelinhtinh.github.io/de4js/ "de4js")**<br/>
 JavaScript Deobfuscator und Entpacker.
+- **[MS Portals](https://msportals.io/ "MS Portals")**<br/>
+Liste von Microsoft Portals für BlueTeam, RedTeam.
 
 <br/><br/>
 >### 📌 LEGENDE
->[P] > Python Script, [R] > Regiestrierung nötig/vorteilhaft, [€$] > kostenpflichtig<br/>[VPN] > VPN ratsam, [BOT] Bot Service, [DEL] Fake Account löschen!
+>[P] > Python Script, [R] > Regiestrierung nötig/vorteilhaft, [€$] > kostenpflichtig<br/>[VPN] > VPN ratsam, [BOT] Bot Service, [TOR] Onion Site, [DEL] Fake Account löschen!
 
 <br/>
 <div align="left">

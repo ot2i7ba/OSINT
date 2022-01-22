@@ -24,10 +24,14 @@ Ausgehend vom europäischen Durchschnittsgesicht kann man hier Gesichter nach de
 Generiert mittels Generative Adversarial Networks (GAN) Bilder zu Dingen, welche so nicht wirklich real existent sind.
 - **[This Person Does Not Exist](https://thispersondoesnotexist.com/ "This PErson Does Not Exist")** ■■■■■□<br/>
 Generiert mittels Generative Adversarial Networks (GAN) Bilder zu Personen, welche so nicht wirklich real existent sind.
+- **[Face Maker AI](https://massless.io/tool/face-maker-ai/ "Face Maker AI")**<br/>
+Male das gewünschte Gesicht grob auf und lass die AI daraus ein Bild generieren.
 - **[Generated Photos Anonymizer](https://generated.photos/anonymizer "Generated Photos - Anonymizer")**<br/>
 Generiert aus einem hochgeladenen Bild, ein ähnlich aussehendes mittels AI generiertes Bild.
 - **[Generated Photos](https://generated.photos/face-generator/ "Generated Photos - Face Generator")**<br/>
 In Echtzeit generierte Gesichter, deren Parameter umfangreich definiert werden können.
+- **[Synthesia](https://synthesia.io/free-ai-video-demo "Synthesia")** [R]<br/>
+Generiert Videos in 50+ Sprache mit Video Script.
 
 ## 📑 E-MAIL ANBIETER
 - **[Simple Login](https://simplelogin.io/ "Simple Login")** ■■■■□□<br/>
@@ -75,7 +79,7 @@ Accounts für eine Vielzahl sozialer Netzwerke käuflich erwerben. ACHTUNG, VERB
 
 <br/><br/>
 >### 📌 LEGENDE
->[P] > Python Script, [R] > Regiestrierung nötig/vorteilhaft, [€$] > kostenpflichtig<br/>[VPN] > VPN ratsam, [BOT] Bot Service, [DEL] Fake Account löschen!
+>[P] > Python Script, [R] > Regiestrierung nötig/vorteilhaft, [€$] > kostenpflichtig<br/>[VPN] > VPN ratsam, [BOT] Bot Service, [TOR] Onion Site, [DEL] Fake Account löschen!
 
 <br/>
 <div align="left">

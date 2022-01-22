@@ -76,6 +76,8 @@ Bietet neben DNS-Record-Lookup 20+ weitere Netzwerk Tools.
 Visuelle Darstellung von DNS-Abfragen. Download als .png und .svg möglich.
 
 ## 📑 SUBDOMAINS FINDEN
+- **[MayorSecDNSScan](https://github.com/dievus/msdnsscan "MayorSecDNSScan")** [P]<br/>
+Prüft die DNS-Einträge einer Domain Domain auf Zonenübertragungen und spürt Subdomains auf.
 - **[Nmmapper Subdomain Finder](https://www.nmmapper.com/sys/tools/subdomainfinder/ "Nmmapper Subdomain Finder")**<br/>
 Findet Subdomains unter Zuhilfenahme mehrerer, parallel laufender Abfragedienste.
 - **[Spyse Subdomain Finder](https://spyse.com/tools/subdomain-finder "Spyse Subdomain Finder")**<br/>
@@ -104,6 +106,8 @@ Ebenfalls ein Google Dork Service, jedoch nicht mehr ganz aktuell.
 Sicherheitscheck auf bekannte Schwachstellen und HTTP-Sicherheitsheader.
 - **[Virus Total](https://www.virustotal.com/ "Virus Total")**<br/>
 Dieser Dienst prüft nicht nur auf Schadcode, sondern liefert auch Domain Details.
+- **[msdorkdump](https://github.com/dievus/msdorkdump "msdorkdump")** [P]<br/>
+Ein Google Dork File Finder der eine Domain nach pdf, doc, docx etc. scannt und diese runterlädt.
 
 ## 📑 TECHNIK CHECK
 - **[Privacy Inspector](https://themarkup.org/blacklight/ "Backlight Privacy Inspector")**<br/>
@@ -131,7 +135,7 @@ Ein Webinterface, um Webseiten zu scrapen (durchsuchen) und Baumdiagram darzuste
 
 <br/><br/>
 >### 📌 LEGENDE
->[P] > Python Script, [R] > Regiestrierung nötig/vorteilhaft, [€$] > kostenpflichtig<br/>[VPN] > VPN ratsam, [BOT] Bot Service, [DEL] Fake Account löschen!
+>[P] > Python Script, [R] > Regiestrierung nötig/vorteilhaft, [€$] > kostenpflichtig<br/>[VPN] > VPN ratsam, [BOT] Bot Service, [TOR] Onion Site, [DEL] Fake Account löschen!
 
 <br/>
 <div align="left">

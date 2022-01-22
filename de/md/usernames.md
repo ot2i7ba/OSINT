@@ -39,9 +39,13 @@ Sucht in einer scammer-Datenbank nach Namen, E-Mail, IP-Adresse oder Rufnummer.
 - **[Deepfake Detect](https://scanner.deepware.ai/ "Deepware")**<br/>
 Überprüft Videos und erkennt Deepfakes mittels AI.
 
+## 📑 SONSTIGES
+- **[Cyber Background Check](http://cyberbackgroundchecks.com/ "Cyber Background Check")** [VPN]<br/>
+Findet alle Daten zu US-Bürgern. Zugriff nur über US IP-Adresse möglich.
+
 <br/><br/>
 >### 📌 LEGENDE
->[P] > Python Script, [R] > Regiestrierung nötig/vorteilhaft, [€$] > kostenpflichtig<br/>[VPN] > VPN ratsam, [BOT] Bot Service, [DEL] Fake Account löschen!
+>[P] > Python Script, [R] > Regiestrierung nötig/vorteilhaft, [€$] > kostenpflichtig<br/>[VPN] > VPN ratsam, [BOT] Bot Service, [TOR] Onion Site, [DEL] Fake Account löschen!
 
 <br/>
 <div align="left">

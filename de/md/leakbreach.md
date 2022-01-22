@@ -8,6 +8,8 @@ Mit [CWE-200](https://cwe.mitre.org/data/definitions/200.html "Common Weakness E
 ## 📑 OFFENLEGUNG PRÜFEN
 - **[Have i been pwned](https://haveibeenpwned.com/ "Have i been pwned")** ■■■■■■<br/>
 Prüfen, ob eine E-Mail-Adresse oder Rufnummern von einem Breach betroffen ist und wenn ja, von welchem.
+- **[Leaked Source](https://leakedsource.ru/ "Leaked Source")** ■■■■■■<br/>
+Prüft E-Mails, Passwörter, Hashes, Nicknamen, Namen, Rufnummern, IP-Adressen auf Leaks.
 - **[Breach Checker](https://breachchecker.com/ "Breach Checker")**<br/>
 Prüf wie "Have i been pwned" ob eine Email Opfer einer Datenoffenlegung wurde.
 - **[Spycloud](https://spycloud.com/check-your-exposure/ "Spycloud")**<br/>
@@ -55,7 +57,7 @@ Dursuchen von öffentlich zugänglichen Pastebin Dumps mittels API.
 
 <br/><br/>
 >### 📌 LEGENDE
->[P] > Python Script, [R] > Regiestrierung nötig/vorteilhaft, [€$] > kostenpflichtig<br/>[VPN] > VPN ratsam, [BOT] Bot Service, [DEL] Fake Account löschen!
+>[P] > Python Script, [R] > Regiestrierung nötig/vorteilhaft, [€$] > kostenpflichtig<br/>[VPN] > VPN ratsam, [BOT] Bot Service, [TOR] Onion Site, [DEL] Fake Account löschen!
 
 <br/>
 <div align="left">
