@@ -26,7 +26,7 @@ Kostenloses Tool zur Überprüfung auf Gültigkeit und Existenz. Prüft Adressen
 Kostenloses Tool zur Überprüfung auf Gültigkeit und Existenz.
 - **[Snov.io Verifier](https://snov.io/email-verifier "Snov.io Verifier")** ■■■■■□<br/>
 Überprüft E-Mail-Adressen auf Gültigkeit und Existenz. Massenabfrage (Bulk) möglich.
-- **[IP Quality Score](https://www.ipqualityscore.com/ "IP Quality Score")** [R] [€$] ■■■□□□<br/>
+- **[IP Quality Score](https://www.ipqualityscore.com/ "IP Quality Score")** [R>[P] > Python Script, [R] > Regiestrierung nötig/vorteilhaft, [€$] > kostenpflichtig<br/>[VPN] > VPN ratsam, [BOT] Bot Service, [TOR] Onion Site, [DEL] Fake Account löschen!] [€$] ■■■□□□<br/>
 Verifiziert E-Mails adressen, Rufnummern und bietet Anti Fraud Tools.
 
 ## 📑 DOMAINS, ZERTIFIKATE & VERSCHLÜSSELUNG

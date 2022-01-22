@@ -20,7 +20,7 @@ Stellt die Position von Benutzern in der Nähe auf einer Karte dar.
 Eine erweiterte Suchmaschine, welche speziell auf Telegram ausgerichtet ist.
 - **[Telepathy](https://github.com/jordanwildon/Telepathy "Telepathy")** [P] ■■■□□□<br/>
 Tool zum scrapen von Telegram Daten. Speichert Namen, Nachrichten, Weiterleitungen etc. in CSV ab.
-
+>[P] > Python Script, [R] > Regiestrierung nötig/vorteilhaft, [€$] > kostenpflichtig<br/>[VPN] > VPN ratsam, [BOT] Bot Service, [TOR] Onion Site, [DEL] Fake Account löschen!
 ## 📑 SKYPE
 - **[Epieos Tools](https://tools.epieos.com/skype.php "Epieos Tools - Skype Lookup")** ■■■■■■<br/>
 Suche nach Skype Benutzern unter Verwendung von E-Mail-Adresse, Nutzernamen oder Rufnummer.

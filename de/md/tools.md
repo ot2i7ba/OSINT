@@ -103,7 +103,7 @@ Erläutert Dateierweiterungen, welche gerne von Angreifern genutzt werden.
 - **[de4js](https://lelinhtinh.github.io/de4js/ "de4js")**<br/>
 JavaScript Deobfuscator und Entpacker.
 - **[MS Portals](https://msportals.io/ "MS Portals")**<br/>
-Liste von Microsoft Portals für BlueTeam, RedTeam.
+Liste von Microsoft Portals für BlueTeam, RedTeam.>[P] > Python Script, [R] > Regiestrierung nötig/vorteilhaft, [€$] > kostenpflichtig<br/>[VPN] > VPN ratsam, [BOT] Bot Service, [TOR] Onion Site, [DEL] Fake Account löschen!
 
 <br/><br/>
 >### 📌 LEGENDE
