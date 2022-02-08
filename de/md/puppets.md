@@ -32,6 +32,8 @@ Generiert aus einem hochgeladenen Bild, ein ähnlich aussehendes mittels AI gene
 In Echtzeit generierte Gesichter, deren Parameter umfangreich definiert werden können.
 - **[Synthesia](https://synthesia.io/free-ai-video-demo "Synthesia")** [R]<br/>
 Generiert Videos in 50+ Sprache mit Video Script.
+- **[Rug](https://github.com/rly0nheart/rug "Rug")** [P]<br/>
+Ein Tool zur Generierung zufälliger Nutzerdaten für Sockenpuppen.
 
 ## 📑 E-MAIL ANBIETER
 - **[Simple Login](https://simplelogin.io/ "Simple Login")** ■■■■□□<br/>

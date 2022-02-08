@@ -128,6 +128,8 @@ Analysiert eingesetzte Zertifikate einer Domain. Ermöglicht eine Rückwärtssuc
 ## 📑 SONSTIGES
 - **[Down for Everyone or Just Me](https://downforeveryoneorjustme.com/ "Down for Everyone or Just Me")**<br/>
 Prüft, ob eine Webseite wirklich down ist, oder ob diese ggf. nur aufgrund von Geolokalisierung blockiert ist.
+- **[Content Analyzer](https://app.buzzsumo.com/content/web "Content Analyzer")**<br/>
+ Findet und analysiert die interessantesten Artikel und Blogs einer domain.
 - **[Lookyloo](http://lookyloo.circl.lu "Lookyloo")**<br/>
 Ein Webinterface, um Webseiten zu scrapen (durchsuchen) und Baumdiagram darzustellen.
 - **[Visual Ping](https://visualping.io/ "Visual Ping")**<br/>

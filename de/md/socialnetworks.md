@@ -72,6 +72,8 @@ Ghostdex ist eine inoffizielle, durchsuchbare Datenbank mit Snapchat-Benutzernam
 ## 📑 TWITTER
 - **[Social Bearing](https://socialbearing.com/ "Social Bearing")**<br/>
 Analyse und Suche nach Tweets. Suchen, filtern und sortieren von Tweets oder Personen.
+- **[Bird Hunt](https://birdhunt.co/ "Bird Hunt")**<br/>
+Findet Tewwts anhand von Geodaten und definierten bereichen.
 
 ## 📑 ONLYFANS
 - **[Only Search](https://onlysearch.co/ "Only Search")**<br/>

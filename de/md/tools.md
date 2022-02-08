@@ -8,6 +8,8 @@ Eine Sammlung von Programmen, Skripten und inhaltsbezogen Kollektionen, welche O
 ## 📑 NÜTZLICHES / SAMMLUNGEN
 - **[OSINT tools collection](https://github.com/cipher387/osint_stuff_tool_collection "OSINT tools collection")**<br/>
 Eine sehr umfangreiche und gut gepflegte Sammlung. Von [cipher387](https://github.com/cipher387 "cipher387").
+- **[Maltego Transform List](https://github.com/cipher387/maltego-transforms-list "Maltego Transform List")**<br/>
+Eine Liste von freien Transforms für Maltego. Von [cipher387](https://github.com/cipher387 "cipher387").
 - **[OSINT Essentials](https://www.osintessentials.com/ "OSINT Essentials")**<br/>
 Ressourcen und Expertisen für Open-Source-Recherchen und Medienkompetenz. Von [Eoghan Sweeney](https://twitter.com/osintessentials "Eoghan Sweeney").
 - **[Dorks collections list](https://github.com/cipher387/Dorks-collections-list "Open source security tools")**<br/>
@@ -24,8 +26,12 @@ Diese Sammlung verweist auf Grundwissen, Anleitungen und Tools. Von [netstalking
 Eine auf Start.me veröffentlichte OSINT Sammlung von [Mattia Vicenzi](https://www.mattiavicenzi.it/ "Mattia Vicenzi").
 - **[Intelligence Writing](https://github.com/mxm0z/awesome-intelligence-writing "Intelligence Writing")**<br/>
 Umfangreiche und gut sortierte Sammlung zum Thema Intelligence Writing. Von [Ygor Maximo](https://github.com/mxm0z "Ygor Maximo").
+- **[Short links verification cheatsheet](https://github.com/seintpl/osint/blob/main/short-links-verification-cheatsheet.md "Short links verification cheatsheet")**<br/>
+Ein Cheatsheet für die Verifizierung von Short URL's. Von [seintpl](https://github.com/seintpl "seintpl").
 - **[Swiss Online Investigation Toolkit](https://docs.google.com/spreadsheets/u/0/d/1LHP3gfppDBBPENffw9R7FrhpRxhmP0UhaLiklbQN7tA/htmlview "Swiss Online Investigation Toolkit")**<br/>
 Umfangreiche und gut sortierte Sammlung von Recherche-Ressourcen. Von [Zard8](https://twitter.com/Zard8 "Zard8") & [Techjournalisto](https://twitter.com/Techjournalisto "Techjournalisto").
+- **[Geospatial Intelligence Library](https://github.com/cartographia/geospatial-intelligence-library "Geospatial Intelligence Library")**<br/>
+Eine Liste von 200+ Tools zum Thema Geolokalisierung. Von [Aleksander](https://github.com/cartographia "Aleksander").
 - **[Awesome Telegram OSINT](https://github.com/ItIsMeCall911/Awesome-Telegram-OSINT "Awesome Telegram OSINT")**<br/>
 Eine Sammlung von OSINT Tools für den Instant-Messaging-Dienst Telegram. Von [ItIsMeCall911](https://github.com/ItIsMeCall911 "ItIsMeCall911").
 - **[Open source security tools](https://github.com/CaledoniaProject/awesome-opensource-security "Open source security tools")**<br/>
