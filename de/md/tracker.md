@@ -19,7 +19,7 @@ Globaler Flugverfolgungsdienst der Echtzeitinformationen zu 1000+ Flugzeugen auf
 - **[ADS-B Exchange](https://globe.adsbexchange.com/ "ADS-B Exchange")**<br/>
 Ein Dienst welcher von Flight Tracking Enthusiasten mit Daten gefüttert wird.
 - **[Tracking Military Aircraft](https://ads-b.nl/ "Tracking Military Aircraft")**<br/>
-Dienst zum Tracken vspeziell von Militärflugzeugen.
+Dienst zum Tracken speziell von Militärflugzeugen.
 
 ## 📑 SCHIFFSRADAR & TRACKER
 - **[Marine Traffic](https://www.marinetraffic.com/ "Marine Traffic")**<br/>
