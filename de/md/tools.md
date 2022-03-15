@@ -94,7 +94,7 @@ Automatisiert OSINT für Threat Intelligence, Asset Discovery, Attack Surface Mo
 Der Fact Check Explorer von Google prüft Wahrheitsgehalt Suchtreffern.
 - **[Depix](https://github.com/beurtschipper/Depix "Depix")** [P]<br/>
 Depix ist ein Tool zum Wiederherstellen von Passwörtern aus verpixelten Screenshots. Von [beurtschipper](https://github.com/beurtschipper "beurtschipper").
-- **[xeuledoc]https://github.com/Malfrats/xeuledoc "xeuledoc")** [P]<br/>
+- **[xeuledoc](https://github.com/Malfrats/xeuledoc "xeuledoc")** [P]<br/>
 Sammelt Infos aus frei zugänglichen Google Drive, Docs, Spreadsheets undd weiteren Google Services.
 - **[Vortimo](https://www.vortimo.com/ "Vortimo")**<br/>
 Eine Software, welche bei Online-Ermittlungen behilflich ist. Sie wird von vielen OSINT Experten geschätzt.
