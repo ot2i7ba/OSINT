@@ -26,6 +26,8 @@ Vereint Apple Map, Open Street Map, Google Maps, Esri Maps, MapBox und Yandex Ma
 Soar Earth ist dabei, den größten digitalen Atlas mit Weltkarten und Bildern zu erstellen.
 - **[Earthondemand](https://earthondemand.astraea.earth/ "Earthondemand")** ■■■■□□<br/>
 Sucht frei verfügbare Satellitenbildern und bietet viele Filtermöglichkeiten.
+- **[Farearth.com](http://observer.farearth.com/observer/ "Farearth.com")** ■■■□□□<br/>
+Live Bilder und Echtzeitdaten von Landsat-Satelliten.
 
 ## 📑 ROUTEN SICHTEN
 - **[Show My Street](https://showmystreet.com/ "Show My Street")** ■■■■□□<br/>

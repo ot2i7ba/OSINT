@@ -18,12 +18,16 @@ ADS-B Flugzeugkarte vom Chaos Consulting e.V. Iserlohn.
 Globaler Flugverfolgungsdienst der Echtzeitinformationen zu 1000+ Flugzeugen auf der ganzen Welt liefert.
 - **[ADS-B Exchange](https://globe.adsbexchange.com/ "ADS-B Exchange")**<br/>
 Ein Dienst welcher von Flight Tracking Enthusiasten mit Daten gefüttert wird.
+- **[Tracking Military Aircraft](https://ads-b.nl/ "Tracking Military Aircraft")**<br/>
+Dienst zum Tracken vspeziell von Militärflugzeugen.
 
 ## 📑 SCHIFFSRADAR & TRACKER
 - **[Marine Traffic](https://www.marinetraffic.com/ "Marine Traffic")**<br/>
 Weltweit führende Anbieter von Schiffsverfolgung und Maritime Intelligence mit Automatic Identification System (AIS).
 - **[Vessel Finder](https://www.vesselfinder.com/de "Vessel Finder")**<br/>
 Echtzeitaktualisierungen von Schiffspositionsdaten, Schiffsdetails, Hafenanläufen und Reiseinformationen.
+- **[Marine Vessel Traffic](https://www.marinevesseltraffic.com/2013/02/military-ship-track.html "Marine Vessel Traffic")**<br/>
+Echtzeitaktualisierungen (in Anführungszeichen) von militärischen Schiffspositionsdaten.
 
 ## 📑 WETTERRADAR
 - **[Windy](https://www.windy.com/ "Windy")**<br/>

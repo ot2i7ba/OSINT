@@ -50,6 +50,8 @@ Ein SOCMINT-Tool, um Informationen zu den Followern einesInstagram-Kontos zu erh
 Extrahiert Informationen aus Instagram-Konten wie E-Mails, Telefonnummern und mehr.
 - **[Picuki](https://www.picuki.com/ "Picuki")**<br/>
 Durchsucht Instagram anhand von Nutzernamen, Tags, Standorten.
+- **[Insta Hunt](https://instahunt.co/ "Insta Hunt")**<br/>
+Findet Instagram Posts anhand von Geodaten und definierter Bereiche.
 
 ## 📑 TIKTOK
 - **[TikTok Timestamp](https://bellingcat.github.io/tiktok-timestamp/ "TikTok Timestamp")**<br/>
@@ -73,11 +75,17 @@ Ghostdex ist eine inoffizielle, durchsuchbare Datenbank mit Snapchat-Benutzernam
 - **[Social Bearing](https://socialbearing.com/ "Social Bearing")**<br/>
 Analyse und Suche nach Tweets. Suchen, filtern und sortieren von Tweets oder Personen.
 - **[Bird Hunt](https://birdhunt.co/ "Bird Hunt")**<br/>
-Findet Tewwts anhand von Geodaten und definierten bereichen.
+Findet Tweets anhand von Geodaten und definierter Bereiche.
 
 ## 📑 ONLYFANS
 - **[Only Search](https://onlysearch.co/ "Only Search")**<br/>
 Findet OnlyFans Profile anhand einer Schlagwortsuche.
+- **[Similar Fans](https://similarfans.com/ "Similar Fans")**<br/>
+Findet OnlyFans Profile anhand von Namen oder Kategorien.
+
+## 📑 VK
+- **[Photo Map](http://photo-map.ru/ "Photo Map")**<br/>
+Findet Fotos auf VK anhand von Geodaten.
 
 ## 📑 SONSTIGES
 - **[Digital Business Card CSE](https://cse.google.com/cse?cx=bee58a1c31f451e4a "Digital Business Card CSE")**<br/>

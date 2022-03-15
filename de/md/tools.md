@@ -42,6 +42,8 @@ Bot-Erkennung vermeiden: Wie kann man das Web durchsuchen, ohne blockiert zu wer
 Eine Sammlung von Tools für Hacker, Pentester und Sicherheitsforscher. Von [Júlio Carneiro](https://github.com/juliocarneiro "Júlio Carneiro").
 - **[OSINT Resources](https://github.com/OldBonhart/Osint-Resources "OSINT Resources")**<br/>
 Eine gut sortierte Sammlung von OSINT Tools. Von [OldBonhart](https://github.com/OldBonhart "OldBonhart").
+- **[FBI Tools](https://github.com/danieldurnea/FBI-tools "FBI Tools")**<br/>
+Ein wöchentlich aktualisiertes OSINT Framework. Von [Daniel Durnea](https://github.com/danieldurnea "Daniel Durnea").
 
 ## 📑 NUTZERNAMEN
 - **[Maigret](https://github.com/soxoj/maigret "Maigret")** [P]<br/>

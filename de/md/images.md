@@ -35,6 +35,10 @@ Exif-Daten und mehr online einsehen und Manipulationen feststellen.
 - **[Exif App](https://exif.app/ "Exif App")**<br/>
 Exif-Daten online einsehen und Unterschiede feststellen.
 
+## 📑 BEARBEITUNG
+- **[Let's Enhance](https://letsenhance.io/ "Let's Enhance")**  ■■□□□□<br/>
+AI zur Verbesserung von Auflösungen ohne Qualitätsverlust.
+
 ## 📑 SONSTIGES
 - **[Cleanup Pictures](https://cleanup.pictures/ "Cleanup Pictures")**  ■■■□□□<br/>
 Entfernt Objekte, Menschen, Text oder Fehler aus bildern. Kann so Suchen vereinfachen.

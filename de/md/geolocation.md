@@ -26,6 +26,8 @@ Hilft bei der Ermittlung des wahrscheinlichsten Aufnahmeorts einer hochgeladenen
 Schnelle visuelle Darstellung von Längen- und Breitengrad. Bietet Suche in mehreren Diensten, z.B. Twitter.
 - **[Chronocalc](https://github.com/Sector035/chronocalc "Chronocalc")** [P]<br/>
 Berechnung von Datum und Uhrzeiten, zu denen sich Sonne oder Mond an einer bestimmten Position am Himmel befinden.
+- **[GPS Visualizer](https://www.gpsvisualizer.com/ "GPS Visualizer")**<br/>
+Ein Online-Dienstprogramm welches Karten und Profile aus geografischen Daten erstellt.
 
 <br/><br/>
 >### 📌 LEGENDE
