@@ -52,6 +52,8 @@ Extrahiert Informationen aus Instagram-Konten wie E-Mails, Telefonnummern und me
 Durchsucht Instagram anhand von Nutzernamen, Tags, Standorten.
 - **[Insta Hunt](https://instahunt.co/ "Insta Hunt")**<br/>
 Findet Instagram Posts anhand von Geodaten und definierter Bereiche.
+- **[Tenai](https://github.com/novitae/Tenai "Tenai")** [P]<br/>
+Enntarnt 'teilweise' Follower privater Instagram Profile.
 
 ## 📑 TIKTOK
 - **[TikTok Timestamp](https://bellingcat.github.io/tiktok-timestamp/ "TikTok Timestamp")**<br/>
@@ -96,6 +98,8 @@ Exportiert frei zugängliche Kommentare aus sozialen Netzwerken in eine Excel-Da
 Social Blade verfolgt Benutzerstatistiken für YouTube, Twitch, Instagram und Twitter.
 - **[Ignorant](https://github.com/megadose/ignorant "Ignorant")** [P]<br/>
 Prüft Rufnummern auf Verwendung in Snapchat & Instagram.
+- **[Infoooze](https://github.com/7orp3do/infoooze "Infoooze")** [P]<br/>
+Vereint viele OSINT Basics in einem Tool.
 
 <br/><br/>
 >### 📌 LEGENDE

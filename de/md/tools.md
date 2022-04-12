@@ -38,12 +38,18 @@ Eine Sammlung von OSINT Tools für den Instant-Messaging-Dienst Telegram. Von [I
 Eine umfangreiche und gute gepflegte Liste von Open Source Tools. Von [CaledoniaProject](https://github.com/CaledoniaProject "CaledoniaProject").
 - **[Avoiding bot detection](https://github.com/niespodd/browser-fingerprinting "Avoiding bot detection")**<br/>
 Bot-Erkennung vermeiden: Wie kann man das Web durchsuchen, ohne blockiert zu werden? Von [Dariusz Niespodziany](https://github.com/niespodd "Dariusz Niespodziany").
+- **[Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets "Awesome Public Datasets")**<br/>
+Eine umfangreiche Sammlung öffentlich zugänglicher Datenbanken. Von [AwesomeData](https://github.com/awesomedata "AwesomeData").
 - **[Hacking-Tools](https://github.com/juliocarneiro/hacking-tools "Hacking-Tools")**<br/>
 Eine Sammlung von Tools für Hacker, Pentester und Sicherheitsforscher. Von [Júlio Carneiro](https://github.com/juliocarneiro "Júlio Carneiro").
 - **[OSINT Resources](https://github.com/OldBonhart/Osint-Resources "OSINT Resources")**<br/>
 Eine gut sortierte Sammlung von OSINT Tools. Von [OldBonhart](https://github.com/OldBonhart "OldBonhart").
 - **[FBI Tools](https://github.com/danieldurnea/FBI-tools "FBI Tools")**<br/>
 Ein wöchentlich aktualisiertes OSINT Framework. Von [Daniel Durnea](https://github.com/danieldurnea "Daniel Durnea").
+- **[Malfrat's OSINT Map](https://map.malfrats.industries "Malfrat's OSINT Map")**<br/>
+Eine gut strukturierte OSINT Map. Von [Malfrat](https://github.com/Malfrats "Malfrats").
+- **[Bashinho Videos](https://start.me/p/wM2QPX/bashinho-videos "Bashinho Videos")**<br/>
+Start.me Linksammlung zum Thema OSINT. Von [Bashinho](https://start.me/u/8ybqlQ "Bashinho Videos").
 
 ## 📑 NUTZERNAMEN
 - **[Maigret](https://github.com/soxoj/maigret "Maigret")** [P]<br/>
