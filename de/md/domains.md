@@ -18,6 +18,8 @@ Domain Whois, Netzwerk Whois, DNS Records, Traceroute und Service-Scan aus einer
 Ermöglicht Recherchen in Bezug auf Domains. Bietet direkte Suche nach IP-Adresse, E-Mail und Registrant.
 - **[Hurricane Electric BGP](https://bgp.he.net/ "Hurricane Electric BGP")** ■■■■■□<br/>
 Guter Service eines Tier-1-Carrier und Backbone-ISP. Bietet DNS Info, IP Info und mehr.
+- **[IP Quality Score](https://www.ipqualityscore.com/free-ip-lookup-proxy-vpn-test "IP Quality Score")** ■■■■□□<br/>
+IP-Adressen auf Nutzung von VPN, Proxy oder TOR überprüfen.
 - **[MX Toolbox](https://mxtoolbox.com/NetworkTools.aspx "MX Toolsbox")**<br/>
 45+ Netzwerk Tools ermöglichen Recherchen zu Domains, IP-Adressen, E-Mails und mehr.
 - **[IP Info](https://ipinfo.io/ "IP Info")**<br/>
@@ -88,6 +90,8 @@ Schnelles auffinden von Subdomains mittels DNS Recon.
 Ein Script zum Auffinden von Subdomains-
 
 ## 📑 BACKLINK & TRAFFIC ANALYSE
+- **[Redirect Detective](https://redirectdetective.com/ "Redirect Detective")** ■■■■□□<br/>
+Püft die Weiterleitung von URL-Shortnern wie Bit.ly.
 - **[Open Link Profiler](https://www.openlinkprofiler.org/ "Open Link Profiler")** ■■■■■□<br/>
 Findet Backlinks einer Domain, um zu ermitteln, wo eine Zieldomain überall verlinkt wurde.
 - **[SEO Spyglass](https://www.link-assistant.com/seo-spyglass/free-backlink-checker-tool.html "SEO Spyglass")**<br/>

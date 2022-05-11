@@ -90,6 +90,8 @@ Findet OnlyFans Profile anhand von Namen oder Kategorien.
 Findet Fotos auf VK anhand von Geodaten.
 
 ## 📑 SONSTIGES
+- **[Social Searcher](https://www.social-searcher.com/ "Social Searcher")** [P]<br/>
+Suche nach schlagworten in 12 sozialen Netzwerken.
 - **[Digital Business Card CSE](https://cse.google.com/cse?cx=bee58a1c31f451e4a "Digital Business Card CSE")**<br/>
 Durchsucht typische Webseiten & Verzeichnisse nach digitalen Visitenkarten.
 - **[Export Comments](https://exportcomments.com/ "Export Comments")**<br/>

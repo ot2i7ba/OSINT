@@ -36,16 +36,20 @@ Generiert Videos in 50+ Sprache mit Video Script.
 Ein Tool zur Generierung zufälliger Nutzerdaten für Sockenpuppen.
 
 ## 📑 E-MAIL ANBIETER
+- **[Proton Mail](https://protonmail.com/de/ "Proton Mail")** ■■■■■□<br/>
+Sicherer E-Mail-Dienst aus der Schweiz.
+
+## 📑 TRASHMAIL
+- **[Byom](https://www.byom.de/ "Byom")**<br/>
+Generiert kostenlos temporäre Einweg-E-Mail-Adresse mit einer Lebenszeit von 60 Minuten.
+- **[Xitroo](https://xitroo.de/view/#627b43bdbcc4651a25309d82 "Xitroo")**<br/>
+Generiert kostenlos temporäre Einweg-E-Mail-Adresse mit einer Lebenszeit von 60 Minuten.
 - **[Simple Login](https://simplelogin.io/ "Simple Login")** ■■■■□□<br/>
 Generiert E-Mail-Aliasse und hält dadurch die Hauptadresse frei von Spam. Hilft dadurch auch anonym zu bleiben.
 - **[Guerrilla Mail](https://www.guerrillamail.com/de/ "Guerrilla Mail")** ■■■■■□<br/>
 Generiert kostenlos temporäre Einweg-E-Mail-Adresse mit einer Lebenszeit von 60 Minuten.
 - **[Müll Mail](https://muellmail.com/ "Müll Mail")**<br/>
 Generiert kostenlos temporäre Einweg-E-Mail-Adresse mit einer Lebenszeit von 10+ Minuten.
-- **[Byom](https://www.byom.de/ "Byom")**<br/>
-Generiert kostenlos temporäre Einweg-E-Mail-Adresse mit einer Lebenszeit von 60 Minuten.
-- **[Proton Mail](https://protonmail.com/de/ "Proton Mail")** ■■■■■□<br/>
-Sicherer E-Mail-Dienst aus der Schweiz.
 
 ## 📑 BURNER SIM/PHONE/PAYMENT
 - **[Privacy](https://privacy.com/ "Privacy")**<br/>
