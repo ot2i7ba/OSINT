@@ -48,6 +48,8 @@ Offenbart Klartext zu MD5, SHA-1, SHA-256 und mehr anhand von bereits bekannten 
 Sucht Klartext zu MD5 Hashes aus bekannten Ressourcen.
 
 ## 📑 SONSTIGE DIENSTE
+- **[Breaches](https://breaches.net/ "Breaches")** ■■■■■□<br/>
+Eine umfassende Datenbank mit Informationen zu 1000+ Breaches.
 - **[Many Passwords](https://many-passwords.github.io/ "Many Passwords")**<br/>
 Mehr als 2700+ Standard Passwörter diverser IoT Devices.
 - **[BugMeNot](http://bugmenot.com/ "BugMeNot")** ■■□□□□<br/>
