@@ -28,6 +28,8 @@ Soar Earth ist dabei, den größten digitalen Atlas mit Weltkarten und Bildern z
 Sucht frei verfügbare Satellitenbildern und bietet viele Filtermöglichkeiten.
 - **[Farearth.com](http://observer.farearth.com/observer/ "Farearth.com")** ■■■□□□<br/>
 Live Bilder und Echtzeitdaten von Landsat-Satelliten.
+- **[Geo Portal NRW](https://www.geoportal.nrw/ "Geo Portal NRW")** ■■■■■■<br/>
+Umfangreiches Kartenmaterial vom Land NRW.
 
 ## 📑 ROUTEN SICHTEN
 - **[Show My Street](https://showmystreet.com/ "Show My Street")** ■■■■□□<br/>
