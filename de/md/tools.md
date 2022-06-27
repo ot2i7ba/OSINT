@@ -52,6 +52,8 @@ Eine gut strukturierte OSINT Map. Von [Malfrat](https://github.com/Malfrats "Mal
 Start.me Linksammlung zum Thema OSINT. Von [Bashinho](https://start.me/u/8ybqlQ "Bashinho Videos").
 - **[OSINT Combine](https://www.osintcombine.com/tools "OSINT Combine Tools")**<br/>
 Nützliche und kostenlose Recherchetools. Von [OSINT Combine](https://www.osintcombine.com/ "OSINT Combine").
+- **[OSINT Jobs - Beginner Guide 2022](https://www.osint-jobs.com/post/the-ultimate-beginners-guide-to-osint "OSINT Jobs - Beginner Guide 2022")**<br/>
+Der uzltimative Beginners Guide 2022. Von [OSINT Jobs](https://www.osint-jobs.com/ "OSINT Jobs").
 
 ## 📑 NUTZERNAMEN
 - **[Maigret](https://github.com/soxoj/maigret "Maigret")** [P]<br/>

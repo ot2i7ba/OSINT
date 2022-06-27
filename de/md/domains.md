@@ -28,6 +28,8 @@ Informationen zu IP-Adressen, AS Nummern, Mobile Carrier Detection und IP Geoloc
 Gezielte Suche liefert ausführliche Informationen zu Hosts und Zertifikaten.
 - **[Shodan](https://www.shodan.io/ "Shodan")** [R], [€$] ■■■■■■<br/>
 Die Suchmaschine für Internet of Everything, das „Google“ für Hacker.
+- **[CriminalIP.io](https://www.criminalip.io/ "CriminalIP.io")** ■■■■■■<br/>
+Ausführliche Informationen zu IP-Adressen, Domains etc., Shodan ähnlich.
 - **[Natlas](https://natlas.io/ "Natlas")**<br/>
 Recherchemöglichkeit für IP-Adressen. Scant Hosts nach Services.
 - **[Host.io](https://host.io/ "Host.io")** ■■■■□□<br/>
@@ -105,6 +107,8 @@ Analysiert den Traffic einer Webseite.
 - **[Google Hacking Database](https://www.exploit-db.com/google-hacking-database "Google Hacking Database")** ■■■■■■<br/>
 Das größte Google Dorks Archiv im Netz. Hier werden teils brisante Dorks nach Kategorien gelistet.
 - **[Investigator](https://abhijithb200.github.io/investigator/ "Investigator - A recon tool")** ■■■■■□<br/>
+Einfache Recherche mittels vordefinierter Google Dorks zu einer Domain.
+- **[Dorksearch](https://dorksearch.com/ "Dorksearch")** ■■■■■□<br/>
 Einfache Recherche mittels vordefinierter Google Dorks zu einer Domain.
 - **[Bug Bounty Helper](https://dorks.faisalahmed.me/ "Bug Bounty Helper")**<br/>
 Ebenfalls ein Google Dork Service, jedoch nicht mehr ganz aktuell.

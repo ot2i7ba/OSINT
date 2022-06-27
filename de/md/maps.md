@@ -59,7 +59,19 @@ Zeigt auf Flickr veröffentlichte Bilder auf einer Karte an.
 - **[Skylens](https://app.skylens.io/ "Skylens")** ■■■■■□<br/>
 Zeigt Beiträge aus Twitter, Youtube, Instagram, Flickr, kontakte und Weibo auf einer Karte an.
 
+## 📑 NETZWERKE
+- **[Breitband Monitor](https://www.breitband-monitor.de/mobilfunkmonitoring/karte "Breitband Monitor")** ■■■■■□<br/>
+Mobilfunk-Monitoring und Kartendarstellung der Bundesnetzagentur.
+- **[Funktechnik EMF](https://www.bundesnetzagentur.de/DE/Vportal/TK/Funktechnik/EMF/start.html "Funktechnik EMF")** ■■■■■□<br/>
+Kartendarstellung elektromagnetischer Felder (EMF) der Bundesnetzagentur.
+- **[Breitbandmessung](https://www.breitbandmessung.de/kartenansicht-funkloch "Breitbandmessung")** ■■■■□□<br/>
+Kartendarstellung von Funklöchern - unter Umständen keine vollständige Auskunft.
+- **[Wigle](https://www.wigle.net/ "Wireless Network Mapping")** ■■■■■□<br/>
+Darstellung von WiFi und Bluetooth Netzen auf einer Karte. Rückwärtssuche anhand von MAC möglich.
+
 ## 📑 SONSTIGES
+- **[What 3 Words](https://what3words.com/abheben.amtlichen.gesetz "What 3 Words")** ■□□□□□<br/>
+Dreiwortadressen für geschäftliche oder private Zwecke. Darstellung von Koordinaten als merkbare Wörter.
 - **[Snazzy Maps Builder](https://snazzymaps.com/build-a-map "Snazzy Maps Builder")** ■■■□□□<br/>
 Erstellt eine Karte mit selbst definierten Attributen. Kann für Berichte genutzt werden.
 - **[Newspaper Map](https://newspapermap.com/ "Newspaper Map")**<br/>
@@ -80,8 +92,6 @@ Darstellung von Mobilfunkdatensätzen zur Ermittlung von Position und Abdeckung 
 Welche Sprache wird wo auf der Welt gesprochen? Diese Map sagt es Dir.
 - **[Webcam Taxi](https://www.webcamtaxi.com/en/germany.html "Webcam Taxi")** ■■□□□□<br/>
 Darstellung frei zugänglicher Webcams auf einer Karte.
-- **[Wigle](https://www.wigle.net/ "Wireless Network Mapping")** ■■■■■■<br/>
-Darstellung von WiFi und Bluetooth Netzen auf einer Karte. Rückwärtssuche anhand von MAC möglich.
 
 <br/><br/>
 >### 📌 LEGENDE
