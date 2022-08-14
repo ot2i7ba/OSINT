@@ -17,14 +17,14 @@ Speziell Telegram ist längst mehr als nur ein Instant-Messaging-Dienst. Zum The
 - **[Library](https://t.me/library_Sec "Library - CyberSecurity & Pentesting Testing")**<br/>
 
 ## 📑 TELEGRAM BOTS
-- **[info_baza](https://t.me/info_baza_bot "info_baza")**<br/>
-- **[getfb_bot](https://t.me/getfb_bot "getfb_bot")**<br/>
-- **[UniversalSearchBot](https://t.me/UniversalSearchBot "UniversalSearchBot")**<br/>
-- **[Maigret OSINT bot](https://t.me/maigret_osint_bot "Maigret OSINT bot")**<br/>
-- **[AID ID CHEKER](https://t.me/CheckID_AIDbot "AID ID CHEKER")**<br/>
-- **[userinfobot](https://t.me/userinfobot "userinfobot")**<br/>
-- **[TgAnalyst_bot](https://t.me/TgAnalyst_bot "TgAnalyst_bot")**<br/>
-- **[India People](https://t.me/indiapeoplebot "India People")**<br/>
+- **[info_baza](https://t.me/info_baza_bot "info_baza")** `Bot`<br/>
+- **[getfb_bot](https://t.me/getfb_bot "getfb_bot")** `Bot`<br/>
+- **[UniversalSearchBot](https://t.me/UniversalSearchBot "UniversalSearchBot")** `Bot`<br/>
+- **[Maigret OSINT bot](https://t.me/maigret_osint_bot "Maigret OSINT bot")** `Bot`<br/>
+- **[AID ID CHEKER](https://t.me/CheckID_AIDbot "AID ID CHEKER")** `Bot`<br/>
+- **[userinfobot](https://t.me/userinfobot "userinfobot")** `Bot`<br/>
+- **[TgAnalyst_bot](https://t.me/TgAnalyst_bot "TgAnalyst_bot")** `Bot`<br/>
+- **[India People](https://t.me/indiapeoplebot "India People")** `Bot`<br/>
 
 <br/><br/>
 >### 📌 LEGENDE

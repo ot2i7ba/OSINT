@@ -42,25 +42,25 @@ Durchsucht Instagram-Bios nach Schlagworten. Nützlich um z.B. Nutzer gewisser G
 Anonymer Instagram-Story-Viewer. Online-Ansicht von Profilen, Reels, Stores, Followern und markierten Posts.
 - **[Ninja Outreach](https://ninjaoutreach.com/ "Ninja Outreach")**<br/>
 Analysiert Instagram Profile anhand von Nutzername oder Schlagwort, findet „Influencer“.
-- **[instaloctrack](https://github.com/bernsteining/instaloctrack "instaloctrack")** [P]<br/>
+- **[instaloctrack](https://github.com/bernsteining/instaloctrack "instaloctrack")** `P`<br/>
 Ein Tool zum scrapen von Geotagged-Standorten in Instagram-Profilen. Ausgabe in JSON & interaktive Karte.
-- **[sterraxcyl](https://github.com/novitae/sterraxcyl "sterraxcyl")** [P]<br/>
+- **[sterraxcyl](https://github.com/novitae/sterraxcyl "sterraxcyl")** `P`<br/>
 Ein SOCMINT-Tool, um Informationen zu den Followern einesInstagram-Kontos zu erhalten.
-- **[toutatis](https://github.com/megadose/toutatis "toutatis")** [P]<br/>
+- **[toutatis](https://github.com/megadose/toutatis "toutatis")** `P`<br/>
 Extrahiert Informationen aus Instagram-Konten wie E-Mails, Telefonnummern und mehr.
 - **[Picuki](https://www.picuki.com/ "Picuki")**<br/>
 Durchsucht Instagram anhand von Nutzernamen, Tags, Standorten.
 - **[Insta Hunt](https://instahunt.co/ "Insta Hunt")**<br/>
 Findet Instagram Posts anhand von Geodaten und definierter Bereiche.
-- **[Tenai](https://github.com/novitae/Tenai "Tenai")** [P]<br/>
+- **[Tenai](https://github.com/novitae/Tenai "Tenai")** `P`<br/>
 Enntarnt 'teilweise' Follower privater Instagram Profile.
 
 ## 📑 TIKTOK
 - **[TikTok Timestamp](https://bellingcat.github.io/tiktok-timestamp/ "TikTok Timestamp")**<br/>
 Bestimmt den Zeitpunkt der Veröffentlichung eines TikTok Videos.
-- **[TikTok Scraper](https://github.com/sauermar/Tiktok-Scraper "TikTok Scraper")** [P]<br/>
+- **[TikTok Scraper](https://github.com/sauermar/Tiktok-Scraper "TikTok Scraper")** `P`<br/>
 Extrahier Informationen zu Benutzer, Videos, Kanälen basierend auf Hastags und Profilen. [Apify](https://apify.com/sauermar/Tiktok-Scraper "TikTok Scraper")
-- **[TikTok Scraper](https://github.com/drawrowfly/tiktok-scraper "TikTok Scraper")** [P]<br/>
+- **[TikTok Scraper](https://github.com/drawrowfly/tiktok-scraper "TikTok Scraper")** `P`<br/>
 Ohne Login oder Passwort Medien und Metainformationen scrapen.
 - **[UrleBird](https://urlebird.com/de/ "UrleBird")**<br/>
 Benutzer, Videos, Hashtags und Musik leicht durchsuchen, ohne Account.
@@ -90,7 +90,7 @@ Findet OnlyFans Profile anhand von Namen oder Kategorien.
 Findet Fotos auf VK anhand von Geodaten.
 
 ## 📑 SONSTIGES
-- **[Social Searcher](https://www.social-searcher.com/ "Social Searcher")** [P]<br/>
+- **[Social Searcher](https://www.social-searcher.com/ "Social Searcher")** `P`<br/>
 Suche nach schlagworten in 12 sozialen Netzwerken.
 - **[Digital Business Card CSE](https://cse.google.com/cse?cx=bee58a1c31f451e4a "Digital Business Card CSE")**<br/>
 Durchsucht typische Webseiten & Verzeichnisse nach digitalen Visitenkarten.
@@ -98,9 +98,9 @@ Durchsucht typische Webseiten & Verzeichnisse nach digitalen Visitenkarten.
 Exportiert frei zugängliche Kommentare aus sozialen Netzwerken in eine Excel-Datei.
 - **[Social Blade](https://socialblade.com/ "Social Blade")**<br/>
 Social Blade verfolgt Benutzerstatistiken für YouTube, Twitch, Instagram und Twitter.
-- **[Ignorant](https://github.com/megadose/ignorant "Ignorant")** [P]<br/>
+- **[Ignorant](https://github.com/megadose/ignorant "Ignorant")** `P`<br/>
 Prüft Rufnummern auf Verwendung in Snapchat & Instagram.
-- **[Infoooze](https://github.com/7orp3do/infoooze "Infoooze")** [P]<br/>
+- **[Infoooze](https://github.com/7orp3do/infoooze "Infoooze")** `P`<br/>
 Vereint viele OSINT Basics in einem Tool.
 
 <br/><br/>

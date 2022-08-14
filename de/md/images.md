@@ -14,7 +14,7 @@ Rückwärtssuche nach Portrait-Fotos der Visual Geometry Group.
 Rückwärtssuche nach visuell ähnliche Bilder im Internet.
 - **[Search4Faces](https://search4faces.com/ "Search4Faces")**<br/>
 Search4faces ist ein Dienst zum Auffinden von Personen im Internet durch Fotografie.
-- **[Lampyre](https://lampyre.io/ "Lampyre.io")** [R], [€$], [DEL] ■■■■■■<br/>
+- **[Lampyre](https://lampyre.io/ "Lampyre.io")** `R` `€$` `DEL` ■■■■■■<br/>
 Rückwärtssuche nach Profilbildern. Ein Account wird benötigt!
 - **[Beta Face API](https://www.betafaceapi.com/ "Beta Face API")**<br/>
 Gesichtserkennung, Gesichtsanalyse, biometrische Messungen & Verifizierung.
@@ -42,6 +42,8 @@ AI zur Verbesserung von Auflösungen ohne Qualitätsverlust.
 ## 📑 SONSTIGES
 - **[Cleanup Pictures](https://cleanup.pictures/ "Cleanup Pictures")**  ■■■□□□<br/>
 Entfernt Objekte, Menschen, Text oder Fehler aus bildern. Kann so Suchen vereinfachen.
+- **[Photoroom](https://www.photoroom.com/tools/blur-background/ "Blur Background")**  ■■■□□□<br/>
+Fürgt einem Bild Hintergrundschärfe (Blur) hinzu, um Suchen zu verfeinern.
 - **[Dotspotter](https://www.forensicdots.de/ "Dotspotter")**<br/>
 Identifiziert Tracking-Dots (MIC) auf einem gescannten Dokument.
 

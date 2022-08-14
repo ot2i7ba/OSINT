@@ -30,9 +30,9 @@ Male das gewünschte Gesicht grob auf und lass die AI daraus ein Bild generieren
 Generiert aus einem hochgeladenen Bild, ein ähnlich aussehendes mittels AI generiertes Bild.
 - **[Generated Photos](https://generated.photos/face-generator/ "Generated Photos - Face Generator")**<br/>
 In Echtzeit generierte Gesichter, deren Parameter umfangreich definiert werden können.
-- **[Synthesia](https://synthesia.io/free-ai-video-demo "Synthesia")** [R]<br/>
+- **[Synthesia](https://synthesia.io/free-ai-video-demo "Synthesia")** `R`<br/>
 Generiert Videos in 50+ Sprache mit Video Script.
-- **[Rug](https://github.com/rly0nheart/rug "Rug")** [P]<br/>
+- **[Rug](https://github.com/rly0nheart/rug "Rug")** `P`<br/>
 Ein Tool zur Generierung zufälliger Nutzerdaten für Sockenpuppen.
 
 ## 📑 E-MAIL ANBIETER

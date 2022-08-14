@@ -26,7 +26,7 @@ IP-Adressen auf Nutzung von VPN, Proxy oder TOR überprüfen.
 Informationen zu IP-Adressen, AS Nummern, Mobile Carrier Detection und IP Geolocation.
 - **[Censys](https://search.censys.io/ "Censys")**<br/>
 Gezielte Suche liefert ausführliche Informationen zu Hosts und Zertifikaten.
-- **[Shodan](https://www.shodan.io/ "Shodan")** `R`, `€$` ■■■■■■<br/>
+- **[Shodan](https://www.shodan.io/ "Shodan")** `R` `€$` ■■■■■■<br/>
 Die Suchmaschine für Internet of Everything, das „Google“ für Hacker.
 - **[CriminalIP.io](https://www.criminalip.io/ "CriminalIP.io")** ■■■■■■<br/>
 Ausführliche Informationen zu IP-Adressen, Domains etc., Shodan ähnlich.
@@ -36,7 +36,7 @@ Recherchemöglichkeit für IP-Adressen. Scant Hosts nach Services.
 Mächtige und sehr schnelle Domain Name Data API.
 
 ## 📑 DOMAIN / IP WHOIS
-- **[Domaintools](https://research.domaintools.com/ "Domaintools")** `R`, `€$` ■■■■■□<br/>
+- **[Domaintools](https://research.domaintools.com/ "Domaintools")** `R` `€$` ■■■■■□<br/>
 Ermöglicht Whois Abfrage. Ein bezahlter Account bietet Whois und Hosting History als Report.
 - **[ICANN Lookup](https://lookup.icann.org/ "ICANN Lookup")**<br/>
 Whois Service der Internet Corporation for Assigned Names and Numbers. Unterstützt nicht jede TLD.
@@ -134,6 +134,12 @@ Ein weiterer Dienst zur Identifizierung eingesetzter Technik einer Webseite.
 ## 📑 ZERTIFIKATE
 - **[Certificate Search](https://crt.sh/ "Certificate Search")**<br/>
 Analysiert eingesetzte Zertifikate einer Domain. Ermöglicht eine Rückwärtssuche nach bekannten Zertifikaten.
+
+## 📑 IoT / DEVICES
+- **[Shodan](https://www.shodan.io/ "Shodan")** `R` `€$` ■■■■■■<br/>
+Die Suchmaschine für Internet of Everything, das „Google“ für Hacker.
+- **[Zoomeye](https://www.zoomeye.org/ "Zoomeye")** `R` `€$` ■■■■■□<br/>
+Weitere Suchmaschine für das Internet of Everything.
 
 ## 📑 SONSTIGES
 - **[Down for Everyone or Just Me](https://downforeveryoneorjustme.com/ "Down for Everyone or Just Me")**<br/>

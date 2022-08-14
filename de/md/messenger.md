@@ -14,11 +14,11 @@ Prüft Rufnummern & Online-Status. Zeigt Profilbilder, ohne WhatsApp zu nutzen. 
 Analysiert telegram Kanäle und ermöglicht die Suche in offenen Kanälen/Gruppe/Chats.
 - **[SMAT App](https://www.smat-app.com/search?searchTerm=osint&startDate=2021-06-29&endDate=2021-12-29&websites=telegram&numberOf=10&interval=day&limit=1000&changepoint=false "SMAT App")** ■■■■■□<br/>
 Ideales Tool zur Schlagwortsuche in öffentlich zugänglichen Kanälen, Gruppen und Chats.
-- **[Telegram Nearby Map](https://github.com/tejado/telegram-nearby-map "Telegram Nearby Map")** [P]<br/>
+- **[Telegram Nearby Map](https://github.com/tejado/telegram-nearby-map "Telegram Nearby Map")** `P`<br/>
 Stellt die Position von Benutzern in der Nähe auf einer Karte dar.
 - **[Recorded Telegram](https://api.recordedtelegram.com/ "Recorded Telegram")** ■■■□□□<br/>
 Eine erweiterte Suchmaschine, welche speziell auf Telegram ausgerichtet ist.
-- **[Telepathy](https://github.com/jordanwildon/Telepathy "Telepathy")** [P] ■■■□□□<br/>
+- **[Telepathy](https://github.com/jordanwildon/Telepathy "Telepathy")** `P` ■■■□□□<br/>
 Tool zum scrapen von Telegram Daten. Speichert Namen, Nachrichten, Weiterleitungen etc. in CSV ab.
 
 ## 📑 SKYPE

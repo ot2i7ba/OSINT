@@ -10,7 +10,7 @@ Eine Sammlung von Links zu Werkzeugen, welche der Informationsgewinnung zu Rufnu
 Prüft den status einer Rufnummer, ob diese in Bezug auf Fraud bekannt ist.
 
 ## 📑 API ABFRAGEN
-- **[Lampyre](https://lampyre.io/ "Lampyre.io")** [R], [€$], [DEL] ■■■■■■<br/>
+- **[Lampyre](https://lampyre.io/ "Lampyre.io")** `R` `€$` `DEL` ■■■■■■<br/>
 Bezieht Daten aus offenen Quellen unter Verwendung von E-Mail-Adresse, Telefonnummer, IP-Adresse, Domainname usw.
 
 <br/><br/>

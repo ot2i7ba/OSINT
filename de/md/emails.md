@@ -26,8 +26,10 @@ Kostenloses Tool zur Überprüfung auf Gültigkeit und Existenz. Prüft Adressen
 Kostenloses Tool zur Überprüfung auf Gültigkeit und Existenz.
 - **[Snov.io Verifier](https://snov.io/email-verifier "Snov.io Verifier")** ■■■■■□<br/>
 Überprüft E-Mail-Adressen auf Gültigkeit und Existenz. Massenabfrage (Bulk) möglich.
-- **[IP Quality Score](https://www.ipqualityscore.com/ "IP Quality Score")** [€$] ■■■□□□<br/>
+- **[IP Quality Score](https://www.ipqualityscore.com/ "IP Quality Score")** `€$` ■■■□□□<br/>
 Verifiziert E-Mails adressen, Rufnummern und bietet Anti Fraud Tools.
+- **[Been Verified](https://www.beenverified.com/ "Been Verified")** `R` `€$` `VPN` ■■■□□□<br/><br/>
+US-Service identifiziert Personen anhand offener Quellen.
 
 ## 📑 DOMAINS, ZERTIFIKATE & VERSCHLÜSSELUNG
 - **[MIT PGP Public Key Server](https://pgp.mit.edu/ "MIT PGP Public Key Server")** ■■■■□□<br/>
@@ -38,7 +40,7 @@ Analysiert eingesetzte Zertifikate einer Domain. Ermöglicht eine Rückwärtssuc
 Abfrage, ob bekannte E-Mail-Adresse zur Registrierung einer Domain genutzt worden ist.
 
 ## 📑 PROVIDER SERVICE TOOLS
-- **[Lampyre](https://lampyre.io/ "Lampyre.io")** [R], [€$], [DEL] ■■■■■■<br/>
+- **[Lampyre](https://lampyre.io/ "Lampyre.io")** `R` `€$` `DEL` ■■■■■■<br/>
 Bezieht Daten aus offenen Quellen unter Verwendung von E-Mail-Adresse, Telefonnummer, IP-Adresse, Domainname usw.
 - **[Epieos Tools](https://tools.epieos.com/ "Epieos Tools - E-Mail Lookup")** ■■■■■■<br/>
 Passives Tool zur Abtragung von Diensten im Zusammenhang mit einer E-Mail-Adresse.
