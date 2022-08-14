@@ -26,7 +26,7 @@ IP-Adressen auf Nutzung von VPN, Proxy oder TOR überprüfen.
 Informationen zu IP-Adressen, AS Nummern, Mobile Carrier Detection und IP Geolocation.
 - **[Censys](https://search.censys.io/ "Censys")**<br/>
 Gezielte Suche liefert ausführliche Informationen zu Hosts und Zertifikaten.
-- **[Shodan](https://www.shodan.io/ "Shodan")** [R], [€$] ■■■■■■<br/>
+- **[Shodan](https://www.shodan.io/ "Shodan")** `R`, `€$` ■■■■■■<br/>
 Die Suchmaschine für Internet of Everything, das „Google“ für Hacker.
 - **[CriminalIP.io](https://www.criminalip.io/ "CriminalIP.io")** ■■■■■■<br/>
 Ausführliche Informationen zu IP-Adressen, Domains etc., Shodan ähnlich.
@@ -36,7 +36,7 @@ Recherchemöglichkeit für IP-Adressen. Scant Hosts nach Services.
 Mächtige und sehr schnelle Domain Name Data API.
 
 ## 📑 DOMAIN / IP WHOIS
-- **[Domaintools](https://research.domaintools.com/ "Domaintools")** [R], [€$] ■■■■■□<br/>
+- **[Domaintools](https://research.domaintools.com/ "Domaintools")** `R`, `€$` ■■■■■□<br/>
 Ermöglicht Whois Abfrage. Ein bezahlter Account bietet Whois und Hosting History als Report.
 - **[ICANN Lookup](https://lookup.icann.org/ "ICANN Lookup")**<br/>
 Whois Service der Internet Corporation for Assigned Names and Numbers. Unterstützt nicht jede TLD.
@@ -80,7 +80,7 @@ Bietet neben DNS-Record-Lookup 20+ weitere Netzwerk Tools.
 Visuelle Darstellung von DNS-Abfragen. Download als .png und .svg möglich.
 
 ## 📑 SUBDOMAINS FINDEN
-- **[MayorSecDNSScan](https://github.com/dievus/msdnsscan "MayorSecDNSScan")** [P]<br/>
+- **[MayorSecDNSScan](https://github.com/dievus/msdnsscan "MayorSecDNSScan")** `P`<br/>
 Prüft die DNS-Einträge einer Domain Domain auf Zonenübertragungen und spürt Subdomains auf.
 - **[Nmmapper Subdomain Finder](https://www.nmmapper.com/sys/tools/subdomainfinder/ "Nmmapper Subdomain Finder")**<br/>
 Findet Subdomains unter Zuhilfenahme mehrerer, parallel laufender Abfragedienste.
@@ -88,7 +88,7 @@ Findet Subdomains unter Zuhilfenahme mehrerer, parallel laufender Abfragedienste
 Simpler Subdomain Finder von Spyse.
 - **[OSINT.sh - Subdomain Finder](https://osint.sh/subdomain/ "OSINT.sh - Subdomain Finder")**<br/>
 Schnelles auffinden von Subdomains mittels DNS Recon.
-- **[DOME](https://github.com/v4d1/Dome "A subdomain enumeration tool")** [P]<br/>
+- **[DOME](https://github.com/v4d1/Dome "A subdomain enumeration tool")** `P`<br/>
 Ein Script zum Auffinden von Subdomains-
 
 ## 📑 BACKLINK & TRAFFIC ANALYSE
@@ -116,7 +116,7 @@ Ebenfalls ein Google Dork Service, jedoch nicht mehr ganz aktuell.
 Sicherheitscheck auf bekannte Schwachstellen und HTTP-Sicherheitsheader.
 - **[Virus Total](https://www.virustotal.com/ "Virus Total")**<br/>
 Dieser Dienst prüft nicht nur auf Schadcode, sondern liefert auch Domain Details.
-- **[msdorkdump](https://github.com/dievus/msdorkdump "msdorkdump")** [P]<br/>
+- **[msdorkdump](https://github.com/dievus/msdorkdump "msdorkdump")** `P`<br/>
 Ein Google Dork File Finder der eine Domain nach pdf, doc, docx etc. scannt und diese runterlädt.
 
 ## 📑 TECHNIK CHECK
@@ -147,7 +147,7 @@ Ein Webinterface, um Webseiten zu scrapen (durchsuchen) und Baumdiagram darzuste
 
 <br/><br/>
 >### 📌 LEGENDE
->`P` > Python Script, `R` > Regiestrierung nötig/vorteilhaft, `$/€` > kostenpflichtig<br/>`VPN` > VPN ratsam, `Bot` Bot Service, `Tor` Onion Site, `DEL` Fake Account löschen!
+>`P` > Python Script, `R` > Regiestrierung nötig/vorteilhaft, `€$` > kostenpflichtig<br/>`VPN` > VPN ratsam, `Bot` Bot Service, `Tor` Onion Site, `DEL` Fake Account löschen!
 
 <br/>
 <div align="left">

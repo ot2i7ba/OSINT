@@ -26,7 +26,7 @@ Kostenloses Tool zur Überprüfung auf Gültigkeit und Existenz. Prüft Adressen
 Kostenloses Tool zur Überprüfung auf Gültigkeit und Existenz.
 - **[Snov.io Verifier](https://snov.io/email-verifier "Snov.io Verifier")** ■■■■■□<br/>
 Überprüft E-Mail-Adressen auf Gültigkeit und Existenz. Massenabfrage (Bulk) möglich.
-- **[IP Quality Score](https://www.ipqualityscore.com/ "IP Quality Score")** [R>[P] > Python Script, [R] > Regiestrierung nötig/vorteilhaft, [€$] > kostenpflichtig<br/>[VPN] > VPN ratsam, [BOT] Bot Service, [TOR] Onion Site, [DEL] Fake Account löschen!] [€$] ■■■□□□<br/>
+- **[IP Quality Score](https://www.ipqualityscore.com/ "IP Quality Score")** [€$] ■■■□□□<br/>
 Verifiziert E-Mails adressen, Rufnummern und bietet Anti Fraud Tools.
 
 ## 📑 DOMAINS, ZERTIFIKATE & VERSCHLÜSSELUNG
@@ -44,13 +44,13 @@ Bezieht Daten aus offenen Quellen unter Verwendung von E-Mail-Adresse, Telefonnu
 Passives Tool zur Abtragung von Diensten im Zusammenhang mit einer E-Mail-Adresse.
 - **[E-Mail Sherlock](https://www.emailsherlock.com "E-Mail Sherlock")** ■■■■□□<br/>
 Findet herraus, mit welchen Webseiten eine E-Mail Adresse verlinkt ist.
-- **[email2phonenumber](https://github.com/martinvigo/email2phonenumber "email2phonenumber")** [P] ■■■■□□<br/>
+- **[email2phonenumber](https://github.com/martinvigo/email2phonenumber "email2phonenumber")** `P` ■■■■□□<br/>
 Versucht anhand von Password Recovery Funktionen eine Rufnummer zu rekonstruieren.
-- **[Holehe](https://github.com/megadose/holehe "Github, Holehe")** [P] ■■■■■■<br/>
+- **[Holehe](https://github.com/megadose/holehe "Github, Holehe")** `P` ■■■■■■<br/>
 Holehe prüft, ob eine E-Mail mit Konten auf Websites wie Twitter, Instagram, Imgur und mehr als 120 anderen verbunden ist.
-- **[Mailcat](https://github.com/sharsil/mailcat "Github, Mailcat")** [P] ■■■■■■<br/>
+- **[Mailcat](https://github.com/sharsil/mailcat "Github, Mailcat")** `P` ■■■■■■<br/>
 Die einzige Katze, die vorhandene E-Mail-Adressen anhand des Spitznamens finden kann.
-- **[GHunt](https://github.com/mxrch/ghunt "Github, GHunt")** [P] ■■■■■■<br/>
+- **[GHunt](https://github.com/mxrch/ghunt "Github, GHunt")** `P` ■■■■■■<br/>
 Ein modulares Tool, welches mit einer E-Mail-Adresse verknüpfte Google Dienste identifiziert.
 
 ## 📑 SONSTIGES
@@ -59,7 +59,7 @@ Veröffentlichte Informationen zu Personen, welche beispielsweise an Demonstrati
 
 <br/><br/>
 >### 📌 LEGENDE
->`P` > Python Script, `R` > Regiestrierung nötig/vorteilhaft, `$/€` > kostenpflichtig<br/>`VPN` > VPN ratsam, `Bot` Bot Service, `Tor` Onion Site, `DEL` Fake Account löschen!
+>`P` > Python Script, `R` > Regiestrierung nötig/vorteilhaft, `€$` > kostenpflichtig<br/>`VPN` > VPN ratsam, `Bot` Bot Service, `Tor` Onion Site, `DEL` Fake Account löschen!
 
 <br/>
 <div align="left">

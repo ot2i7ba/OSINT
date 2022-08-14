@@ -26,16 +26,16 @@ Ein Binance Smart Chain Explorer.
 Der einfachste Weg, Bitcoin oder andere Kryptowährungen sofort zu kaufen.
 
 ## 📑 Werkzeuge
-- **[Orbit](https://github.com/s0md3v/Orbit "Orbit")** [P]<br/>
+- **[Orbit](https://github.com/s0md3v/Orbit "Orbit")** `P`<br/>
 Entwickelt um das Netzwerk einer Wallet rekursiv zu Crawlen und visuell darzustellen.
-- **[Honeypot.is](https://honeypot.is/ "Honeypot.is")** [P]<br/>
+- **[Honeypot.is](https://honeypot.is/ "Honeypot.is")** `P`<br/>
 Honeypot Detektor für das Binance Smart Chain (BSC) Netzwerk.
-- **[Tokensniffer](https://tokensniffer.com/ "Tokensniffer")** [P]<br/>
+- **[Tokensniffer](https://tokensniffer.com/ "Tokensniffer")** `P`<br/>
 Kann Dex (Dezentraler Austausch) Exit-Betrug (rug pulls) und Scam aufdecken, wie Honeypot.is.
 
 <br/><br/>
 >### 📌 LEGENDE
->`P` > Python Script, `R` > Regiestrierung nötig/vorteilhaft, `$/€` > kostenpflichtig<br/>`VPN` > VPN ratsam, `Bot` Bot Service, `Tor` Onion Site, `DEL` Fake Account löschen!
+>`P` > Python Script, `R` > Regiestrierung nötig/vorteilhaft, `€$` > kostenpflichtig<br/>`VPN` > VPN ratsam, `Bot` Bot Service, `Tor` Onion Site, `DEL` Fake Account löschen!
 
 <br/>
 <div align="left">
