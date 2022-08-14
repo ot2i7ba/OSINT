@@ -5,7 +5,7 @@
 </div>
 
 # ℹ️ FAVORITEN
-Meine `Favoriten` fassen aktuell von mir bevorzuge Informationsquellen, Werkzeuge und Workflows im beruflichen Kontext zusammen. Dabei handelt es sich um eine persönliche Zusammenstellung, welche unter Umständen dem ein oder anderen eine Hilfe sein kann.<br/><br/>
+Meine `Favoriten` fassen aktuell von mir bevorzuge Informationsquellen, Werkzeuge und Workflows im beruflichen Kontext zusammen. Dabei handelt es sich um eine persönliche Zusammenstellung, welche unter Umständen dem ein oder anderen eine Hilfe sein kann. Es handelt sich hierbei lediglich um eine einfache Auswahl meiner priorisierten Ressourcen!<br/><br/>
 
 ## 📑 INFORMATIONSQUELLEN
 Regelmäßig besuche ich nachstehende Quellen, um mich zu Neuerungen in puncto OSINT zu informieren. Dabei handelt es sich nicht nur um statische Angebote, sondern auch um Veröffentlichungen aktiver und namhafter User der OSINT Community. Meine Twitter-Liste [OSINT](https://twitter.com/i/lists/1474157673604128772?s=20) umfasst User, welchen ich im sozialen Netzwerk folge, um von aktuellen Neuerungen zu erfahren und im Austausch zu bleiben. Um all die nachstehenden Ressourcen nutzen zu können, empfehle ich Accounts für `Twitter` und `Telegram`. Nachstehende Aufführungen sind weder vollständig, noch ist die Reihenfolge einer Wertung gleichzusetzen.
