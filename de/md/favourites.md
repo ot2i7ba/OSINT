@@ -16,10 +16,10 @@ Regelmäßig besuche ich nachstehende Quellen, um mich zu Neuerungen in puncto O
 - **Telegram Gruppen & Kanäle** `Telegram`<br/>
 [Cyber_detective](https://t.me/cybdetective), [OSINT mindset](https://t.me/osint_mindset), [FreeOSINT](https://t.me/freeosint), [HowToFind](https://t.me/HowToFind) ...
 
-- **WEBSITES, BLOGS & CO.**<br/>
+- **Webseiten, Blogs & Co.**<br/>
 [German OSINT Conference](https://gosintcon.de/), [OSINT Dojo](https://www.osintdojo.com/), [OSINT Curious](https://osintcurio.us/), [Nixintel](https://nixintel.info/), [Sector035](https://sector035.nl/), [OSINT Techniques](https://www.osinttechniques.com/), [Intel Techniques](https://inteltechniques.com/) ...
 
-- **PODCASTS**<br/>
+- **Podcats**<br/>
 [Intel Techniques](https://inteltechniques.com/podcast.html), [OSINT Podcast](https://osintpodcast.com/) ...
 
 
