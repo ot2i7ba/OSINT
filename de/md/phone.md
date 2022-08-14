@@ -15,7 +15,7 @@ Bezieht Daten aus offenen Quellen unter Verwendung von E-Mail-Adresse, Telefonnu
 
 <br/><br/>
 >### 📌 LEGENDE
->[P] > Python Script, [R] > Regiestrierung nötig/vorteilhaft, [€$] > kostenpflichtig<br/>[VPN] > VPN ratsam, [BOT] Bot Service, [TOR] Onion Site, [DEL] Fake Account löschen!
+>`P` > Python Script, `R` > Regiestrierung nötig/vorteilhaft, `$/€` > kostenpflichtig<br/>`VPN` > VPN ratsam, `Bot` Bot Service, `Tor` Onion Site, `DEL` Fake Account löschen!
 
 <br/>
 <div align="left">
