@@ -20,7 +20,7 @@ Regelmäßig besuche ich nachstehende Quellen, um mich zu Neuerungen in puncto O
 [German OSINT Conference](https://gosintcon.de/), [OSINT Dojo](https://www.osintdojo.com/), [OSINT Curious](https://osintcurio.us/), [Nixintel](https://nixintel.info/), [Sector035](https://sector035.nl/), [OSINT Techniques](https://www.osinttechniques.com/), [Intel Techniques](https://inteltechniques.com/) ...
 
 - **PODCASTS**<br/>
-[Intel Techniques](https://inteltechniques.com/podcast.html), [OSINT Podcast](https://osintpodcast.com/)
+[Intel Techniques](https://inteltechniques.com/podcast.html), [OSINT Podcast](https://osintpodcast.com/) ...
 
 
 
