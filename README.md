@@ -24,8 +24,8 @@ This is my personal OSINT collection, which specially helps me with my work. The
 ##### 👉 Use [README ENGLISH](en/README.md) for english Comments. 🚧 This collection is under construction!
 
 <br/><br/>
-## :file_folder: GRÜßE / CREDITS
-#GOSINTCon, PPHA
+## :file_folder: GRÜßE / GREETS / CREDITS
+#GOSINTCon, PPHA, [@cyb_detective](https://twitter.com/cyb_detective), [@WebBreacher](https://twitter.com/WebBreacher), [@dutch_osintguy](https://twitter.com/dutch_osintguy), [@jakecreps](https://twitter.com/jakecreps), [@bellingcat](https://twitter.com/bellingcat), [@IntelTechniques](https://twitter.com/IntelTechniques), [@epieos](https://twitter.com/epieos)
 
 ## :link: URL
 [URL](http://osint.evilnerd.de "URL"); [Keybase](https://keybase.io/ot2i "Keybase")

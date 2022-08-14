@@ -22,8 +22,6 @@ Regelmäßig besuche ich nachstehende Quellen, um mich zu Neuerungen in puncto O
 - **Podcats**<br/>
 [Intel Techniques](https://inteltechniques.com/podcast.html), [OSINT Podcast](https://osintpodcast.com/) ...
 
-
-
 <br/>
 <div align="left">
   <a href="https://github.com/ot2i7ba/OSINT/blob/main/en/README.md"><img alt="README English" src="https://img.shields.io/badge/README-English-lightgrey.svg?style=for-the-badge"></a>
