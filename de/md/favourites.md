@@ -10,8 +10,19 @@ Meine `Favoriten` fassen aktuell von mir bevorzuge Informationsquellen, Werkzeug
 ## 📑 INFORMATIONSQUELLEN
 Regelmäßig besuche ich nachstehende Quellen, um mich zu Neuerungen in puncto OSINT zu informieren. Dabei handelt es sich nicht nur um statische Angebote, sondern auch um Veröffentlichungen aktiver und namhafter User der OSINT Community. Meine Twitter-Liste [OSINT](https://twitter.com/i/lists/1474157673604128772?s=20) umfasst User, welchen ich im sozialen Netzwerk folge, um von aktuellen Neuerungen zu erfahren und im Austausch zu bleiben. Um all die nachstehenden Ressourcen nutzen zu können, empfehle ich Accounts für `Twitter` und `Telegram`. Nachstehende Aufführungen sind weder vollständig, noch ist die Reihenfolge einer Wertung gleichzusetzen.
 
-- **[Twitter OSINT Community](https://twitter.com/i/lists/1474157673604128772?s=20 "Twitter OSINT Community")** `Twitter`<br/>
+- **Twitter OSINT Community** `Twitter`<br/>
  [@cyb_detective](https://twitter.com/cyb_detective), [@OSINTDojo](https://twitter.com/OSINTDojo), [@epieos](https://twitter.com/epieos), [@OSINT_Detective](https://twitter.com/OSINT_Detective), [@nixintel](https://twitter.com/nixintel), [@OsintCurious](https://twitter.com/OsintCurious), [@Sox0j](https://twitter.com/Sox0j), [@LorandBodo](https://twitter.com/LorandBodo), [@dutch_osintguy](https://twitter.com/dutch_osintguy), [@OSINTtechniques](https://twitter.com/OSINTtechniques), [@bellingcat](https://twitter.com/bellingcat), [@WebBreacher](https://twitter.com/WebBreacher), [@IntelTechniques](https://twitter.com/IntelTechniques), [@Sector035](https://twitter.com/Sector035), [@troyhunt)](https://twitter.com/troyhunt) ...
+
+- **Telegram Gruppen & Kanäle** `Telegram`<br/>
+[Cyber_detective](https://t.me/cybdetective), [OSINT mindset](https://t.me/osint_mindset), [FreeOSINT](https://t.me/freeosint), [HowToFind](https://t.me/HowToFind) ...
+
+- **WEBSITES, BLOGS & CO.**<br/>
+[German OSINT Conference](https://gosintcon.de/), [OSINT Dojo](https://www.osintdojo.com/), [OSINT Curious](https://osintcurio.us/), [Nixintel](https://nixintel.info/), [Sector035](https://sector035.nl/), [OSINT Techniques](https://www.osinttechniques.com/), [Intel Techniques](https://inteltechniques.com/) ...
+
+- **PODCASTS**<br/>
+[Intel Techniques](https://inteltechniques.com/podcast.html), [OSINT Podcast](https://osintpodcast.com/)
+
+
 
 <br/>
 <div align="left">
