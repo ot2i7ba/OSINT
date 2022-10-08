@@ -38,12 +38,12 @@ Exif-Daten online einsehen und Unterschiede feststellen.
 ## 📑 BEARBEITUNG
 - **[Let's Enhance](https://letsenhance.io/ "Let's Enhance")**  ■■□□□□<br/>
 AI zur Verbesserung von Auflösungen ohne Qualitätsverlust.
-
-## 📑 SONSTIGES
 - **[Cleanup Pictures](https://cleanup.pictures/ "Cleanup Pictures")**  ■■■□□□<br/>
 Entfernt Objekte, Menschen, Text oder Fehler aus bildern. Kann so Suchen vereinfachen.
 - **[Photoroom](https://www.photoroom.com/tools/blur-background/ "Blur Background")**  ■■■□□□<br/>
 Fürgt einem Bild Hintergrundschärfe (Blur) hinzu, um Suchen zu verfeinern.
+
+## 📑 SONSTIGES
 - **[Dotspotter](https://www.forensicdots.de/ "Dotspotter")**<br/>
 Identifiziert Tracking-Dots (MIC) auf einem gescannten Dokument.
 

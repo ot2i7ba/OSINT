@@ -30,6 +30,8 @@ Kostenloses Tool zur Überprüfung auf Gültigkeit und Existenz.
 Verifiziert E-Mails adressen, Rufnummern und bietet Anti Fraud Tools.
 - **[Been Verified](https://www.beenverified.com/ "Been Verified")** `R` `€$` `VPN` ■■■□□□<br/><br/>
 US-Service identifiziert Personen anhand offener Quellen.
+- **[ProtOSINT](https://github.com/pixelbubble/ProtOSINT "ProtOSINT")** `P` ■■■□□□<br/><br/>
+Unterstützung zu recherchen von ProtonMail-Konten und ProtonVPN-IP-Adressen.
 
 ## 📑 DOMAINS, ZERTIFIKATE & VERSCHLÜSSELUNG
 - **[MIT PGP Public Key Server](https://pgp.mit.edu/ "MIT PGP Public Key Server")** ■■■■□□<br/>
@@ -43,7 +45,9 @@ Abfrage, ob bekannte E-Mail-Adresse zur Registrierung einer Domain genutzt worde
 - **[Lampyre](https://lampyre.io/ "Lampyre.io")** `R` `€$` `DEL` ■■■■■■<br/>
 Bezieht Daten aus offenen Quellen unter Verwendung von E-Mail-Adresse, Telefonnummer, IP-Adresse, Domainname usw.
 - **[Epieos Tools](https://tools.epieos.com/ "Epieos Tools - E-Mail Lookup")** ■■■■■■<br/>
-Passives Tool zur Abtragung von Diensten im Zusammenhang mit einer E-Mail-Adresse.
+Passives Tool zur Abfragung von Diensten im Zusammenhang mit einer E-Mail-Adresse.
+- **[Social Catfish](https://socialcatfish.com/ "Social Catfish")** `VPN` ■■■■□□<br/>
+Passives Tool zur Abfragung von Diensten im Zusammenhang mit einer E-Mail-Adresse.
 - **[E-Mail Sherlock](https://www.emailsherlock.com "E-Mail Sherlock")** ■■■■□□<br/>
 Findet herraus, mit welchen Webseiten eine E-Mail Adresse verlinkt ist.
 - **[email2phonenumber](https://github.com/martinvigo/email2phonenumber "email2phonenumber")** `P` ■■■■□□<br/>

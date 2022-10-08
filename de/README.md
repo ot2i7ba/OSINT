@@ -32,4 +32,4 @@ Um meinen Kollegen die Arbeit mit meiner Sammlung zu erleichtern, werde ich den 
 | [Werkzeuge](md/tools.md) | Sammlung von Programmen, Skripten, Anleitungen & Infos. |
 | [Telegram](md/telegram.md) | Hilfreiche Info-Kanäle und Bots für Telegram. |
 
-Meine [Favoriten](md/favourites.md) fassen aktuell von mir bevorzuge Informationsquellen, Werkzeuge und Workflows zusammen.
+<!-- Meine [Favoriten](md/favourites.md) fassen aktuell von mir bevorzuge Informationsquellen, Werkzeuge und Workflows zusammen. -->

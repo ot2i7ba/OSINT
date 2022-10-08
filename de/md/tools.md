@@ -53,7 +53,11 @@ Start.me Linksammlung zum Thema OSINT. Von [Bashinho](https://start.me/u/8ybqlQ 
 - **[OSINT Combine](https://www.osintcombine.com/tools "OSINT Combine Tools")**<br/>
 Nützliche und kostenlose Recherchetools. Von [OSINT Combine](https://www.osintcombine.com/ "OSINT Combine").
 - **[OSINT Jobs - Beginner Guide 2022](https://www.osint-jobs.com/post/the-ultimate-beginners-guide-to-osint "OSINT Jobs - Beginner Guide 2022")**<br/>
-Der uzltimative Beginners Guide 2022. Von [OSINT Jobs](https://www.osint-jobs.com/ "OSINT Jobs").
+Der ultimative Beginners Guide 2022. Von [OSINT Jobs](https://www.osint-jobs.com/ "OSINT Jobs").
+- **[OSINT Inception](https://start.me/p/Pwy0X4/osint-inception "OSINT Inception")**<br/>
+Eine OSINT Holy Grail Liste, führt zahlreiche, internationale top OSINT'er auf. Von [OSINT Tactical](https://start.me/u/q61DyQ "OSINT Tactical").
+- **[Nixintels OSINT Resource List](https://start.me/p/rx6Qj8/nixintel-s-osint-resource-list "Nixintels OSINT Resource List")**<br/>
+Die OSINT Resource List von Nixintel. Von [Nixintel](https://start.me/u/5vwqJA "Nixintel").
 
 ## 📑 NUTZERNAMEN
 - **[Maigret](https://github.com/soxoj/maigret "Maigret")** `P`<br/>
@@ -74,6 +78,12 @@ Skript zum Dumpen von Unternehmensmitarbeitern aus der XING-API. Von [l4rm4nd](h
 Stellt die Position von Benutzern in der Nähe auf einer Karte dar. Von [tejado](https://github.com/tejado "tejado").
 
 ## 📑 MULTITOOLS
+- **[Spiderfoot](https://www.spiderfoot.net/ "Spiderfoot")** `€$`<br/>
+Automatisiert OSINT für Threat Intelligence, Asset Discovery, Attack Surface Monitoring etc.
+- **[theHarvester](https://github.com/laramies/theHarvester "theHarvester")** `P`<br/>
+Sammelt Namen, E-Mails, IPs, Subdomains und URLs, indem es öffentliche Ressourcen einbezieht. Von [Christian Martorella](https://github.com/laramies "Christian Martorella").
+- **[Recon-NG](https://github.com/lanmaster53/recon-ng "Recon-NG")** `P`<br/>
+Ein voll funktionsfähiges Aufklärungs-Framework. Eine leistungsfähige Umgebung für die schnelle und gründliche Aufklärung. Von [lanmaster53](https://github.com/lanmaster53 "lanmaster53").
 - **[Project iKy](https://github.com/kennbroorg/iKy "Project iKy")** `P`<br/>
 Sammelt informationen anhand von E-Mail, Nutzername, Twitter, Instagram und mehr. Von [Kenn Brothers Org](https://github.com/kennbroorg "Kenn Brothers Org").
 
@@ -100,8 +110,6 @@ Ein unglaublich schnelles Aufklärungstool für Penetrationstester. Von [powerex
 Sammelt informationen anhand von E-Mail, Nutzername, Twitter, Instagram und mehr. Von [Hacker Target](https://github.com/pyhackertarget "Hacker Target").
 
 ## 📑 SONSTIGES
-- **[Spiderfoot](https://www.spiderfoot.net/ "Spiderfoot")** `€$`<br/>
-Automatisiert OSINT für Threat Intelligence, Asset Discovery, Attack Surface Monitoring etc.
 - **[Fact Check Explorer](https://toolbox.google.com/factcheck/explorer "Fact Check Explorer")**<br/>
 Der Fact Check Explorer von Google prüft Wahrheitsgehalt Suchtreffern.
 - **[Depix](https://github.com/beurtschipper/Depix "Depix")** `P`<br/>

@@ -130,6 +130,10 @@ Identifiziert Tracker, Widgets, CMS, Frameworks, CDN, Scripte, Werbung, DNS, Zer
 Liefert neben Ergebnissen zur eingesetzten Technik auch Informationen zur IP und Hosting History.
 - **[Larger](https://www.larger.io/ "Larger")**<br/>
 Ein weiterer Dienst zur Identifizierung eingesetzter Technik einer Webseite.
+- **[SearchCode](https://searchcode.com/ "SearchCode")**<br/>
+Durchsucht 75 Milliarden Codezeilen aus 40 Millionen Projekten nach bekanntem Code.
+- **[Grep.App](https://grep.app/ "Grep.App")**<br/>
+Durchsucht ähnlich wie SearchCode eine halbe Milliarden Git Repos.
 
 ## 📑 ZERTIFIKATE
 - **[Certificate Search](https://crt.sh/ "Certificate Search")**<br/>
