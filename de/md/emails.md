@@ -28,9 +28,9 @@ Kostenloses Tool zur Überprüfung auf Gültigkeit und Existenz.
 Überprüft E-Mail-Adressen auf Gültigkeit und Existenz. Massenabfrage (Bulk) möglich.
 - **[IP Quality Score](https://www.ipqualityscore.com/ "IP Quality Score")** `€$` ■■■□□□<br/>
 Verifiziert E-Mails adressen, Rufnummern und bietet Anti Fraud Tools.
-- **[Been Verified](https://www.beenverified.com/ "Been Verified")** `R` `€$` `VPN` ■■■□□□<br/><br/>
+- **[Been Verified](https://www.beenverified.com/ "Been Verified")** `R` `€$` `VPN` ■■■□□□<br/>
 US-Service identifiziert Personen anhand offener Quellen.
-- **[ProtOSINT](https://github.com/pixelbubble/ProtOSINT "ProtOSINT")** `P` ■■■□□□<br/><br/>
+- **[ProtOSINT](https://github.com/pixelbubble/ProtOSINT "ProtOSINT")** `P` ■■■□□□<br/>
 Unterstützung zu recherchen von ProtonMail-Konten und ProtonVPN-IP-Adressen.
 
 ## 📑 DOMAINS, ZERTIFIKATE & VERSCHLÜSSELUNG
